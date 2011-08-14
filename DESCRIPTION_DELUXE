@@ -1,20 +1,26 @@
 Original
 
-This software is a simple audio podcatcher. 
+This software is an audio podcatcher. 
 It features an elegant yet intuitive three column layout and
-basic playback functionality. Multiple feeds are supported. 
-Feeds can be searched while playing. The episode description
+complete playback functionality. Multiple feeds are supported and 
+feeds can be searched while playing. The episode description
 is displayed, supporting HTML content.
+In addition, this premium versions allows seeking in episodes,
+resumes to the last play position on restart, and adds support
+for episode filters (new/old episodes).
 Translated to English, German, French, Spanish, and Italian.
 
 German
 
-Diese Software ist ein einfacher Audio-Podcatcher.
+Diese Software ist ein Audio-Podcatcher.
 Sie verfügt über ein elegantes und dennoch intuitives Layout und
-grundlegende Wiedergabefunktionen. Mehrere Feeds werden unterstützt,
+vollständige Wiedergabefunktionen. Mehrere Feeds werden unterstützt,
 Podcasts können während des Spielens durchsucht werden. Die Episodenbeschreibung
 wird angezeigt, inklusive Unterstützung von HTML-Inhalten.
-Übersetzt nach Englisch, Deutsch, Französisch, Spanisch und Italienisch.
+Diese Premiumversion erlaubt zusätzlich das Springen in der Wiedergabe,
+die Fortsetzung der Wiedergabe am letzten Zeitpunkt beim Neustart und
+unterstützt das Filtern von Episodes (z.B. nach neu/alt bzw. ungehört/gehört).
+Übersetzt für Englisch, Deutsch, Französisch, Spanisch und Italienisch.
 
 French
 
