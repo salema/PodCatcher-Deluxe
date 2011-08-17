@@ -29,6 +29,9 @@ Il présente une mise en page intuitive sur trois colonnes et une fonction
 de lecture basique. Plusieurs flux sont disponibles et ils peuvent être recherchés
 simultanément à l'écoute. La description de l'épisode est présentée, elle
 supporte le format HTML.
+De plus, cette version premium permet de développer la recherche par épisode,
+de redémarrer la dernière écoute là où elle avait été arrêtée et ajouter un support
+pour le filtre des épisodes (nouveaux/anciens épisodes resp. écouté/non écouté).
 Traduit en anglais, allemand, français, espagnol et italien.
 
 Spanish
