@@ -7,7 +7,8 @@ feeds can be searched while playing. The episode description
 is displayed, supporting HTML content.
 In addition, this premium version allows seeking in episodes,
 resumes to the last play position on restart, and adds support
-for episode filters (new/old episodes).
+for episode filters (new/old episodes). It also introduces playlist
+support.
 Translated to English, German, French, Spanish, and Italian.
 
 German
@@ -20,6 +21,7 @@ wird angezeigt, inklusive Unterstützung von HTML-Inhalten.
 Diese Premiumversion erlaubt zusätzlich das Springen in der Wiedergabe,
 die Fortsetzung der Wiedergabe am letzten Zeitpunkt beim Neustart und
 unterstützt das Filtern von Episodes (z.B. nach neu/alt bzw. ungehört/gehört).
+Zudem bietet es die Möglichkeit zur Playlist-Erstellung.
 Übersetzt für Englisch, Deutsch, Französisch, Spanisch und Italienisch.
 
 French
