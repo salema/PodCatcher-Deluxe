@@ -1,12 +1,12 @@
 body {
 	margin-top: 1.0em;
-	background-color: #afaf71;
+	background-color: #af9fbf;
 	font-family: Helvetica, Arial, FreeSans, san-serif;
 	color: #000000;
 }
 #container {
 	margin: 0 auto;
-	width: 700px;
+	width: 800px;
 }
 h1 {
 	font-size: 3.8em;
@@ -24,7 +24,6 @@ h2 {
 	color: #50508e;
 }
 h3 {
-	text-align: center;
 	color: #50508e;
 }
 a {
