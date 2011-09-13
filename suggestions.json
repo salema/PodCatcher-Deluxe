@@ -1,0 +1,40 @@
+{
+	"featured": [{
+		"title": "Security Now! (Audio)",
+		"url": "http://leo.am/podcasts/sn",
+		"language": "English",
+		"type": "Audio",
+		"category": "Technology",
+		"description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
+	},
+	{
+		"title": "Security Now! (Video)",
+		"url": "http://feeds.twit.tv/sn_video_small",
+		"language": "English",
+		"type": "Video",
+		"category": "Technology",
+		"description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
+	}],
+	"suggestions": [{
+		"title": "Linux Outlaws",
+		"url": "http://feeds.feedburner.com/linuxoutlaws",
+		"language": "English",
+		"type": "Audio",
+		"category": "Technology",
+		"description": "Two pragmatic geeks talk about the latest news concerning Linux, free and open technology or anything else they deem noteworthy which may include such absurd things as hockey or bands you never heard of. This means there's many a joke and derailed conversation along the way, so don't come here expecting only Linux or software freedom talk — just sit back and relax, partner." 
+	},
+	{
+		"title": "Escape - Der Experte",
+		"url": "http://www.radioeins.de/archiv/podcast/escape_der_experte.feed.podcast.xml",
+		"language": "German",
+		"type": "Audio",
+		"category": "Technology"
+	},
+	{
+		"title": "Anderson Cooper 360°",
+		"url": "http://rss.cnn.com/services/podcasting/ac360/rss",
+		"language": "English",
+		"type": "Video",
+		"category": "News"
+	}]
+}
