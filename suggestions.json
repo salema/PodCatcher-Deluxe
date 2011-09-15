@@ -1,0 +1,95 @@
+{
+	"featured": [{
+		"title": "Security Now!",
+		"url": "http://leo.am/podcasts/sn",
+		"language": "English",
+		"type": "Audio",
+		"category": "Technology",
+		"description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
+	},	{
+		"title": "Security Now!",
+		"url": "http://feeds.twit.tv/sn_video_small",
+		"language": "English",
+		"type": "Video",
+		"category": "Technology",
+		"description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
+	}, {
+		"title": "Hart aber fair",
+		"url": "http://podcast.wdr.de/hartaberfair.xml",
+		"language": "German",
+		"type": "Audio",
+		"category": "News",
+		"description": "Hart aber fair: Das Reizthema!"
+	}, {
+		"title": "Quarks & Co",
+		"url": "http://podcast.wdr.de/quarks.xml",
+		"language": "German",
+		"type": "Video",
+		"category": "Technology",
+		"description": "Quarks & Co: Das Wissenschaftsmagazin mit Ranga Yogeshwar."
+	}],
+	"suggestions": [{
+		"title": "Anderson Cooper 360°",
+		"url": "http://rss.cnn.com/services/podcasting/ac360/rss",
+		"language": "English",
+		"type": "Video",
+		"category": "News",
+		"description": "\"Anderson Cooper 360° Daily\" features highlights from CNN's premier nightly news program."
+	}, {
+		"title": "BBC World Update: Daily Commute",
+		"url": "http://downloads.bbc.co.uk/podcasts/worldservice/worldupmc/rss.xml",
+		"language": "English",
+		"type": "Audio",
+		"category": "News",
+		"description": "Fresh world news, available by midday (UK time) / 7am (US Eastern) Monday-Friday. Dan Damon brings you 30 minutes of the latest interviews, reports and analysis of the day's top news. Plus Wknd Extra, every Saturday."
+	}, {
+		"title": "Eine Stunde Zeit",
+		"url": "http://www.radioeins.de/archiv/podcast/eine_stunde_zeit.feed.podcast.xml",
+		"language": "German",
+		"type": "Audio",
+		"category": "News",
+		"description": "radioeins und \"Die Zeit\" nehmen sich Eine Stunde Zeit. Zeit für einen neuen Blick auf die politischen, kulturellen und gesellschaftlichen Ereignisse der Woche. Zeit, Zusammenhänge herzustellen und zugleich intelligent zu unterhalten. Die radioeins-Moderatorinnen Anja Goerz oder Katrin Bauerfeind präsentieren den \"Kopf der Woche\", der Schlagzeilen gemacht hat oder noch machen wird. Wie der Alltag eines Volksvertreters wirklich aussieht, verraten Politiker in ihrem \"Audiotagebuch\". In den \"Themen der Zeit\" steuert jeweils ein Zeit-Autor Hintergründe zu seinem Artikel in der aktuellen Printausgabe bei. Persönliche Einblicke ermöglicht die Rubrik \"XY hat aufgelegt\", in der Politiker aktuelle CDs aus den Charts vorstellen. Abgerundet wird die Sendung mit einer Glosse des Zeit-Kolumnisten Harald Martenstein... Die Highlights der jeweiligen Sendung können Sie hier downloaden."
+	}, {
+		"title": "Escape - Der Experte",
+		"url": "http://www.radioeins.de/archiv/podcast/escape_der_experte.feed.podcast.xml",
+		"language": "German",
+		"type": "Audio",
+		"category": "Technology",
+		"description": "Wenn nichts mehr geht, geht immer noch Escape », die radioeins Multimedia-Show! Escape hilft Ihnen wenn Sie überhaupt nicht wissen, wie viel GB sie sich anschaffen sollen und ob auf xD oder MMC. Oder wenn Sie Zweifel darüber hegen, ob die Entscheidung für einen Dual-Core richtig war ob eine X800 dafür nicht etwas unterdimensioniert ist. Dafür haben Daniel Finger und Sven Oswald IHN engagiert - den Experten Georg Schnurer von der c't..."
+	}, {
+		"title": "Greenpeace Podcast",
+		"url": "http://www.greenpeace-berlin.de/fileadmin/podcast/greencast.xml",
+		"language": "German",
+		"type": "Audio",
+		"category": "News",
+		"description": "Der Greenpeace Greencast, ist der Audio-Podcast von Greenpeace Berlin. Martin Hausding berichtet wöchentlich über aktuelle Themen und Aktionen und spricht mit vielen interessanten Gästen: Vom Karrotmob um die Ecke, bis zur Atomendlagerung."
+	}, {
+		"title": "Yogamour - der Yoga Video Podcast",
+		"url": "http://feeds.feedburner.com/yogamour-m",
+		"language": "German",
+		"type": "Video",
+		"category": "Sports",
+		"description": "YOGAMOUR Yoga Videos zum Mitüben. YOGAMOUR ist ideal für die Yoga-Praxis zwischendurch, zu Hause, oder auf Reisen. Die Folgen sind ca. 15 Minuten lang, immer begleitet von einem motivierenden Soundtrack und passen perfekt auf iPod und iPhone. YOGAMOUR ist geeignet für alle, die schon ein wenig Yoga-Übung haben. Mehr Informationen zu Gesundheit und Sicherheit unter www.yogamour.de/gesundheit. YOGAMOUR ist ein Projekt von Bärbel Miessner (seit über 10 Jahren verwurzelt in der Ashtanga- und Jivamukti-Yogapraxis, ausgebildet zur Yogalehrerin von Sharon Gannon und David Life, apprenticeship bei Jivamukti Yoga München, unterrichtet regelmäßig bei Yam Yoga in München)."
+	}, {
+		"title": "Linux Outlaws",
+		"url": "http://feeds.feedburner.com/linuxoutlaws",
+		"language": "English",
+		"type": "Audio",
+		"category": "Technology",
+		"description": "Two pragmatic geeks talk about the latest news concerning Linux, free and open technology or anything else they deem noteworthy which may include such absurd things as hockey or bands you never heard of. This means there's many a joke and derailed conversation along the way, so don't come here expecting only Linux or software freedom talk — just sit back and relax, partner." 
+	}, {
+		"title": "Newshour",
+		"url": "http://downloads.bbc.co.uk/podcasts/worldservice/newshour/rss.xml",
+		"language": "English",
+		"type": "Audio",
+		"category": "News",
+		"description": "Global news and analysis from the BBC World Service, twice a day, every day of the year. Join our leading team of presenters for the best interviews, features and analysis of world events."
+	}, {
+		"title": "Scottish Football",
+		"url": "http://downloads.bbc.co.uk/podcasts/scotland/scotfoot/rss.xml",
+		"language": "English",
+		"type": "Audio",
+		"category": "Sports",
+		"description": "Keep right up to date with what's happening in Scottish football by downloading the daily BBC Scottish football podcast. Breaking stories, match reaction, big names and insights into our national game. A must for your daily diet of football."
+	}]
+}
