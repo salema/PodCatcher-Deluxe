@@ -71,13 +71,6 @@
 		"category": "News",
 		"description": "Der Greenpeace Greencast, ist der Audio-Podcast von Greenpeace Berlin. Martin Hausding berichtet wöchentlich über aktuelle Themen und Aktionen und spricht mit vielen interessanten Gästen: Vom Karrotmob um die Ecke, bis zur Atomendlagerung."
 	}, {
-		"title": "Yogamour - der Yoga Video Podcast",
-		"url": "http://feeds.feedburner.com/yogamour-m",
-		"language": "German",
-		"type": "Video",
-		"category": "Sports",
-		"description": "YOGAMOUR Yoga Videos zum Mitüben. YOGAMOUR ist ideal für die Yoga-Praxis zwischendurch, zu Hause, oder auf Reisen. Die Folgen sind ca. 15 Minuten lang, immer begleitet von einem motivierenden Soundtrack und passen perfekt auf iPod und iPhone. YOGAMOUR ist geeignet für alle, die schon ein wenig Yoga-Übung haben. Mehr Informationen zu Gesundheit und Sicherheit unter www.yogamour.de/gesundheit. YOGAMOUR ist ein Projekt von Bärbel Miessner (seit über 10 Jahren verwurzelt in der Ashtanga- und Jivamukti-Yogapraxis, ausgebildet zur Yogalehrerin von Sharon Gannon und David Life, apprenticeship bei Jivamukti Yoga München, unterrichtet regelmäßig bei Yam Yoga in München)."
-	}, {
 		"title": "Linux Action Show!",
 		"url": "http://feeds.feedburner.com/linuxactionshowipodvid?format=xml",
 		"language": "English",
@@ -105,5 +98,12 @@
 		"type": "Audio",
 		"category": "Sports",
 		"description": "Keep right up to date with what's happening in Scottish football by downloading the daily BBC Scottish football podcast. Breaking stories, match reaction, big names and insights into our national game. A must for your daily diet of football."
+	}, {
+		"title": "Yogamour - der Yoga Video Podcast",
+		"url": "http://feeds.feedburner.com/yogamour-m",
+		"language": "German",
+		"type": "Video",
+		"category": "Sports",
+		"description": "YOGAMOUR Yoga Videos zum Mitüben. YOGAMOUR ist ideal für die Yoga-Praxis zwischendurch, zu Hause, oder auf Reisen. Die Folgen sind ca. 15 Minuten lang, immer begleitet von einem motivierenden Soundtrack und passen perfekt auf iPod und iPhone. YOGAMOUR ist geeignet für alle, die schon ein wenig Yoga-Übung haben. Mehr Informationen zu Gesundheit und Sicherheit unter www.yogamour.de/gesundheit. YOGAMOUR ist ein Projekt von Bärbel Miessner (seit über 10 Jahren verwurzelt in der Ashtanga- und Jivamukti-Yogapraxis, ausgebildet zur Yogalehrerin von Sharon Gannon und David Life, apprenticeship bei Jivamukti Yoga München, unterrichtet regelmäßig bei Yam Yoga in München)."
 	}]
 }
