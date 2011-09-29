@@ -99,6 +99,13 @@
 		"category": "Sports",
 		"description": "Keep right up to date with what's happening in Scottish football by downloading the daily BBC Scottish football podcast. Breaking stories, match reaction, big names and insights into our national game. A must for your daily diet of football."
 	}, {
+		"title": "This American Life",
+		"url": "http://feeds.thisamericanlife.org/talpodcast",
+		"language": "English",
+		"type": "Audio",
+		"category": "Entertainment",
+		"description": "\"This American Life\" is a weekly public radio show broadcast on more than 500 stations to about 1.7 million listeners. It is produced by Chicago Public Media, distributed by Public Radio International, and has won all of the major broadcasting awards. There’s a theme to each episode, and a variety of stories on that theme. It’s mostly true stories of everyday people, though not always. There’s lots more to the show, but it’s sort of hard to describe."
+	}, {
 		"title": "Yogamour - der Yoga Video Podcast",
 		"url": "http://feeds.feedburner.com/yogamour-m",
 		"language": "German",
