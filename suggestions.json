@@ -113,6 +113,13 @@
 		"category": "Entertainment",
 		"description": "\"This American Life\" is a weekly public radio show broadcast on more than 500 stations to about 1.7 million listeners. It is produced by Chicago Public Media, distributed by Public Radio International, and has won all of the major broadcasting awards. There’s a theme to each episode, and a variety of stories on that theme. It’s mostly true stories of everyday people, though not always. There’s lots more to the show, but it’s sort of hard to describe."
 	}, {
+		"title": "This Is My Next...",
+		"url": "http://feeds.feedburner.com/ThisIsMyNextPodcast",
+		"language": "English",
+		"type": "Audio",
+		"category": "Technology",
+		"description": "You’re looking at \"This is my next\", the temporary home of Joshua Topolsky, Nilay Patel, Paul Miller, Joanna Stern, Ross Miller, Chris Ziegler, the lovely Justin Glow, and delightful Dan Chilton — a group of journalists and developers hard at work building the next great tech publication in partnership with SB Nation. That project will launch in the fall, but until then you can find us here, writing editorials, covering interesting news, and producing our weekly podcast. And if you think this is exciting, just wait until you see what we’ve got coming up next."
+	}, {
 		"title": "Yogamour - der Yoga Video Podcast",
 		"url": "http://feeds.feedburner.com/yogamour-m",
 		"language": "German",
