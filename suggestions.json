@@ -113,6 +113,13 @@
 		"category": "Comedy",
 		"description": "Olaf Schubert wurde vom Satiremagazin Eulenspiegel zum besten Nachwuchskabarettisten gewählt. Bei MDR SPUTNIK macht er sich Gedanken über wichtige historische Ereignisse."
 	}, {
+		"title": "Planet Money",
+		"url": "http://www.npr.org/rss/podcast.php?id=510289",
+		"language": "English",
+		"type": "Audio",
+		"category": "Politics",
+		"description": "Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks -- all trying to make sense of our rapidly changing global economy."
+	}, {
 		"title": "Scottish Football",
 		"url": "http://downloads.bbc.co.uk/podcasts/scotland/scotfoot/rss.xml",
 		"language": "English",
