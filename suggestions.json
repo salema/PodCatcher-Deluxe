@@ -1,11 +1,11 @@
 {
 	"featured": [{
-		"title": "Security Now!",
-		"url": "http://leo.am/podcasts/sn",
+		"title": "WNYC's Radiolab",
+		"url": "http://feeds.wnyc.org/radiolab",
 		"language": "English",
 		"type": "Audio",
-		"category": "Technology",
-		"description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
+		"category": "Entertainment",
+		"description": "Radiolab believes your ears are a portal to another world. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. Big questions are investigated, tinkered with, and encouraged to grow. Bring your curiosity, and we'll feed it with possibility."
 	},	{
 		"title": "Security Now!",
 		"url": "http://feeds.twit.tv/sn_video_small",
@@ -147,13 +147,6 @@
 		"type": "Audio",
 		"category": "Technology",
 		"description": "You’re looking at \"This is my next\", the temporary home of Joshua Topolsky, Nilay Patel, Paul Miller, Joanna Stern, Ross Miller, Chris Ziegler, the lovely Justin Glow, and delightful Dan Chilton — a group of journalists and developers hard at work building the next great tech publication in partnership with SB Nation. That project will launch in the fall, but until then you can find us here, writing editorials, covering interesting news, and producing our weekly podcast. And if you think this is exciting, just wait until you see what we’ve got coming up next."
-	}, {
-		"title": "WNYC's Radiolab",
-		"url": "http://feeds.wnyc.org/radiolab",
-		"language": "English",
-		"type": "Audio",
-		"category": "Entertainment",
-		"description": "Radiolab believes your ears are a portal to another world. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. Big questions are investigated, tinkered with, and encouraged to grow. Bring your curiosity, and we'll feed it with possibility."
 	}, {
 		"title": "Yogamour - der Yoga Video Podcast",
 		"url": "http://feeds.feedburner.com/yogamour-m",
