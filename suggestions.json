@@ -141,6 +141,13 @@
 		"category": "Sports",
 		"description": "Keep right up to date with what's happening in Scottish football by downloading the daily BBC Scottish football podcast. Breaking stories, match reaction, big names and insights into our national game. A must for your daily diet of football."
 	}, {
+		"title": "The Rachel Maddow Show",
+		"url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
+		"language": "English",
+		"type": "Video",
+		"category": "News",
+		"description": "The Rachel Maddow Show, which airs 9 p.m. ET weeknights on MSNBC, is a smart look at politics, pop culture, and all the day's top stories. It's mind over chatter! Maddow is a political commentator for MSNBC and the Air America Radio network. This video podcast brings you each night's show in its entirety."
+	}, {
 		"title": "This American Life",
 		"url": "http://feeds.thisamericanlife.org/talpodcast",
 		"language": "English",
