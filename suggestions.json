@@ -99,6 +99,13 @@
 		"category": "News",
 		"description": "Der Greenpeace Greencast, ist der Audio-Podcast von Greenpeace Berlin. Martin Hausding berichtet wöchentlich über aktuelle Themen und Aktionen und spricht mit vielen interessanten Gästen: Vom Karrotmob um die Ecke, bis zur Atomendlagerung."
 	}, {
+		"title": "Inside MusiCast",
+		"url": "http://www.insidemusicast.com/storage/podcast/rss.xml",
+		"language": "English",
+		"type": "Audio",
+		"category": "Music",
+		"description": "We love music. All kinds of music. You name it, we like it. But listening to the music isnt enough for us. Anyone can do that. Thats why we've launched Inside MusiCast. Because we know that behind great music are great session musicians, producers, writers and engineers that are the talent behind the talent. We dedicate our podcast to them and to you - the music enthusiasts who need to go beyond the liner notes. Welcome to Inside Musicast." 
+	}, {
 		"title": "Linux Action Show!",
 		"url": "http://feeds.feedburner.com/linuxactionshowipodvid?format=xml",
 		"language": "English",
@@ -140,6 +147,13 @@
 		"type": "Audio",
 		"category": "Sports",
 		"description": "Keep right up to date with what's happening in Scottish football by downloading the daily BBC Scottish football podcast. Breaking stories, match reaction, big names and insights into our national game. A must for your daily diet of football."
+	}, {
+		"title": "Skeptoid: Critical Analysis of Pop Phenomena",
+		"url": "http://skeptoid.com/podcast.xml",
+		"language": "English",
+		"type": "Audio",
+		"category": "Science",
+		"description": "Skeptoid is a weekly science podcast dedicated to furthering knowledge by blasting away the widespread pseudosciences that infect popular culture, and replacing them with way cooler reality. Each weekly episode focuses on a single phenomenon — an urban legend, a paranormal claim, alternative therapy, or something just plain stupid — that you've heard of, and that you probably believe in. Skeptoid attempts to expose the folly of belief in non-evidence based phenomena, and more importantly, explains the factual scientific reality. From the sublime to the startling, no topic is sacred, politically incorrect though that may be."
 	}, {
 		"title": "The Rachel Maddow Show",
 		"url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
