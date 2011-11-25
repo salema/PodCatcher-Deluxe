@@ -29,6 +29,13 @@
 		"description": "Quarks & Co: Das Wissenschaftsmagazin mit Ranga Yogeshwar."
 	}],
 	"suggestions": [{
+		"title": "Adam Carolla Show",
+		"url": "http://feeds.feedburner.com/TheAdamCarollaPodcast",
+		"language": "English",
+		"type": "Audio",
+		"category": "Comedy",
+		"description": "Welcome to the Adam Carolla Podcast! The new home for the rantings and ravings of Adam Carolla, with Bald Bryan on sound effects and and Alison Rosen on news. Check it out Adam hangs out with some his pals, like: Larry Miller, David Allen Grier, Dr. Drew Pinksy, Dana Gould, Doug Benson, and many, many more."
+	}, {
 		"title": "Anderson Cooper 360°",
 		"url": "http://rss.cnn.com/services/podcasting/ac360/rss",
 		"language": "English",
