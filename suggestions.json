@@ -57,6 +57,13 @@
 		"category": "News",
 		"description": "Fresh world news, available by midday (UK time) / 7am (US Eastern) Monday-Friday. Dan Damon brings you 30 minutes of the latest interviews, reports and analysis of the day's top news. Plus Wknd Extra, every Saturday."
 	}, {
+		"title": "Car Talk",
+		"url": "http://www.npr.org/rss/podcast.php?id=510208",
+		"language": "English",
+		"type": "Audio",
+		"category": "Mobility",
+		"description": "America's funniest auto mechanics take calls from weary car owners all over the country, and crack wise while they diagnose Dodges and dismiss Diahatsus. You don't have to know anything about cars to love this one hour weekly laugh fest."
+	}, {
 		"title": "Circuits with David Pogue",
 		"url": "https://www.nytsyn.com/rss/custom_itunes/5",
 		"language": "English",
