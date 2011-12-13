@@ -36,6 +36,13 @@
 		"category": "Comedy",
 		"description": "Welcome to the Adam Carolla Podcast! The new home for the rantings and ravings of Adam Carolla, with Bald Bryan on sound effects and and Alison Rosen on news. Check it out Adam hangs out with some his pals, like: Larry Miller, David Allen Grier, Dr. Drew Pinksy, Dana Gould, Doug Benson, and many, many more."
 	}, {
+		"title": "Africa Today",
+		"url": "http://downloads.bbc.co.uk/podcasts/worldservice/africa/rss.xml",
+		"language": "English",
+		"type": "Audio",
+		"category": "News",
+		"description": "African news and analysis from the BBC's Focus on Africa and Network Africa programmes; the Africa Today podcast contains the day's top stories from the continent."
+	}, {
 		"title": "Anderson Cooper 360°",
 		"url": "http://rss.cnn.com/services/podcasting/ac360/rss",
 		"language": "English",
