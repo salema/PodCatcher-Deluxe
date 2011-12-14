@@ -127,6 +127,13 @@
 		"category": "Music",
 		"description": "We love music. All kinds of music. You name it, we like it. But listening to the music isnt enough for us. Anyone can do that. Thats why we've launched Inside MusiCast. Because we know that behind great music are great session musicians, producers, writers and engineers that are the talent behind the talent. We dedicate our podcast to them and to you - the music enthusiasts who need to go beyond the liner notes. Welcome to Inside Musicast." 
 	}, {
+		"title": "Kevin Pollak's Chat Show",
+		"url": "http://feeds.feedburner.com/kevinpollakschatShow-video?format=xml",
+		"language": "English",
+		"type": "Video",
+		"category": "Comedy",
+		"description": "Kevin Pollak's Chat Show is a video talkshow. An award-winning actor, Pollak (The Usual Suspects, Casino, A Few Good Men) was also named by Comedy Central as One of the Top 100 Comedians of All Time. Here, he interviews celebrated actors, writers, directors, comedians, and masters of the tech universe." 
+	}, {
 		"title": "Linux Action Show!",
 		"url": "http://feeds.feedburner.com/linuxactionshowipodvid?format=xml",
 		"language": "English",
