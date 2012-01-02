@@ -92,6 +92,13 @@
 		"category": "Education",
 		"description": "Learn French with daily podcasts!" 
 	}, {
+		"title": "Democracy Now!",
+		"url": "http://www.democracynow.org/podcast.xml",
+		"language": "English",
+		"type": "Audio",
+		"category": "News",
+		"description": "A daily TV/radio news program, hosted by Amy Goodman and Juan Gonzalez, airing on over 900 stations, pioneering the largest community media collaboration in the United States." 
+	}, {
 		"title": "Eine Stunde Zeit",
 		"url": "http://www.radioeins.de/archiv/podcast/eine_stunde_zeit.feed.podcast.xml",
 		"language": "German",
