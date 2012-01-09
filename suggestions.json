@@ -127,6 +127,13 @@
 		"category": "News",
 		"description": "Der Greenpeace Greencast, ist der Audio-Podcast von Greenpeace Berlin. Martin Hausding berichtet wöchentlich über aktuelle Themen und Aktionen und spricht mit vielen interessanten Gästen: Vom Karrotmob um die Ecke, bis zur Atomendlagerung."
 	}, {
+		"title": "HowStuffWorks: TechStuff",
+		"url": "http://www.howstuffworks.com/podcasts/techstuff.rss",
+		"language": "English",
+		"type": "Audio",
+		"category": "Technology",
+		"description": "What exactly is RAM? How do remote controls work? Join Chris and Jonathan each week as they bring you the latest and greatest TechStuff in this podcast by HowStuffWorks.com." 
+	}, {
 		"title": "Inside MusiCast",
 		"url": "http://www.insidemusicast.com/storage/podcast/rss.xml",
 		"language": "English",
