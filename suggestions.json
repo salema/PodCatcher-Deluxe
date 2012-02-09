@@ -99,20 +99,6 @@
 		"category": "News",
 		"description": "A daily TV/radio news program, hosted by Amy Goodman and Juan Gonzalez, airing on over 900 stations, pioneering the largest community media collaboration in the United States." 
 	}, {
-		"title": "Eine Stunde Zeit",
-		"url": "http://www.radioeins.de/archiv/podcast/eine_stunde_zeit.feed.podcast.xml",
-		"language": "German",
-		"type": "Audio",
-		"category": "News",
-		"description": "radioeins und \"Die Zeit\" nehmen sich Eine Stunde Zeit. Zeit für einen neuen Blick auf die politischen, kulturellen und gesellschaftlichen Ereignisse der Woche. Zeit, Zusammenhänge herzustellen und zugleich intelligent zu unterhalten. Die radioeins-Moderatorinnen Anja Goerz oder Katrin Bauerfeind präsentieren den \"Kopf der Woche\", der Schlagzeilen gemacht hat oder noch machen wird. Wie der Alltag eines Volksvertreters wirklich aussieht, verraten Politiker in ihrem \"Audiotagebuch\". In den \"Themen der Zeit\" steuert jeweils ein Zeit-Autor Hintergründe zu seinem Artikel in der aktuellen Printausgabe bei. Persönliche Einblicke ermöglicht die Rubrik \"XY hat aufgelegt\", in der Politiker aktuelle CDs aus den Charts vorstellen. Abgerundet wird die Sendung mit einer Glosse des Zeit-Kolumnisten Harald Martenstein... Die Highlights der jeweiligen Sendung können Sie hier downloaden."
-	}, {
-		"title": "Escape - Der Experte",
-		"url": "http://www.radioeins.de/archiv/podcast/escape_der_experte.feed.podcast.xml",
-		"language": "German",
-		"type": "Audio",
-		"category": "Technology",
-		"description": "Wenn nichts mehr geht, geht immer noch Escape », die radioeins Multimedia-Show! Escape hilft Ihnen wenn Sie überhaupt nicht wissen, wie viel GB sie sich anschaffen sollen und ob auf xD oder MMC. Oder wenn Sie Zweifel darüber hegen, ob die Entscheidung für einen Dual-Core richtig war ob eine X800 dafür nicht etwas unterdimensioniert ist. Dafür haben Daniel Finger und Sven Oswald IHN engagiert - den Experten Georg Schnurer von der c't..."
-	}, {
 		"title": "FIVE Basketball-Magazin",
 		"url": "http://www.kickz.com/five/?feed=rss2",
 		"language": "German",
