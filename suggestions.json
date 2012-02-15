@@ -106,6 +106,13 @@
 		"category": "Sports",
 		"description": "Fivemag.de ist der Blog des Printmagazins FIVE und eure tägliche Ration NBA Basketball! Fivemag.de ist der Blog des Printmagazins FIVE und eure tägliche Ration NBA Basketball! Chefredakteur Andre Voigt und EX-FIVEler Jan Hieronimi besprechen wöchentlich kompetent, immer aber mit einem Augenzwinkern, die aktuellen Geschehnisse in der NBA."
 	}, {
+		"title": "Freakonomics Podcast",
+		"url": "http://feeds.feedburner.com/freakonomicsradio",
+		"language": "English",
+		"type": "Audio",
+		"category": "Entertainment",
+		"description": "In their books \"Freakonomics\" and \"SuperFreakonomics,\" Steven D. Levitt and Stephen J. Dubner explore \"the hidden side of everything,\" with stories about cheating schoolteachers, self-dealing real-estate agents, and crack-selling mama’s boys. The Freakonomics Radio podcast, hosted by Dubner, carries on that tradition with weekly episodes. Prepare to be enlightened, engaged, perhaps enraged, and definitely surprised."
+	}, {
 		"title": "Greenpeace Podcast",
 		"url": "http://www.greenpeace-berlin.de/fileadmin/podcast/greencast.xml",
 		"language": "German",
