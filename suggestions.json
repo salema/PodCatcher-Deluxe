@@ -64,6 +64,13 @@
 		"category": "News",
 		"description": "Fresh world news, available by midday (UK time) / 7am (US Eastern) Monday-Friday. Dan Damon brings you 30 minutes of the latest interviews, reports and analysis of the day's top news. Plus Wknd Extra, every Saturday."
 	}, {
+		"title": "Buzz Out Loud",
+		"url": "http://feeds.feedburner.com/cnet/bolhqvideo?format=xml",
+		"language": "English",
+		"type": "Video",
+		"category": "Technology",
+		"description": "Buzz Out Loud features Molly Wood, Brian Tong and producer Stephen Beacham, along with CNET's top tech experts reviewing the day's tech news. Each episode, the crew analyzes, interprets, and argues about what all this technology means and what it's doing to us."
+	}, {
 		"title": "Car Talk",
 		"url": "http://www.npr.org/rss/podcast.php?id=510208",
 		"language": "English",
