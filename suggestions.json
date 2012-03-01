@@ -1,32 +1,32 @@
 {
 	"featured": [{
-		"title": "WNYC's Radiolab",
-		"url": "http://feeds.wnyc.org/radiolab",
+		"title": "This American Life",
+		"url": "http://feeds.thisamericanlife.org/talpodcast",
 		"language": "English",
 		"type": "Audio",
 		"category": "Entertainment",
-		"description": "Radiolab believes your ears are a portal to another world. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. Big questions are investigated, tinkered with, and encouraged to grow. Bring your curiosity, and we'll feed it with possibility."
+		"description": "\"This American Life\" is a weekly public radio show broadcast on more than 500 stations to about 1.7 million listeners. It is produced by Chicago Public Media, distributed by Public Radio International, and has won all of the major broadcasting awards. There’s a theme to each episode, and a variety of stories on that theme. It’s mostly true stories of everyday people, though not always. There’s lots more to the show, but it’s sort of hard to describe."
 	}, {
-		"title": "Security Now!",
-		"url": "http://feeds.twit.tv/sn_video_small",
+		"title": "NASA Edge",
+		"url": "http://www.nasa.gov/rss/NASAcast_vodcast.rss",
 		"language": "English",
 		"type": "Video",
 		"category": "Technology",
-		"description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
-	}, {
-		"title": "Hart aber fair",
-		"url": "http://podcast.wdr.de/hartaberfair.xml",
+		"description": "NASA EDGE. One NASA. Two hosts. Twenty thousand plus rocket scientists. We have liftoff! NASA EDGE is different. Unscripted and unpredictable, NASA EDGE takes a unique look in and around the greatest space program on the planet."
+	}, { 
+		"title": "Olaf Schuberts Zeitgeschichte",
+		"url": "http://www.sputnik.de/podcast/serve.php?typ=rss&podcastid=9",
 		"language": "German",
 		"type": "Audio",
-		"category": "News",
-		"description": "Hart aber fair: Das Reizthema!"
+		"category": "Comedy",
+		"description": "Olaf Schubert wurde vom Satiremagazin Eulenspiegel zum besten Nachwuchskabarettisten gewählt. Bei MDR SPUTNIK macht er sich Gedanken über wichtige historische Ereignisse."
 	}, {
-		"title": "Quarks & Co",
-		"url": "http://podcast.wdr.de/quarks.xml",
+		"title": "Sendung mit der Maus",
+		"url": "http://podcast.wdr.de/maus.xml",
 		"language": "German",
 		"type": "Video",
-		"category": "Technology",
-		"description": "Quarks & Co: Das Wissenschaftsmagazin mit Ranga Yogeshwar."
+		"category": "Entertainment",
+		"description": "Die Maus ist ein Urgestein der deutschen TV-Landschaft. Seit den 70ern produziert der WDR diese Show für Kinder. Ausgestrahlt wird die Sendung mit der Maus in allen großen Landesrundfunkanstalten. Beiträge aus der Sendung mit der Maus werden in nahezu einhundert Ländern ausgestrahlt."
 	}],
 	"suggestions": [{
 		"title": "Adam Carolla Show",
@@ -127,6 +127,13 @@
 		"category": "News",
 		"description": "Der Greenpeace Greencast, ist der Audio-Podcast von Greenpeace Berlin. Martin Hausding berichtet wöchentlich über aktuelle Themen und Aktionen und spricht mit vielen interessanten Gästen: Vom Karrotmob um die Ecke, bis zur Atomendlagerung."
 	}, {
+		"title": "Hart aber fair",
+		"url": "http://podcast.wdr.de/hartaberfair.xml",
+		"language": "German",
+		"type": "Audio",
+		"category": "News",
+		"description": "Hart aber fair: Das Reizthema!"
+	}, {
 		"title": "HowStuffWorks: TechStuff",
 		"url": "http://www.howstuffworks.com/podcasts/techstuff.rss",
 		"language": "English",
@@ -162,19 +169,19 @@
 		"category": "Technology",
 		"description": "Two pragmatic geeks talk about the latest news concerning Linux, free and open technology or anything else they deem noteworthy which may include such absurd things as hockey or bands you never heard of. This means there's many a joke and derailed conversation along the way, so don't come here expecting only Linux or software freedom talk — just sit back and relax, partner." 
 	}, {
+		"title": "Neues aus der Anstalt",
+		"url": "http://www.zdf.de/ZDFmediathek/podcast/222630?view=podcast",
+		"language": "German",
+		"type": "Video",
+		"category": "Comedy",
+		"description": "Die ZDF-Politsatire \"Neues aus der Anstalt\" mit Priol. Kabarett ist oft tot gesagt worden, aber es ist heute auch im Fernsehen präsenter und lebendiger denn je. Zu verdanken ist dies vor allem der ZDF-Produktion Neues aus der Anstalt, welche seit 2007 fast monatlich politisches Kabarett auf höchstem Niveau bietet."
+	}, {
 		"title": "Newshour",
 		"url": "http://downloads.bbc.co.uk/podcasts/worldservice/newshour/rss.xml",
 		"language": "English",
 		"type": "Audio",
 		"category": "News",
 		"description": "Global news and analysis from the BBC World Service, twice a day, every day of the year. Join our leading team of presenters for the best interviews, features and analysis of world events."
-	}, {
-		"title": "Olaf Schuberts Zeitgeschichte",
-		"url": "http://www.sputnik.de/podcast/serve.php?typ=rss&podcastid=9",
-		"language": "German",
-		"type": "Audio",
-		"category": "Comedy",
-		"description": "Olaf Schubert wurde vom Satiremagazin Eulenspiegel zum besten Nachwuchskabarettisten gewählt. Bei MDR SPUTNIK macht er sich Gedanken über wichtige historische Ereignisse."
 	}, {
 		"title": "Planet Money",
 		"url": "http://www.npr.org/rss/podcast.php?id=510289",
@@ -190,12 +197,26 @@
 		"category": "Comedy",
 		"description": "The Preston and Steve show is a morning radio comedy and variety broadcast on Philadelphia Active Rock station 93.3 FM WMMR featuring DJs Preston Elliot and Steve Morrison. The show, which originated at Y100 in Philadelphia, features daily telephone interviews, in-studio guests, celebrity impersonations, unusual news stories, and numerous sound clips and running gags."
 	}, {
+		"title": "Quarks & Co",
+		"url": "http://podcast.wdr.de/quarks.xml",
+		"language": "German",
+		"type": "Video",
+		"category": "Technology",
+		"description": "Quarks & Co: Das Wissenschaftsmagazin mit Ranga Yogeshwar."
+	}, {
 		"title": "Scottish Football",
 		"url": "http://downloads.bbc.co.uk/podcasts/scotland/scotfoot/rss.xml",
 		"language": "English",
 		"type": "Audio",
 		"category": "Sports",
 		"description": "Keep right up to date with what's happening in Scottish football by downloading the daily BBC Scottish football podcast. Breaking stories, match reaction, big names and insights into our national game. A must for your daily diet of football."
+	}, {
+		"title": "Security Now!",
+		"url": "http://feeds.twit.tv/sn_video_small",
+		"language": "English",
+		"type": "Video",
+		"category": "Technology",
+		"description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
 	}, {
 		"title": "Skeptoid: Critical Analysis of Pop Phenomena",
 		"url": "http://skeptoid.com/podcast.xml",
@@ -211,19 +232,19 @@
 		"category": "News",
 		"description": "The Rachel Maddow Show, which airs 9 p.m. ET weeknights on MSNBC, is a smart look at politics, pop culture, and all the day's top stories. It's mind over chatter! Maddow is a political commentator for MSNBC and the Air America Radio network. This video podcast brings you each night's show in its entirety."
 	}, {
-		"title": "This American Life",
-		"url": "http://feeds.thisamericanlife.org/talpodcast",
-		"language": "English",
-		"type": "Audio",
-		"category": "Entertainment",
-		"description": "\"This American Life\" is a weekly public radio show broadcast on more than 500 stations to about 1.7 million listeners. It is produced by Chicago Public Media, distributed by Public Radio International, and has won all of the major broadcasting awards. There’s a theme to each episode, and a variety of stories on that theme. It’s mostly true stories of everyday people, though not always. There’s lots more to the show, but it’s sort of hard to describe."
-	}, {
 		"title": "This Is My Next...",
 		"url": "http://feeds.feedburner.com/ThisIsMyNextPodcast",
 		"language": "English",
 		"type": "Audio",
 		"category": "Technology",
 		"description": "You’re looking at \"This is my next\", the temporary home of Joshua Topolsky, Nilay Patel, Paul Miller, Joanna Stern, Ross Miller, Chris Ziegler, the lovely Justin Glow, and delightful Dan Chilton — a group of journalists and developers hard at work building the next great tech publication in partnership with SB Nation. That project will launch in the fall, but until then you can find us here, writing editorials, covering interesting news, and producing our weekly podcast. And if you think this is exciting, just wait until you see what we’ve got coming up next."
+	}, {
+		"title": "WNYC's Radiolab",
+		"url": "http://feeds.wnyc.org/radiolab",
+		"language": "English",
+		"type": "Audio",
+		"category": "Entertainment",
+		"description": "Radiolab believes your ears are a portal to another world. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. Big questions are investigated, tinkered with, and encouraged to grow. Bring your curiosity, and we'll feed it with possibility."
 	}, {
 		"title": "Yogamour - der Yoga Video Podcast",
 		"url": "http://feeds.feedburner.com/yogamour-m",
