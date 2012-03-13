@@ -239,6 +239,13 @@
 		"category": "Science",
 		"description": "Skeptoid is a weekly science podcast dedicated to furthering knowledge by blasting away the widespread pseudosciences that infect popular culture, and replacing them with way cooler reality. Each weekly episode focuses on a single phenomenon — an urban legend, a paranormal claim, alternative therapy, or something just plain stupid — that you've heard of, and that you probably believe in. Skeptoid attempts to expose the folly of belief in non-evidence based phenomena, and more importantly, explains the factual scientific reality. From the sublime to the startling, no topic is sacred, politically incorrect though that may be."
 	}, {
+		"title": "Stuff You Should Know",
+		"url": "http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss",
+		"language": "English",
+		"type": "Audio",
+		"category": "Science",
+		"description": "How does dueling work? Was Noah's Ark real? Join Josh and Chuck as they break down everything from Zorro to zoot suits in the Stuff You Should Know, a podcast from HowStuffWorks.com."
+	}, {
 		"title": "The Rachel Maddow Show",
 		"url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
 		"language": "English",
