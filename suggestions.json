@@ -246,6 +246,13 @@
 		"category": "Science",
 		"description": "How does dueling work? Was Noah's Ark real? Join Josh and Chuck as they break down everything from Zorro to zoot suits in the Stuff You Should Know, a podcast from HowStuffWorks.com."
 	}, {
+		"title": "TED Talks",
+		"url": "http://feeds.feedburner.com/tedtalks_video",
+		"language": "English",
+		"type": "Video",
+		"category": "Entertainment",
+		"description": "TED is a nonprofit devoted to Ideas Worth Spreading. On this feed, you'll find TEDTalks video to inspire, intrigue and stir the imagination from some of the world's leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world. This podcast is also available in high-def video and audio-only formats."
+	}, {
 		"title": "The Rachel Maddow Show",
 		"url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
 		"language": "English",
