@@ -57,6 +57,13 @@
 		"category": "Entertainment",
 		"description": "Welcome to WeLoveColt.com the exclusive web home of Wrestlings best kept secret: Colt Cabana"
 	}, {
+		"title": "Bambule - das Magazin",
+		"url": "http://www.zdf.de/ZDFmediathek/podcast/1579818?view=podcast",
+		"language": "German",
+		"type": "Video",
+		"category": "Entertainment",
+		"description": "Bambule - das Magazin mit Sarah Kuttner sagt den 30 bis 40-Jährigen, wie sie sich fühlen."
+	}, {
 		"title": "BBC World Update: Daily Commute",
 		"url": "http://downloads.bbc.co.uk/podcasts/worldservice/worldupmc/rss.xml",
 		"language": "English",
@@ -175,6 +182,13 @@
 		"type": "Audio",
 		"category": "Technology",
 		"description": "Two pragmatic geeks talk about the latest news concerning Linux, free and open technology or anything else they deem noteworthy which may include such absurd things as hockey or bands you never heard of. This means there's many a joke and derailed conversation along the way, so don't come here expecting only Linux or software freedom talk — just sit back and relax, partner." 
+	}, {
+		"title": "neoParadise",
+		"url": "http://www.zdf.de/ZDFmediathek/podcast/1446344?view=podcast",
+		"language": "German",
+		"type": "Video",
+		"category": "Comedy",
+		"description": "Mit neoParadise meldet sich das Duo Joko Winterscheidt und Klaas Heufer-Umlauf aus ihrem Berliner Loft zu Wort. Und Musik gibt's im neoParadise natürlich auch!" 
 	}, {
 		"title": "Neues aus der Anstalt",
 		"url": "http://www.zdf.de/ZDFmediathek/podcast/222630?view=podcast",
