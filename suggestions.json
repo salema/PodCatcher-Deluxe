@@ -134,6 +134,13 @@
 		"category": "Entertainment",
 		"description": "In their books \"Freakonomics\" and \"SuperFreakonomics,\" Steven D. Levitt and Stephen J. Dubner explore \"the hidden side of everything,\" with stories about cheating schoolteachers, self-dealing real-estate agents, and crack-selling mama’s boys. The Freakonomics Radio podcast, hosted by Dubner, carries on that tradition with weekly episodes. Prepare to be enlightened, engaged, perhaps enraged, and definitely surprised."
 	}, {
+		"title": "Fresh Air (NPR)",
+		"url": "http://www.npr.org/rss/podcast.php?id=13",
+		"language": "English",
+		"type": "Audio",
+		"category": "Entertainment",
+		"description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross, the show features intimate conversations with today's biggest luminaries."
+	}, {
 		"title": "Greenpeace Podcast",
 		"url": "http://www.greenpeace-berlin.de/fileadmin/podcast/greencast.xml",
 		"language": "German",
