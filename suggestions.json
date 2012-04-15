@@ -106,6 +106,13 @@
 		"category": "Technology",
 		"description": "Der WDR-Computerclub war die legendäre Sendung der beiden Computerspezialisten Wolfgang Back und Wolfgang Rudolph, die mehr als 20 Jahre lang in den Dritten Programmen der ARD lief. Vor vier Jahren war dann Schluss. Und doch feiern die beiden Moderatoren jetzt den einjährigen Geburtstag ihres Computerclubs. Getreu dem Motto: Der Computerclub ist tot. Es lebe der Computerclub2."
 	}, {
+		"title": "Daily Bacon",
+		"url": "http://downloads.bbc.co.uk/podcasts/fivelive/dailybacon/rss.xml",
+		"language": "English",
+		"type": "Audio",
+		"category": "Entertainment",
+		"description": "The best interviews and chat from Richard Bacon's afternoon programme on BBC Radio 5 live. Featuring a broad variety of guests from the fields of news, sport and entertainment." 
+	}, {
 		"title": "Daily French Pod",
 		"url": "http://feeds.feedburner.com/LearnFrenchWithDailyfrenchpod",
 		"language": "English",
