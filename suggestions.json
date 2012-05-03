@@ -316,6 +316,13 @@
 		"category": "Comedy",
 		"description": "Comedian Marc Maron is tackling the most complex philosophical question of our day - WTF? He'll get to the bottom of it with help from comedian friends, celebrity guests and the voices in his own head. You loved him on Morning Sedition. You kinda liked him on The Marc Maron Show. You tolerated him on Break Room Live. Now, embrace him on a show from which he cannot be fired - WTF with Marc Maron."
 	}, {
+		"title": "Wetter im Ersten",
+		"url": "http://www.daserste.de/wetter/xml/videopodcast.asp",
+		"language": "German",
+		"type": "Video",
+		"category": "News",
+		"description": "Wie wird das Wetter in Deutschland? Die aktuelle Prognose."
+	}, {
 		"title": "Yogamour - der Yoga Video Podcast",
 		"url": "http://feeds.feedburner.com/yogamour-m",
 		"language": "German",
