@@ -71,6 +71,13 @@
 		"category": "News",
 		"description": "Fresh world news, available by midday (UK time) / 7am (US Eastern) Monday-Friday. Dan Damon brings you 30 minutes of the latest interviews, reports and analysis of the day's top news. Plus Wknd Extra, every Saturday."
 	}, {
+		"title": "BizarreBazaar",
+		"url": "http://recordings.talkshoe.com/rss74702.xml",
+		"language": "English",
+		"type": "Audio",
+		"category": "Entertainment",
+		"description": "A light-hearted podcast about the funny, bizarre, odd and wonderful stories found on the internet and elsewhere. Come along, relax and have some fun. This Podcast was created using www.talkshoe.com"
+	}, {
 		"title": "Buzz Out Loud",
 		"url": "http://feeds.feedburner.com/cnet/bolhqvideo?format=xml",
 		"language": "English",
@@ -281,6 +288,13 @@
 		"category": "Science",
 		"description": "How does dueling work? Was Noah's Ark real? Join Josh and Chuck as they break down everything from Zorro to zoot suits in the Stuff You Should Know, a podcast from HowStuffWorks.com."
 	}, {
+		"title": "Stuff You Missed in History Class",
+		"url": "http://www.howstuffworks.com/podcasts/stuff-you-missed-in-history-class.rss",
+		"language": "English",
+		"type": "Audio",
+		"category": "Entertainment",
+		"description": "Want to know more about Operation Mincemeat? How about P.T. Barnum? Join Deblina and Sarah as they explore some of history's most fascinating people and events in the Stuff You Missed in History Class, courtesy of HowStuffWorks.com."
+	}, {
 		"title": "TED Talks",
 		"url": "http://feeds.feedburner.com/tedtalks_video",
 		"language": "English",
@@ -302,6 +316,20 @@
 		"category": "Technology",
 		"description": "You’re looking at \"This is my next\", the temporary home of Joshua Topolsky, Nilay Patel, Paul Miller, Joanna Stern, Ross Miller, Chris Ziegler, the lovely Justin Glow, and delightful Dan Chilton — a group of journalists and developers hard at work building the next great tech publication in partnership with SB Nation. That project will launch in the fall, but until then you can find us here, writing editorials, covering interesting news, and producing our weekly podcast. And if you think this is exciting, just wait until you see what we’ve got coming up next."
 	}, {
+		"title": "Wait Wait... Don't Tell Me! (by NPR)",
+		"url": "http://www.npr.org/rss/podcast.php?id=35",
+		"language": "English",
+		"type": "Audio",
+		"category": "Entertainment",
+		"description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up."
+	}, {
+		"title": "Wetter im Ersten",
+		"url": "http://www.daserste.de/wetter/xml/videopodcast.asp",
+		"language": "German",
+		"type": "Video",
+		"category": "News",
+		"description": "Wie wird das Wetter in Deutschland? Die aktuelle Prognose."
+	}, {
 		"title": "WNYC's Radiolab",
 		"url": "http://feeds.wnyc.org/radiolab",
 		"language": "English",
@@ -315,13 +343,6 @@
 		"type": "Audio",
 		"category": "Comedy",
 		"description": "Comedian Marc Maron is tackling the most complex philosophical question of our day - WTF? He'll get to the bottom of it with help from comedian friends, celebrity guests and the voices in his own head. You loved him on Morning Sedition. You kinda liked him on The Marc Maron Show. You tolerated him on Break Room Live. Now, embrace him on a show from which he cannot be fired - WTF with Marc Maron."
-	}, {
-		"title": "Wetter im Ersten",
-		"url": "http://www.daserste.de/wetter/xml/videopodcast.asp",
-		"language": "German",
-		"type": "Video",
-		"category": "News",
-		"description": "Wie wird das Wetter in Deutschland? Die aktuelle Prognose."
 	}, {
 		"title": "Yogamour - der Yoga Video Podcast",
 		"url": "http://feeds.feedburner.com/yogamour-m",
