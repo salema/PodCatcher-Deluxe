@@ -169,6 +169,13 @@
 		"category": "News",
 		"description": "Hart aber fair: Das Reizthema!"
 	}, {
+		"title": "Here's The Thing",
+		"url": "http://www.wnyc.org/feeds/shows/heresthething",
+		"language": "English",
+		"type": "Audio",
+		"category": "Entertainment",
+		"description": "In WNYC’s new podcast series, award-winning actor Alec Baldwin gives the  listener unique entrée into the lives of artists, policy makers and  performers.   Alec sidesteps the predictable by taking listeners inside the dressing  rooms, apartments, and offices of people such as comedian Chris Rock,  political strategist Ed Rollins and Oscar winner Michael Douglas.   Every two weeks, Alec pursues great conversations in unexpected places  to find out what motivates his guests, how they feel about what they do  and what keeps them up at night. Here’s The Thing: Listen to what  happens when a man you think you know surprises you."
+	}, {
 		"title": "HowStuffWorks: TechStuff",
 		"url": "http://www.howstuffworks.com/podcasts/techstuff.rss",
 		"language": "English",
