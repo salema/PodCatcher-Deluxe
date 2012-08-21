@@ -134,6 +134,13 @@
 			"category": "News",
 			"description": "A daily TV/radio news program, hosted by Amy Goodman and Juan Gonzalez, airing on over 900 stations, pioneering the largest community media collaboration in the United States." 
 		}, {
+			"title": "EconTalk",
+			"url": "http://www.econlib.org/library/EconTalk.xml",
+			"language": "English",
+			"type": "Audio",
+			"category": "News",
+			"description": "EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Host Russ Roberts, of the Library of Economics and Liberty and George Mason U., draws you in with lively guests and creative repartee.  Topics include health care, business cycles, economic growth, free trade, education, finance, politics, sports, book reviews, and the curiosities of everyday decision-making." 
+		}, {
 			"title": "FIVE Basketball-Magazin",
 			"url": "http://www.kickz.com/five/?feed=rss2",
 			"language": "German",
