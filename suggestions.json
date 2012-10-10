@@ -358,6 +358,13 @@
 			"category": "Entertainment",
 			"description": "Come inside our TMZ newsroom for an hour Monday-Friday … hear about the stories we’re breaking from our staff in real time. Harvey Levin and crew will answer your questions via Twitter, Facebook … and on the phone. We’ll tell you things you didn’t know about the big celebrity stories of the day. It’s raw, unpredictable, packed with info and funny. In other words, it beats work."
 		}, {
+			"title": "(Die) Von der Leyens",
+			"url": "http://podcast.wdr.de/radio/vonderleyens.xml",
+			"language": "German",
+			"type": "Audio",
+			"category": "Entertainment",
+			"description": "Die perfekte Familie mit der perfektesten aller Muttis: Geschichten mit Gefühl, viel Arbeit, einem großen Familienkalender und einem kleinen Zeitfenster und mit sieben schlauen Kindern!"
+		}, {
 			"title": "Wait Wait... Don't Tell Me! (by NPR)",
 			"url": "http://www.npr.org/rss/podcast.php?id=35",
 			"language": "English",
