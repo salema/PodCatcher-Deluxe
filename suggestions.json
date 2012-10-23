@@ -13,13 +13,13 @@
 			"type": "Video",
 			"category": "Technology",
 			"description": "NASA EDGE. One NASA. Two hosts. Twenty thousand plus rocket scientists. We have liftoff! NASA EDGE is different. Unscripted and unpredictable, NASA EDGE takes a unique look in and around the greatest space program on the planet."
-		}, { 
-			"title": "Olaf Schuberts Zeitgeschichte",
-			"url": "http://www.sputnik.de/podcast/serve.php?typ=rss&podcastid=9",
+		}, {
+			"title": "Greenpeace Podcast",
+			"url": "http://www.greenpeace-berlin.de/fileadmin/podcast/greencast.xml",
 			"language": "German",
 			"type": "Audio",
-			"category": "Comedy",
-			"description": "Olaf Schubert wurde vom Satiremagazin Eulenspiegel zum besten Nachwuchskabarettisten gewählt. Bei MDR SPUTNIK macht er sich Gedanken über wichtige historische Ereignisse."
+			"category": "News",
+			"description": "Der Greenpeace Greencast, ist der Audio-Podcast von Greenpeace Berlin. Martin Hausding berichtet wöchentlich über aktuelle Themen und Aktionen und spricht mit vielen interessanten Gästen: Vom Karrotmob um die Ecke, bis zur Atomendlagerung."
 		}, {
 			"title": "Sendung mit der Maus",
 			"url": "http://podcast.wdr.de/maus.xml",
@@ -161,13 +161,6 @@
 			"type": "Audio",
 			"category": "Entertainment",
 			"description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross, the show features intimate conversations with today's biggest luminaries."
-		}, {
-			"title": "Greenpeace Podcast",
-			"url": "http://www.greenpeace-berlin.de/fileadmin/podcast/greencast.xml",
-			"language": "German",
-			"type": "Audio",
-			"category": "News",
-			"description": "Der Greenpeace Greencast, ist der Audio-Podcast von Greenpeace Berlin. Martin Hausding berichtet wöchentlich über aktuelle Themen und Aktionen und spricht mit vielen interessanten Gästen: Vom Karrotmob um die Ecke, bis zur Atomendlagerung."
 		}, {
 			"title": "Hart aber fair",
 			"url": "http://podcast.wdr.de/hartaberfair.xml",
