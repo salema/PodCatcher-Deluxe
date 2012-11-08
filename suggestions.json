@@ -358,7 +358,14 @@
 			"category": "Entertainment",
 			"description": "Come inside our TMZ newsroom for an hour Monday-Friday … hear about the stories we’re breaking from our staff in real time. Harvey Levin and crew will answer your questions via Twitter, Facebook … and on the phone. We’ll tell you things you didn’t know about the big celebrity stories of the day. It’s raw, unpredictable, packed with info and funny. In other words, it beats work."
 		}, {
-			"title": "(Die) Von der Leyens",
+			"title": "Uhh Yeah Dude",
+			"url": "http://feeds.feedburner.com/UhhYeahDude",
+			"language": "English",
+			"type": "Audio",
+			"category": "Comedy",
+			"description": "A weekly roundup of America through the eyes of two American Americans."
+		}, {
+			"title": "Von der Leyens",
 			"url": "http://podcast.wdr.de/radio/vonderleyens.xml",
 			"language": "German",
 			"type": "Audio",
