@@ -372,13 +372,6 @@
 			"category": "Entertainment",
 			"description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up."
 		}, {
-			"title": "Wetter im Ersten",
-			"url": "http://www.daserste.de/wetter/xml/videopodcast.asp",
-			"language": "German",
-			"type": "Video",
-			"category": "News",
-			"description": "Wie wird das Wetter in Deutschland? Die aktuelle Prognose."
-		}, {
 			"title": "WNYC's Radiolab",
 			"url": "http://feeds.wnyc.org/radiolab",
 			"language": "English",
