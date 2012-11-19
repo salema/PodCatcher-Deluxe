@@ -372,6 +372,13 @@
 			"category": "Entertainment",
 			"description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up."
 		}, {
+			"title": "Wissenschaft und Bildung (dradio)",
+			"url": "http://www.dradio.de/rss/podcast/sendungen/wissenschaftundbildung/",
+			"language": "German",
+			"type": "Audio",
+			"category": "Science",
+			"description": "Beiträge des Deutschlandradio (Deutschlandfunk, Deutschlandradio Kultur) zu Wissenschaft und Bildung"
+		}, {
 			"title": "WNYC's Radiolab",
 			"url": "http://feeds.wnyc.org/radiolab",
 			"language": "English",
