@@ -141,13 +141,6 @@
 			"category": "News",
 			"description": "EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Host Russ Roberts, of the Library of Economics and Liberty and George Mason U., draws you in with lively guests and creative repartee.  Topics include health care, business cycles, economic growth, free trade, education, finance, politics, sports, book reviews, and the curiosities of everyday decision-making." 
 		}, {
-			"title": "FIVE Basketball-Magazin",
-			"url": "http://www.kickz.com/five/?feed=rss2",
-			"language": "German",
-			"type": "Audio",
-			"category": "Sports",
-			"description": "Fivemag.de ist der Blog des Printmagazins FIVE und eure tägliche Ration NBA Basketball! Fivemag.de ist der Blog des Printmagazins FIVE und eure tägliche Ration NBA Basketball! Chefredakteur Andre Voigt und EX-FIVEler Jan Hieronimi besprechen wöchentlich kompetent, immer aber mit einem Augenzwinkern, die aktuellen Geschehnisse in der NBA."
-		}, {
 			"title": "Freakonomics Podcast",
 			"url": "http://feeds.feedburner.com/freakonomicsradio",
 			"language": "English",
@@ -379,12 +372,12 @@
 			"category": "Entertainment",
 			"description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up."
 		}, {
-			"title": "Wetter im Ersten",
-			"url": "http://www.daserste.de/wetter/xml/videopodcast.asp",
+			"title": "Wissenschaft und Bildung (dradio)",
+			"url": "http://www.dradio.de/rss/podcast/sendungen/wissenschaftundbildung/",
 			"language": "German",
-			"type": "Video",
-			"category": "News",
-			"description": "Wie wird das Wetter in Deutschland? Die aktuelle Prognose."
+			"type": "Audio",
+			"category": "Science",
+			"description": "Beiträge des Deutschlandradio (Deutschlandfunk, Deutschlandradio Kultur) zu Wissenschaft und Bildung"
 		}, {
 			"title": "WNYC's Radiolab",
 			"url": "http://feeds.wnyc.org/radiolab",
@@ -392,13 +385,6 @@
 			"type": "Audio",
 			"category": "Entertainment",
 			"description": "Radiolab believes your ears are a portal to another world. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. Big questions are investigated, tinkered with, and encouraged to grow. Bring your curiosity, and we'll feed it with possibility."
-		}, {
-			"title": "WTF with Marc Maron",
-			"url": "http://www.wtfpod.com/podcast/rss",
-			"language": "English",
-			"type": "Audio",
-			"category": "Comedy",
-			"description": "Comedian Marc Maron is tackling the most complex philosophical question of our day - WTF? He'll get to the bottom of it with help from comedian friends, celebrity guests and the voices in his own head. You loved him on Morning Sedition. You kinda liked him on The Marc Maron Show. You tolerated him on Break Room Live. Now, embrace him on a show from which he cannot be fired - WTF with Marc Maron."
 		}, {
 			"title": "Yogamour - der Yoga Video Podcast",
 			"url": "http://feeds.feedburner.com/yogamour-m",
