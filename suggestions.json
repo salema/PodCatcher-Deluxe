@@ -176,6 +176,13 @@
 			"category": "Technology",
 			"description": "What exactly is RAM? How do remote controls work? Join Chris and Jonathan each week as they bring you the latest and greatest TechStuff in this podcast by HowStuffWorks.com." 
 		}, {
+			"title": "Ideas",
+			"url": "http://www.cbc.ca/podcasting/includes/ideas.xml",
+			"language": "English",
+			"type": "Audio",
+			"category": "Entertainment",
+			"description": "IDEAS is CBC Radio's program of contemporary thought. The show's content is wide-ranging. From the French thinker Simone Weil to ideas about oceans. From ice cream to Einstein. Dante to spy novels. Robin Hood to the culture of pain. Almost any subject can become an IDEAS program, as long as there's an important idea at the core and a fascinating story to be told." 
+		}, {
 			"title": "Inside MusiCast",
 			"url": "http://www.insidemusicast.com/storage/podcast/rss.xml",
 			"language": "English",
