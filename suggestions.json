@@ -330,6 +330,13 @@
 			"category": "Entertainment",
 			"description": "Want to know more about Operation Mincemeat? How about P.T. Barnum? Join Deblina and Sarah as they explore some of history's most fascinating people and events in the Stuff You Missed in History Class, courtesy of HowStuffWorks.com."
 		}, {
+			"title": "Tech Guy",
+			"url": "http://feeds.twit.tv/ttg_video_small",
+			"language": "English",
+			"type": "Video",
+			"category": "Technology",
+			"description": "No one does a better job of explaining technology, computers, and the Internet than Leo Laporte. This feed contains the full audio of his twice weekly radio talk show as heard on stations all over the US."
+		}, {
 			"title": "TED Talks",
 			"url": "http://feeds.feedburner.com/tedtalks_video",
 			"language": "English",
