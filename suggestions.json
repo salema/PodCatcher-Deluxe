@@ -127,6 +127,13 @@
         "category": "Education",
         "description": "Learn French with daily podcasts!" 
     }, {
+        "title": "DeimHart",
+        "url": "http://deimhart.net/rss.php?version=2.0&podcast_format=mp3",
+        "language": "German",
+        "type": "Audio",
+        "category": "Technology",
+        "description": "DeimHart ist ein 2009 gestarteter gemeinsamer Podcast von Roman Hanhart und Dirk Deimeke. DeimHart ist aufgrund einer Idee entstanden, nach der Dirk und Roman etwas Gemeinsames erschaffen wollten, das im Internet und in den angrenzenden Communities sichtbar ist und bleibt. Anfänglich stand die Linux-Distribution Ubuntu und die Ubuntu-Philosophie im Vordergrund. Auch jetzt liegt noch ein Schwerpunkt auf technischen Themen rund um Open-Source-Software, vorranging Linux, aber Ubuntu bildet keinen Hauptpunkt mehr. Zwei weitere Themenblöcke sind zusätzlich im Fokus, \"Community und Gesellschaft\" und Philosophie." 
+    }, {
         "title": "Democracy Now!",
         "url": "http://www.democracynow.org/podcast.xml",
         "language": "English",
@@ -315,6 +322,13 @@
         "type": "Video",
         "category": "Entertainment",
         "description": "If Harvard offered a PhD in deceit, this would be it. Award-winning magician Brian Brushwood takes viewers on an inside tour of bar tricks, street cons, and scams. If you watch carefully, you'll never have to pay for a drink again!"
+    }, {
+        "title": "StarTalk Radio",
+        "url": "http://www.startalkradio.net/feed/shows",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science",
+        "description": "Science, pop culture & comedy collide on StarTalk w/ astrophysicist & Hayden Planetarium director Neil deGrasse Tyson, comic co-hosts, celebrities & scientists."
     }, {
         "title": "Rich Eisen NFL Podcast",
         "url": "http://richeisen.libsyn.com/rss",
