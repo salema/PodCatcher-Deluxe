@@ -162,6 +162,13 @@
         "category": "Entertainment",
         "description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross, the show features intimate conversations with today's biggest luminaries."
     }, {
+        "title": "GEOaudio: Hören und Reisen",
+        "url": "http://feeds.feedburner.com/GEOaudio",
+        "language": "German",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "Der GEO-Podcast: Spannende Hintergrundgeschichten, Interviews mit GEO-Reportern und Experten, ausgewählte GEO-Reportagen, O-Töne aus Metropolen, Urwald, Wüste oder Antarktis. Jeden Donnerstag neu."
+    }, {
         "title": "Hart aber fair",
         "url": "http://podcast.wdr.de/hartaberfair.xml",
         "language": "German",
@@ -435,6 +442,13 @@
         "category": "Comedy",
         "description": "A weekly roundup of America through the eyes of two American Americans."
     }, {
+        "title": "Voices from the Void",
+        "url": "http://www.voicesfromthevoid.net/feed/",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "A gaming podcast dedicated to the MMORPG EVE Online featuring Dani (Arydanika) and Intern Smurf (Smurf Solider).  This cast features news, updates and interviews with various Eve Online personalities. Episodes are published bi-weekly."
+    }, {
         "title": "Von der Leyens",
         "url": "http://podcast.wdr.de/radio/vonderleyens.xml",
         "language": "German",
@@ -469,5 +483,12 @@
         "type": "Video",
         "category": "Sports",
         "description": "YOGAMOUR Yoga Videos zum Mitüben. YOGAMOUR ist ideal für die Yoga-Praxis zwischendurch, zu Hause, oder auf Reisen. Die Folgen sind ca. 15 Minuten lang, immer begleitet von einem motivierenden Soundtrack und passen perfekt auf iPod und iPhone. YOGAMOUR ist geeignet für alle, die schon ein wenig Yoga-Übung haben. Mehr Informationen zu Gesundheit und Sicherheit unter www.yogamour.de/gesundheit. YOGAMOUR ist ein Projekt von Bärbel Miessner (seit über 10 Jahren verwurzelt in der Ashtanga- und Jivamukti-Yogapraxis, ausgebildet zur Yogalehrerin von Sharon Gannon und David Life, apprenticeship bei Jivamukti Yoga München, unterrichtet regelmäßig bei Yam Yoga in München)."
+    },  {
+        "title": "ZDF heute",
+        "url": "http://www.zdf.de/ZDFmediathek/podcast/222764",
+        "language": "German",
+        "type": "Audio",
+        "category": "News",
+        "description": "Das aktuelle Nachrichtenmagazin \"heute-journal\" des ZDF als Audio-Podcast."
     }]
 }
