@@ -204,6 +204,13 @@
         "category": "Music",
         "description": "We love music. All kinds of music. You name it, we like it. But listening to the music isnt enough for us. Anyone can do that. Thats why we've launched Inside MusiCast. Because we know that behind great music are great session musicians, producers, writers and engineers that are the talent behind the talent. We dedicate our podcast to them and to you - the music enthusiasts who need to go beyond the liner notes. Welcome to Inside Musicast." 
     }, {
+        "title": "The John Batchelor Show",
+        "url": "http://batchelorshow.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "News",
+        "description": "The John Batchelor Show brings listeners breaking news with a carefully cultivated team of sources and correspondents around the world." 
+    }, {
         "title": "Kevin Pollak's Chat Show",
         "url": "http://feeds.feedburner.com/kevinpollakschatShow-video?format=xml",
         "language": "English",
@@ -392,6 +399,13 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "Want to know more about Operation Mincemeat? How about P.T. Barnum? Join Deblina and Sarah as they explore some of history's most fascinating people and events in the Stuff You Missed in History Class, courtesy of HowStuffWorks.com."
+    }, {
+        "title": "Snap Judgment",
+        "url": "http://www.npr.org/rss/podcast.php?id=510294",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "Snap Judgment is the smoking-hot new show from NPR. Winner of the Public Radio Talent Quest, Glynn Washington delivers a raw, musical brand of storytelling, daring listeners to see the world through the eyes of another."
     }, {
         "title": "Tech Guy",
         "url": "http://feeds.twit.tv/ttg_video_small",
