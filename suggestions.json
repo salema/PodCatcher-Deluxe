@@ -50,6 +50,13 @@
         "category": "News",
         "description": "\"Anderson Cooper 360° Daily\" features highlights from CNN's premier nightly news program."
     }, {
+        "title": "Archers Omnibus",
+        "url": "http://downloads.bbc.co.uk/podcasts/radio4/archersomni/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "The full week’s events in Ambridge, available every Sunday. The Archers is a contemporary drama in a rural setting."
+    }, {
         "title": "Art of Wrestling",
         "url": "http://tsmradio.com/coltcabana/feed",
         "language": "English",
