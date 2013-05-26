@@ -211,6 +211,13 @@
         "category": "Music",
         "description": "We love music. All kinds of music. You name it, we like it. But listening to the music isnt enough for us. Anyone can do that. Thats why we've launched Inside MusiCast. Because we know that behind great music are great session musicians, producers, writers and engineers that are the talent behind the talent. We dedicate our podcast to them and to you - the music enthusiasts who need to go beyond the liner notes. Welcome to Inside Musicast." 
     }, {
+        "title": "It's All Politics",
+        "url": "http://www.npr.org/rss/podcast.php?id=510068",
+        "language": "English",
+        "type": "Audio",
+        "category": "Politics",
+        "description": "\"It's All Politics\" features Senior Washington Editor Ron Elving and Political Editor Ken Rudin. They dissect the latest news from inside the beltway, along with other political stories from around the country." 
+    }, {
         "title": "The John Batchelor Show",
         "url": "http://batchelorshow.libsyn.com/rss",
         "language": "English",
@@ -358,6 +365,13 @@
         "category": "Sports",
         "description": "As host of the NFL Network since its inception in 2003, no one has enjoyed more access to the National Football League than Rich Eisen. Over the past 7 years, millions of fans have tuned into NFL Network's coverage of the Super Bowl, NFL Draft and NFL Scouting Combine to find Rich Eisen in the center of the NFL universe."
     }, {
+        "title": "Science Talk",
+        "url": "http://rss.sciam.com/sciam/science-talk",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science",
+        "description": "Science Talk is a weekly science audio show covering the latest in the world of science and technology. Join Steve Mirsky each week as he explores cutting-edge breakthroughs and controversial issues with leading scientists and journalists."
+    }, {
         "title": "Scottish Football",
         "url": "http://downloads.bbc.co.uk/podcasts/scotland/scotfoot/rss.xml",
         "language": "English",
@@ -371,13 +385,6 @@
         "type": "Video",
         "category": "Technology",
         "description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
-    }, {
-        "title": "Sex with Emily!",
-        "url": "http://emilymorse.libsyn.com/rss",
-        "language": "English",
-        "type": "Audio",
-        "category": "Entertainment",
-        "description": "Sex with Emily delivers better sex advice with a sense of humor. Emily along with her co-host White Menace debate the female and male perspective on sex, relationships, marriage, cheating, love, heartbreak, and dating. Emily started Sex with Emily in her living room in 2005 by interviewing people about their sexual experiences and relationships."
     }, {
         "title": "The Skeptics' Guide to the Universe",
         "url": "http://www.theskepticsguide.org/feed/rss.aspx?feed=SGU",
@@ -455,13 +462,6 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "To the Best of Our Knowledge cracks open the world and the ideas that fuel it through interviews with the world's luminaries, from experts to cultural icons.  Each show revolves around a theme where we explore these ideas and the people who consider them."
-    }, {
-        "title": "Uhh Yeah Dude",
-        "url": "http://feeds.feedburner.com/UhhYeahDude/podcast",
-        "language": "English",
-        "type": "Audio",
-        "category": "Comedy",
-        "description": "A weekly roundup of America through the eyes of two American Americans."
     }, {
         "title": "Voices from the Void",
         "url": "http://www.voicesfromthevoid.net/feed/",
