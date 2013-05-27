@@ -99,6 +99,13 @@
         "category": "Mobility",
         "description": "America's funniest auto mechanics take calls from weary car owners all over the country, and crack wise while they diagnose Dodges and dismiss Diahatsus. You don't have to know anything about cars to love this one hour weekly laugh fest."
     }, {
+        "title": "Cheeky Backheel",
+        "url": "http://feeds.feedburner.com/CheekyBackheel",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports",
+        "description": "The podcast of the soccer/football blog Cheeky Backheel. All things of the beautiful game with an amusing slant."
+    }, {
         "title": "Circuits with David Pogue",
         "url": "https://www.nytsyn.com/rss/custom_itunes/5",
         "language": "English",
@@ -343,6 +350,13 @@
         "type": "Video",
         "category": "Technology",
         "description": "Quarks & Co: Das Wissenschaftsmagazin mit Ranga Yogeshwar."
+    }, {
+        "title": "Rooster Teeth",
+        "url": "http://s3.roosterteeth.com/podcasts/index.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "On a weekly basis the Rooster Teeth (creators of Red vs Blue) crew discuss gaming, pop culture and projects that they are currently working on."
     }, {
         "title": "Scam School",
         "url": "http://revision3.com/scamschool/feed/MP4-Large",
