@@ -162,6 +162,13 @@
         "category": "News",
         "description": "EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Host Russ Roberts, of the Library of Economics and Liberty and George Mason U., draws you in with lively guests and creative repartee.  Topics include health care, business cycles, economic growth, free trade, education, finance, politics, sports, book reviews, and the curiosities of everyday decision-making." 
     }, {
+        "title": "FIGARINO-Geschichten",
+        "url": "http://www.mdr.de/figarino/podcast/audiogalerie544-podcast.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Kids",
+        "description": "Jede Woche neue Abenteuer in und um FIGARINOS Werkstatt: Nachbarin Frau Sparbrod nervt, Kater Long John ist mal wieder frech und immer klingelt das Telefon ... Hört, was diese Woche in FIGARINOS Werkstatt passiert!"
+    }, {
         "title": "Freakonomics Podcast",
         "url": "http://feeds.feedburner.com/freakonomicsradio",
         "language": "English",
@@ -344,6 +351,13 @@
         "category": "Comedy",
         "description": "The Preston and Steve show is a morning radio comedy and variety broadcast on Philadelphia Active Rock station 93.3 FM WMMR featuring DJs Preston Elliot and Steve Morrison. The show, which originated at Y100 in Philadelphia, features daily telephone interviews, in-studio guests, celebrity impersonations, unusual news stories, and numerous sound clips and running gags."
     }, {
+        "title": "The Daily Interaction (Prolific Living Media)",
+        "url": "http://feeds.feedburner.com/TheDailyInteraction",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "The Daily Interaction Podcast, with Farnoosh Brock as your host, talks about all the social exchanges in your personal life as well as your business, your career, and the workplace. This show gives you specific tips on being an effective communicator by understanding and refining how you say things, how you position yourself, how you relate to others, using subtle, smart, and practical tools and techniques. What are the best ways of saying it, writing it, typing it, speaking it and meaning it exactly as you intend it? Join us each week as we share stories and strategies of taking your daily interactions to a higher level."
+    }, {
         "title": "Quarks & Co",
         "url": "http://podcast.wdr.de/quarks.xml",
         "language": "German",
@@ -476,6 +490,13 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "To the Best of Our Knowledge cracks open the world and the ideas that fuel it through interviews with the world's luminaries, from experts to cultural icons.  Each show revolves around a theme where we explore these ideas and the people who consider them."
+    }, {
+        "title": "Tweet of the Day",
+        "url": "http://downloads.bbc.co.uk/podcasts/radio4/totd/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science",
+        "description": "Discover British birds through their songs and calls. Each Tweet of the Day begins with a different call or song of a British species, followed by a story of fascinating ornithology inspired by the sound. The series runs for a year, with 265 episodes of 90 seconds, narrated by wildlife presenters beginning with Sir David Attenborough."
     }, {
         "title": "Voices from the Void",
         "url": "http://www.voicesfromthevoid.net/feed/",
