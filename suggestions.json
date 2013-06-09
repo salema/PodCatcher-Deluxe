@@ -29,6 +29,13 @@
         "description": "Die Maus ist ein Urgestein der deutschen TV-Landschaft. Seit den 70ern produziert der WDR diese Show für Kinder. Ausgestrahlt wird die Sendung mit der Maus in allen großen Landesrundfunkanstalten. Beiträge aus der Sendung mit der Maus werden in nahezu einhundert Ländern ausgestrahlt."
     }],
     "suggestions": [{
+        "title": "42e Rue",
+        "url": "http://radiofrance-podcast.net/podcast09/rss_11392.xml",
+        "language": "French",
+        "type": "Audio",
+        "category": "Music",
+        "description": "Les comédies musicales d'hier et d'aujourd'hui flambent sur l'antenne de France Musique."
+    }, {
         "title": "Adam Carolla Show",
         "url": "http://feeds.feedburner.com/TheAdamCarollaPodcast",
         "language": "English",
