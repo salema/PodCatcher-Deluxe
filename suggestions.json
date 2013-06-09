@@ -85,6 +85,13 @@
         "category": "News",
         "description": "Fresh world news, available by midday (UK time) / 7am (US Eastern) Monday-Friday. Dan Damon brings you 30 minutes of the latest interviews, reports and analysis of the day's top news. Plus Wknd Extra, every Saturday."
     }, {
+        "title": "BBC Mundo",
+        "url": "http://downloads.bbc.co.uk/podcasts/worldservice/mh/rss.xml",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "News",
+        "description": "Cada jueves el equipo de redacción de BBC Mundo analiza los principales temas de actualidad de la semana. Desde asuntos de política internacional hasta temas científicos o deportivos. Recorra el mundo con nosotros, también en nuestro sitio web BBCMundo.com."
+    }, {
         "title": "BizarreBazaar",
         "url": "http://recordings.talkshoe.com/rss74702.xml",
         "language": "English",
