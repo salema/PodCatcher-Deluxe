@@ -470,6 +470,13 @@
         "category": "Entertainment",
         "description": "Snap Judgment is the smoking-hot new show from NPR. Winner of the Public Radio Talent Quest, Glynn Washington delivers a raw, musical brand of storytelling, daring listeners to see the world through the eyes of another."
     }, {
+        "title": "Tatort (ARD Radio)",
+        "url": "http://web.ard.de/radiotatort/rss/podcast.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "In dem Gemeinschaftsprojekt ARD Radio Tatort sorgen spannende und unterhaltende Originalhörspiele prominenter Autorinnen und Autoren für akustischen Nervenkitzel. Zu hören sind die Folgen der Hörfunk-Krimireihe einmal monatlich innerhalb von fünf Tagen auf den beteiligten Sendern der neun Landesrundfunkanstalten. Der ARD Radio Tatort - auch als Podcast vier Wochen lang abrufbar, jeden Monat neu."
+    }, {
         "title": "Tech Guy",
         "url": "http://feeds.twit.tv/ttg_video_small",
         "language": "English",
