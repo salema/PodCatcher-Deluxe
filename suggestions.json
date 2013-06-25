@@ -78,6 +78,13 @@
         "category": "Entertainment",
         "description": "Welcome to WeLoveColt.com the exclusive web home of Wrestlings best kept secret: Colt Cabana"
     }, {
+        "title": "ARTE Radio",
+        "url": "http://www.arteradio.com/makeRSS.do",
+        "language": "French",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "Les nouveautés de la semaine"
+    }, {
         "title": "Bakast",
         "url": "http://feeds.feedburner.com/Bakast",
         "language": "French",
@@ -204,6 +211,13 @@
         "category": "News",
         "description": "EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Host Russ Roberts, of the Library of Economics and Liberty and George Mason U., draws you in with lively guests and creative repartee.  Topics include health care, business cycles, economic growth, free trade, education, finance, politics, sports, book reviews, and the curiosities of everyday decision-making." 
     }, {
+        "title": "Esta peli ya la he visto",
+        "url": "http://estapeliyalahevisto.com/feed/podcast/",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "Dos amigos hablando de cine." 
+    }, {
         "title": "FIGARINO-Geschichten",
         "url": "http://www.mdr.de/figarino/podcast/audiogalerie544-podcast.xml",
         "language": "German",
@@ -231,6 +245,13 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "Der GEO-Podcast: Spannende Hintergrundgeschichten, Interviews mit GEO-Reportern und Experten, ausgewählte GEO-Reportagen, O-Töne aus Metropolen, Urwald, Wüste oder Antarktis. Jeden Donnerstag neu."
+    }, {
+        "title": "GeoCastAway | GeoNáufragos",
+        "url": "http://feeds.feedburner.com/geocastawaypodcast",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Science",
+        "description": "Podcast de Geologia y Ciencias de la Tierra."
     }, {
         "title": "Golfcast",
         "url": "http://www.golfcast.es/feed/",
@@ -336,6 +357,13 @@
         "type": "Audio",
         "category": "News",
         "description": "Interactive Talk Radio for Legal Professionals. Our multimedia network lets you get the latest legal news, listen to Internet radio shows hosted by the leading attorneys across the U-S and access important legal resources and technology...all in one place. The Legal Talk Network will make a difference in the way you practice law!" 
+    }, {
+        "title": "L'Inaudible",
+        "url": "http://feeds.feedburner.com/linaudible",
+        "language": "French",
+        "type": "Audio",
+        "category": "Comedy",
+        "description": "La vie de Walter Proof pourrait etre un roman. Mais non. Elle est en fait une symphonie de redoutables synergies mises a l'oeuvre dans toute une declinaison de pyrargies discriminatoires, incluses dans une optique retrograde a la maniere d'un theatre de gestes permanents presentant une collection de souvenirs perimes et customisables. C'est dire si c'est facile a suivre." 
     }, {
         "title": "Linux Action Show!",
         "url": "http://feeds.feedburner.com/linuxactionshowipodvid?format=xml",
@@ -651,12 +679,19 @@
         "type": "Video",
         "category": "Sports",
         "description": "YOGAMOUR Yoga Videos zum Mitüben. YOGAMOUR ist ideal für die Yoga-Praxis zwischendurch, zu Hause, oder auf Reisen. Die Folgen sind ca. 15 Minuten lang, immer begleitet von einem motivierenden Soundtrack und passen perfekt auf iPod und iPhone. YOGAMOUR ist geeignet für alle, die schon ein wenig Yoga-Übung haben. Mehr Informationen zu Gesundheit und Sicherheit unter www.yogamour.de/gesundheit. YOGAMOUR ist ein Projekt von Bärbel Miessner (seit über 10 Jahren verwurzelt in der Ashtanga- und Jivamukti-Yogapraxis, ausgebildet zur Yogalehrerin von Sharon Gannon und David Life, apprenticeship bei Jivamukti Yoga München, unterrichtet regelmäßig bei Yam Yoga in München)."
-    },  {
+    }, {
         "title": "ZDF heute",
         "url": "http://www.zdf.de/ZDFmediathek/podcast/222764",
         "language": "German",
         "type": "Audio",
         "category": "News",
         "description": "Das aktuelle Nachrichtenmagazin \"heute-journal\" des ZDF als Audio-Podcast."
+    }, {
+        "title": "ZikBox",
+        "url": "http://feeds.feedburner.com/ZikboxZePodkast",
+        "language": "French",
+        "type": "Audio",
+        "category": "Music",
+        "description": "Le Podcast qui aime la musique!"
     }]
 }
