@@ -57,6 +57,13 @@
         "category": "News",
         "description": "\"Anderson Cooper 360° Daily\" features highlights from CNN's premier nightly news program."
     }, {
+        "title": "Angry Teddy",
+        "url": "http://theangryteddy.com/feed/podcast",
+        "language": "German",
+        "type": "Audio",
+        "category": "Technology",
+        "description": "Daniel Friesenecker aus Linz bloggt als TheAngryTeddy über Social Media. Dieser Podcast ist die logische Erweiterung des inhaltlichen Angebots des Blogs und beschäftigt sich mit Social Media, Marketing, Gadgets und aktuellen Entwicklungen rund um das Internet und seinen BewohnerInnen."
+    }, {
         "title": "Archers Omnibus",
         "url": "http://downloads.bbc.co.uk/podcasts/radio4/archersomni/rss.xml",
         "language": "English",
@@ -70,6 +77,13 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "Welcome to WeLoveColt.com the exclusive web home of Wrestlings best kept secret: Colt Cabana"
+    }, {
+        "title": "Bakast",
+        "url": "http://feeds.feedburner.com/Bakast",
+        "language": "French",
+        "type": "Video",
+        "category": "Entertainment",
+        "description": "Bakast c'est le podcast sur l'animation Japonaise et la culture otaku. Dans une ambiance geek assumée, Bakast vous donne rendez-vous chaque mois pour parler des dernières sorties animés, mangas et tester en direct un jeu vidéo."
     }, {
         "title": "Bambule - das Magazin",
         "url": "http://www.zdf.de/ZDFmediathek/podcast/1579818?view=podcast",
@@ -98,6 +112,13 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "A light-hearted podcast about the funny, bizarre, odd and wonderful stories found on the internet and elsewhere. Come along, relax and have some fun. This Podcast was created using www.talkshoe.com"
+    }, {
+        "title": "Bugcast",
+        "url": "http://thebugcast.org/feed/",
+        "language": "English",
+        "type": "Audio",
+        "category": "Music",
+        "description": "Award-winning music and chat from South Yorkshire in the UK."
     }, {
         "title": "Buzz Out Loud",
         "url": "http://feeds.feedburner.com/cnet/bolhqvideo?format=xml",
@@ -211,6 +232,20 @@
         "category": "Entertainment",
         "description": "Der GEO-Podcast: Spannende Hintergrundgeschichten, Interviews mit GEO-Reportern und Experten, ausgewählte GEO-Reportagen, O-Töne aus Metropolen, Urwald, Wüste oder Antarktis. Jeden Donnerstag neu."
     }, {
+        "title": "Golfcast",
+        "url": "http://www.golfcast.es/feed/",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Sports",
+        "description": "Golfcast reune alrededor del micrófono a los mejores periodistas deportivos, especialistas en golf, para analizar todo lo que acontece en torno a este deporte."
+    }, {
+        "title": "Happy Shooting",
+        "url": "http://feeds.happyshooting.de/happyshooting",
+        "language": "German",
+        "type": "Audio",
+        "category": "Technology",
+        "description": "Die Sendung rund um die Fotografie. Präsentiert von Boris (bekannt vom nSonic-Podcast) und Chris (tips from the top floor)."
+    }, {
         "title": "Hart aber fair",
         "url": "http://podcast.wdr.de/hartaberfair.xml",
         "language": "German",
@@ -224,6 +259,13 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "In WNYC’s new podcast series, award-winning actor Alec Baldwin gives the  listener unique entrée into the lives of artists, policy makers and  performers.   Alec sidesteps the predictable by taking listeners inside the dressing  rooms, apartments, and offices of people such as comedian Chris Rock,  political strategist Ed Rollins and Oscar winner Michael Douglas.   Every two weeks, Alec pursues great conversations in unexpected places  to find out what motivates his guests, how they feel about what they do  and what keeps them up at night. Here’s The Thing: Listen to what  happens when a man you think you know surprises you."
+    }, {
+        "title": "Histocast",
+        "url": "http://www.histocast.com/feed/",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Science",
+        "description": "Esto es HistoCast. No es Esparta pero casi. Evitamos nuestro asesinato en un contubernio compuesto por Alex, Rodri, Jesús (@vuckaner), Toni (@LordCirencester) y Goyix (@goyix_salduero www.elguaridadegoyix.com). Os recordamos que nos podéis seguir a través de nuestra cuenta de twitter @histocast y en facebook. Esperamos que también os guste, tanto como a nosotros hacer este podcast de Historia."
     }, {
         "title": "HowStuffWorks: TechStuff",
         "url": "http://www.howstuffworks.com/podcasts/techstuff.rss",
@@ -266,6 +308,27 @@
         "type": "Video",
         "category": "Comedy",
         "description": "Kevin Pollak's Chat Show is a video talkshow. An award-winning actor, Pollak (The Usual Suspects, Casino, A Few Good Men) was also named by Comedy Central as One of the Top 100 Comedians of All Time. Here, he interviews celebrated actors, writers, directors, comedians, and masters of the tech universe." 
+    }, {
+        "title": "Kwobb",
+        "url": "http://www.kwobb.net/content/podcast/kwobbcast",
+        "language": "German",
+        "type": "Audio",
+        "category": "Technology",
+        "description": "Jede Woche gibt's einen neuen Live-/Podcast rund um die ganze Welt der digitalen Unterhaltung. Ob Games, Gadgets, Filme oder das Internet. Wir besprechen mit euch (zugeschaltet via Skype) alles das, was den Geek/Nerd von heute interessiert!" 
+    }, {
+        "title": "L’apéro du Captain",
+        "url": "http://feeds.feedburner.com/CaptainWeb",
+        "language": "French",
+        "type": "Audio",
+        "category": "Technology",
+        "description": "Le VRAI blog geek et high tech de référence (BORDEL)." 
+    }, {
+        "title": "La Voix dans la Tête",
+        "url": "http://feeds.feedburner.com/LVDLT",
+        "language": "French",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "La Voix dans la Tête, l'émission bimensuelle techno-culturelle." 
     }, {
         "title": "Legal Talk",
         "url": "http://legaltalknetwork.com/RSS/LTN_feed.xml",
@@ -344,6 +407,13 @@
         "category": "News",
         "description": "Global news and analysis from the BBC World Service, twice a day, every day of the year. Join our leading team of presenters for the best interviews, features and analysis of world events."
     }, {
+        "title": "Ohhh! TV",
+        "url": "http://feeds.feedburner.com/Ohhhtvs",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "Bienvenidos al podcast de la cultura audiovisual. Donde a modo de tertulia informal e informativa cada 15 días hablamos de las últimas noticias sobre televisión y cine."
+    }, {
         "title": "On Being",
         "url": "http://www.onbeing.org/sites/onbeing.org/podcast.xml",
         "language": "English",
@@ -372,6 +442,13 @@
         "category": "Comedy",
         "description": "The Preston and Steve show is a morning radio comedy and variety broadcast on Philadelphia Active Rock station 93.3 FM WMMR featuring DJs Preston Elliot and Steve Morrison. The show, which originated at Y100 in Philadelphia, features daily telephone interviews, in-studio guests, celebrity impersonations, unusual news stories, and numerous sound clips and running gags."
     }, {
+        "title": "Territorimac",
+        "url": "www.territorimac.com/category/programas/feed",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Technology",
+        "description": "La voz de los usuarios Mac. Cada semana te ofrecemos en nuestras secciones, noticias, entrevistas, aplicaciones, trucos, respuestas a tus preguntas y concursos."
+    }, {
         "title": "The Daily Interaction (Prolific Living Media)",
         "url": "http://feeds.feedburner.com/TheDailyInteraction",
         "language": "English",
@@ -385,6 +462,13 @@
         "type": "Video",
         "category": "Technology",
         "description": "Quarks & Co: Das Wissenschaftsmagazin mit Ranga Yogeshwar."
+    }, {
+        "title": "Raumzeit",
+        "url": "http://feeds.feedburner.com/raumzeit-podcast",
+        "language": "German",
+        "type": "Video",
+        "category": "Science",
+        "description": "Raumzeit ist eine Serie von Gesprächen mit Wissenschaftlern, Ingenieuren und anderen Machern von DLR und ESA über Raumfahrt. Jede Episode rückt einen Themenbereich in den Fokus und diskutiert ausführlich alle Aspekte und Details."
     }, {
         "title": "Rooster Teeth",
         "url": "http://s3.roosterteeth.com/podcasts/index.xml",
