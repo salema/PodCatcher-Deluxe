@@ -533,6 +533,13 @@
         "category": "Science",
         "description": "Science Talk is a weekly science audio show covering the latest in the world of science and technology. Join Steve Mirsky each week as he explores cutting-edge breakthroughs and controversial issues with leading scientists and journalists."
     }, {
+        "title": "Scott Mills Daily (BBC)",
+        "url": "http://downloads.bbc.co.uk/podcasts/radio1/mills/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "description": "A daily slice of Scott, with more silly features, crank calls and plenty of attempts to make you laugh."
+    }, {
         "title": "Scottish Football",
         "url": "http://downloads.bbc.co.uk/podcasts/scotland/scotfoot/rss.xml",
         "language": "English",
