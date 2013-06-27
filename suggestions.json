@@ -106,13 +106,6 @@
         "category": "News",
         "description": "Fresh world news, available by midday (UK time) / 7am (US Eastern) Monday-Friday. Dan Damon brings you 30 minutes of the latest interviews, reports and analysis of the day's top news. Plus Wknd Extra, every Saturday."
     }, {
-        "title": "BBC Mundo",
-        "url": "http://downloads.bbc.co.uk/podcasts/worldservice/mh/rss.xml",
-        "language": "Spanish",
-        "type": "Audio",
-        "category": "News",
-        "description": "Cada jueves el equipo de redacción de BBC Mundo analiza los principales temas de actualidad de la semana. Desde asuntos de política internacional hasta temas científicos o deportivos. Recorra el mundo con nosotros, también en nuestro sitio web BBCMundo.com."
-    }, {
         "title": "BizarreBazaar",
         "url": "http://recordings.talkshoe.com/rss74702.xml",
         "language": "English",
@@ -211,6 +204,13 @@
         "category": "News",
         "description": "EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Host Russ Roberts, of the Library of Economics and Liberty and George Mason U., draws you in with lively guests and creative repartee.  Topics include health care, business cycles, economic growth, free trade, education, finance, politics, sports, book reviews, and the curiosities of everyday decision-making." 
     }, {
+        "title": "En días como hoy",
+        "url": "http://www.rtve.es/api/programas/1963/audios.rss",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "News",
+        "description": "El equipo de En días como hoy madruga: abre el micrófono a las seis de la mañana. Apuesta cada día por la actualidad, la tertulia política, el deporte, el sentido del humor, los temas sociales, las historias diferentes, los personajes extraordinarios y la salud. Su propósito es hacer el magacín más completo de la radio, un programa abierto a la participación de los oyentes, que son los protagonistas de secciones como \"El parlamento de la calle\". Los oyentes intervienen en el programa en todo momento, a través del teléfono y de internet, para hacer preguntas a los invitados." 
+    }, {
         "title": "Esta peli ya la he visto",
         "url": "http://estapeliyalahevisto.com/feed/podcast/",
         "language": "Spanish",
@@ -282,7 +282,7 @@
         "description": "In WNYC’s new podcast series, award-winning actor Alec Baldwin gives the  listener unique entrée into the lives of artists, policy makers and  performers.   Alec sidesteps the predictable by taking listeners inside the dressing  rooms, apartments, and offices of people such as comedian Chris Rock,  political strategist Ed Rollins and Oscar winner Michael Douglas.   Every two weeks, Alec pursues great conversations in unexpected places  to find out what motivates his guests, how they feel about what they do  and what keeps them up at night. Here’s The Thing: Listen to what  happens when a man you think you know surprises you."
     }, {
         "title": "Histocast",
-        "url": "http://www.histocast.com/feed/",
+        "url": "http://www.histocast.com/feed",
         "language": "Spanish",
         "type": "Audio",
         "category": "Science",
@@ -498,6 +498,20 @@
         "category": "Science",
         "description": "Raumzeit ist eine Serie von Gesprächen mit Wissenschaftlern, Ingenieuren und anderen Machern von DLR und ESA über Raumfahrt. Jede Episode rückt einen Themenbereich in den Fokus und diskutiert ausführlich alle Aspekte und Details."
     }, {
+        "title": "Radio Ambulante",
+        "url": "http://feeds.feedburner.com/RadioAmbulante-Spanish",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "Radio Ambulante es un programa de radio que cuenta historias latinoamericanas provenientes de todos los países de habla hispana, incluyendo Estados Unidos. Buscamos llevar la estética de la buena crónica de prensa escrita a la radio."
+    }, {
+        "title": "Rich Eisen NFL Podcast",
+        "url": "http://richeisen.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports",
+        "description": "As host of the NFL Network since its inception in 2003, no one has enjoyed more access to the National Football League than Rich Eisen. Over the past 7 years, millions of fans have tuned into NFL Network's coverage of the Super Bowl, NFL Draft and NFL Scouting Combine to find Rich Eisen in the center of the NFL universe."
+    }, {
         "title": "Rooster Teeth",
         "url": "http://s3.roosterteeth.com/podcasts/index.xml",
         "language": "English",
@@ -511,20 +525,6 @@
         "type": "Video",
         "category": "Entertainment",
         "description": "If Harvard offered a PhD in deceit, this would be it. Award-winning magician Brian Brushwood takes viewers on an inside tour of bar tricks, street cons, and scams. If you watch carefully, you'll never have to pay for a drink again!"
-    }, {
-        "title": "StarTalk Radio",
-        "url": "http://www.startalkradio.net/feed/shows",
-        "language": "English",
-        "type": "Audio",
-        "category": "Science",
-        "description": "Science, pop culture & comedy collide on StarTalk w/ astrophysicist & Hayden Planetarium director Neil deGrasse Tyson, comic co-hosts, celebrities & scientists."
-    }, {
-        "title": "Rich Eisen NFL Podcast",
-        "url": "http://richeisen.libsyn.com/rss",
-        "language": "English",
-        "type": "Audio",
-        "category": "Sports",
-        "description": "As host of the NFL Network since its inception in 2003, no one has enjoyed more access to the National Football League than Rich Eisen. Over the past 7 years, millions of fans have tuned into NFL Network's coverage of the Super Bowl, NFL Draft and NFL Scouting Combine to find Rich Eisen in the center of the NFL universe."
     }, {
         "title": "Science Talk",
         "url": "http://rss.sciam.com/sciam/science-talk",
@@ -567,6 +567,13 @@
         "type": "Audio",
         "category": "Science",
         "description": "Skeptoid is a weekly science podcast dedicated to furthering knowledge by blasting away the widespread pseudosciences that infect popular culture, and replacing them with way cooler reality. Each weekly episode focuses on a single phenomenon — an urban legend, a paranormal claim, alternative therapy, or something just plain stupid — that you've heard of, and that you probably believe in. Skeptoid attempts to expose the folly of belief in non-evidence based phenomena, and more importantly, explains the factual scientific reality. From the sublime to the startling, no topic is sacred, politically incorrect though that may be."
+    }, {
+        "title": "StarTalk Radio",
+        "url": "http://www.startalkradio.net/feed/shows",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science",
+        "description": "Science, pop culture & comedy collide on StarTalk w/ astrophysicist & Hayden Planetarium director Neil deGrasse Tyson, comic co-hosts, celebrities & scientists."
     }, {
         "title": "Stuff You Should Know",
         "url": "http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss",
