@@ -631,6 +631,13 @@
         "category": "Technology",
         "description": "You’re looking at \"This is my next\", the temporary home of Joshua Topolsky, Nilay Patel, Paul Miller, Joanna Stern, Ross Miller, Chris Ziegler, the lovely Justin Glow, and delightful Dan Chilton — a group of journalists and developers hard at work building the next great tech publication in partnership with SB Nation. That project will launch in the fall, but until then you can find us here, writing editorials, covering interesting news, and producing our weekly podcast. And if you think this is exciting, just wait until you see what we’ve got coming up next."
     }, {
+        "title": "This week in Google",
+        "url": "http://feeds.twit.tv/twig_video_small",
+        "language": "English",
+        "type": "Video",
+        "category": "Technology",
+        "description": "Leo Laporte, Gina Trapani, Jeff Jarvis and their guests talk about the latest Google and cloud computing news. Recorded live at 4 p.m. Eastern/1 p.m. Pacific/2000 UTC on Wednesdays and released later that evening. Part of the TWiT Netcast Network."
+    }, {
         "title": "TMZ Live",
         "url": "http://tmz.vo.llnwd.net/o28/podcasts/xml/tmz_podcast.xml",
         "language": "English",
