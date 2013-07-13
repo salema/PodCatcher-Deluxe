@@ -50,6 +50,13 @@
         "category": "News",
         "description": "African news and analysis from the BBC's Focus on Africa and Network Africa programmes; the Africa Today podcast contains the day's top stories from the continent."
     }, {
+        "title": "Aktualizate!",
+        "url": "http://feeds.feedburner.com/Aktualizate",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Technology",
+        "description": "Un programa de radio lleno de temas diferentes. Deja la rutina a un lado y comparte con nosotros los temas que realmente te interesan. Ven y Aktualizate!"
+    }, {
         "title": "Anderson Cooper 360°",
         "url": "http://rss.cnn.com/services/podcasting/ac360/rss",
         "language": "English",
