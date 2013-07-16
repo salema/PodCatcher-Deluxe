@@ -176,19 +176,19 @@
         "category": "News",
         "description": "Clark Howard is a nationally syndicated consumer expert who is heard every day on more than 200 radio stations throughout America."
     }, {
-        "title": "Computerclub Zwei Video-Podcast",
-        "url": "http://www.cczwei.de/rss_tvissues",
-        "language": "German",
-        "type": "Video",
-        "category": "Technology",
-        "description": "Der WDR-Computerclub war die legendäre Sendung der beiden Computerspezialisten Wolfgang Back und Wolfgang Rudolph, die mehr als 20 Jahre lang in den Dritten Programmen der ARD lief. Vor vier Jahren war dann Schluss. Und doch feiern die beiden Moderatoren jetzt den einjährigen Geburtstag ihres Computerclubs. Getreu dem Motto: Der Computerclub ist tot. Es lebe der Computerclub2."
-    }, {
         "title": "Computerclub Zwei",
         "url": "http://www.cczwei.de/rss_issues",
         "language": "German",
         "type": "Audio",
         "category": "Technology",
         "description": "Der WDR-Computerclub war die legendäre Sendung der beiden Computerspezialisten Wolfgang Back und Wolfgang Rudolph, die mehr als 20 Jahre lang in den Dritten Programmen der ARD lief. Vor vier Jahren war dann Schluss. Und doch feiern die beiden Moderatoren jetzt den einjährigen Geburtstag ihres Computerclubs. Getreu dem Motto: Der Computerclub ist tot. Es lebe der Computerclub2."
+    }, {
+        "title": "Coté Comics",
+        "url": "http://feeds.feedburner.com/CoteComics",
+        "language": "French",
+        "type": "Video",
+        "category": "Comedy",
+        "description": "Toute l'actualité des super-héros, c'est dans Côté Comics, votre nouveau rendez-vous qui se concentre sur les comics et met de coté tout le reste !"
     }, {
         "title": "Daily Bacon",
         "url": "http://downloads.bbc.co.uk/podcasts/fivelive/dailybacon/rss.xml",
@@ -217,6 +217,27 @@
         "type": "Audio",
         "category": "News",
         "description": "A daily TV/radio news program, hosted by Amy Goodman and Juan Gonzalez, airing on over 900 stations, pioneering the largest community media collaboration in the United States." 
+    },  {
+        "title": "Desconéctate",
+        "url": "http://feeds.feedburner.com/desconectate",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Sports",
+        "description": "Tu podcast de Aventura, Deporte y Naturaleza. Carreras de montaña, ultrafondo, mountain bike, senderismo, atletismo popular, etc. En Desconéctate Podcast trataremos temas relacionados con los deportes para aquellos que quieren desconectar de la vida cotidiana y practicar deporte al aire libre y en la naturaleza." 
+    }, {
+        "title": "Desde el Matadero",
+        "url": "http://feeds.feedburner.com/DesdeElMatadero",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "Podcast dedicado al cine, la television, los comics, la musica, internet, los libros,... todo lo que nos gusta a nosotros y queremos que conozcas." 
+    }, {
+        "title": "Ecole Appli",
+        "url": "http://feeds.feedburner.com/ecoleapplihd",
+        "language": "French",
+        "type": "Video",
+        "category": "Technology",
+        "description": "Ecole Appli HD c'est des test d'application iphone, ipad et ipod touch en vidéo HD." 
     }, {
         "title": "EconTalk",
         "url": "http://www.econlib.org/library/EconTalk.xml",
@@ -232,8 +253,15 @@
         "category": "News",
         "description": "El equipo de En días como hoy madruga: abre el micrófono a las seis de la mañana. Apuesta cada día por la actualidad, la tertulia política, el deporte, el sentido del humor, los temas sociales, las historias diferentes, los personajes extraordinarios y la salud. Su propósito es hacer el magacín más completo de la radio, un programa abierto a la participación de los oyentes, que son los protagonistas de secciones como \"El parlamento de la calle\". Los oyentes intervienen en el programa en todo momento, a través del teléfono y de internet, para hacer preguntas a los invitados." 
     }, {
+        "title": "Engadget en español",
+        "url": "http://es.engadget.com/category/podcasts/rss.xml",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Technology",
+        "description": "Engadget en español." 
+    }, {
         "title": "Esta peli ya la he visto",
-        "url": "http://estapeliyalahevisto.com/feed/podcast/",
+        "url": "http://estapeliyalahevisto.com/feed/podcast",
         "language": "Spanish",
         "type": "Audio",
         "category": "Entertainment",
@@ -259,6 +287,13 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross, the show features intimate conversations with today's biggest luminaries."
+    }, {
+        "title": "Freshnews",
+        "url": "www.freshnews.fr/podcast/feed/freshnews.xml",
+        "language": "French",
+        "type": "Video",
+        "category": "Technology",
+        "description": "Freshnews : votre JT quotidien de l'actu high-tech ! Une émission produite par Uptown Prod et présentée par Nicolas Catard."
     }, {
         "title": "Geek Friday",
         "url": "http://5by5.tv/geekfriday",
@@ -372,6 +407,13 @@
         "category": "Technology",
         "description": "Le VRAI blog geek et high tech de référence (BORDEL)." 
     }, {
+        "title": "La Chaîne Guitare",
+        "url": "http://lachaineguitare.com/feed/podcast",
+        "language": "French",
+        "type": "Audio",
+        "category": "Music",
+        "description": "Amplificateur de Passion." 
+    }, {
         "title": "La Voix dans la Tête",
         "url": "http://feeds.feedburner.com/LVDLT",
         "language": "French",
@@ -406,6 +448,20 @@
         "type": "Audio",
         "category": "Technology",
         "description": "Two pragmatic geeks talk about the latest news concerning Linux, free and open technology or anything else they deem noteworthy which may include such absurd things as hockey or bands you never heard of. This means there's many a joke and derailed conversation along the way, so don't come here expecting only Linux or software freedom talk — just sit back and relax, partner." 
+    }, {
+        "title": "LoQueYoTeDiga",
+        "url": "http://podcastweblqytdiga.wordpress.com/feed",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "El podcast oficial de LoQueYoTeDiga, productora de comunicación dedicada durante más de 20 años a la información cinematográfica en distintos medios." 
+    }, {
+        "title": "Los Danko",
+        "url": "http://losdanko.podomatic.com/rss2.xml",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "El Pelos y Sam Danko te traen una visi&#243;n alternativa y urbana del humor, episodios divertidos e inesperados sobre lo actual, lo humano, y lo divino. Un podcast alternativo y &#250;nico, no vinculado a ning&#250;n ente medi&#225;tico, libre de censuras y tab&#250;s, y siempre, desde el respeto y la modulaci&#243;n..." 
     }, {
         "title": "Marketplace Money",
         "url": "http://www.marketplace.org/shows/54/podcast.xml",
@@ -539,6 +595,27 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "Radio Ambulante es un programa de radio que cuenta historias latinoamericanas provenientes de todos los países de habla hispana, incluyendo Estados Unidos. Buscamos llevar la estética de la buena crónica de prensa escrita a la radio."
+    }, {
+        "title": "Radio Underground",
+        "url": "http://feeds.feedburner.com/radiounderground",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Music",
+        "description": "Radio Underground es un proyecto que trata de hacer llegar la música de una manera diferente a la que estamos acostumbrados."
+    }, {
+        "title": "Radio Vinyle",
+        "url": "http://podcast.radiofrance.fr/video/radio-vinyle.php",
+        "language": "French",
+        "type": "Video",
+        "category": "Music",
+        "description": "Radio Vinyle, une immersion dans la collection de disques vinyles de Radio France! Un artiste se plonge dans l'intarissable discothèque de Radio France pour faire sa sélection de pépites musicales. Il pose le vinyle sur la platine, et l'entretien commence."
+    }, {
+        "title": "Radiolab",
+        "url": "http://feeds.wnyc.org/radiolab",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "Radiolab believes your ears are a portal to another world. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. Big questions are investigated, tinkered with, and encouraged to grow. Bring your curiosity, and we'll feed it with possibility."
     }, {
         "title": "Rich Eisen NFL Podcast",
         "url": "http://richeisen.libsyn.com/rss",
@@ -721,13 +798,6 @@
         "type": "Audio",
         "category": "Science",
         "description": "Beiträge des Deutschlandradio (Deutschlandfunk, Deutschlandradio Kultur) zu Wissenschaft und Bildung"
-    }, {
-        "title": "WNYC's Radiolab",
-        "url": "http://feeds.wnyc.org/radiolab",
-        "language": "English",
-        "type": "Audio",
-        "category": "Entertainment",
-        "description": "Radiolab believes your ears are a portal to another world. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. Big questions are investigated, tinkered with, and encouraged to grow. Bring your curiosity, and we'll feed it with possibility."
     }, {
         "title": "Yogamour - der Yoga Video Podcast",
         "url": "http://feeds.feedburner.com/yogamour-m",
