@@ -253,8 +253,15 @@
         "category": "News",
         "description": "El equipo de En días como hoy madruga: abre el micrófono a las seis de la mañana. Apuesta cada día por la actualidad, la tertulia política, el deporte, el sentido del humor, los temas sociales, las historias diferentes, los personajes extraordinarios y la salud. Su propósito es hacer el magacín más completo de la radio, un programa abierto a la participación de los oyentes, que son los protagonistas de secciones como \"El parlamento de la calle\". Los oyentes intervienen en el programa en todo momento, a través del teléfono y de internet, para hacer preguntas a los invitados." 
     }, {
+        "title": "Engadget en español",
+        "url": "http://es.engadget.com/category/podcasts/rss.xml",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Technology",
+        "description": "Engadget en español." 
+    }, {
         "title": "Esta peli ya la he visto",
-        "url": "http://estapeliyalahevisto.com/feed/podcast/",
+        "url": "http://estapeliyalahevisto.com/feed/podcast",
         "language": "Spanish",
         "type": "Audio",
         "category": "Entertainment",
