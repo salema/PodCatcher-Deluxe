@@ -289,7 +289,7 @@
         "description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross, the show features intimate conversations with today's biggest luminaries."
     }, {
         "title": "Freshnews",
-        "url": "www.freshnews.fr/podcast/feed/freshnews.xml",
+        "url": "http://www.freshnews.fr/podcast/feed/freshnews.xml",
         "language": "French",
         "type": "Video",
         "category": "Technology",
