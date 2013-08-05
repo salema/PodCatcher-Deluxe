@@ -610,6 +610,13 @@
         "category": "Entertainment",
         "description": "Radiolab believes your ears are a portal to another world. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. Big questions are investigated, tinkered with, and encouraged to grow. Bring your curiosity, and we'll feed it with possibility."
     }, {
+        "title": "RadioWissen (Bayern 2)",
+        "url": "http://www.br-online.de/podcast/radiowissen/cast.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Science",
+        "description": "radioWissen bietet eine Fülle unterschiedlicher Themen: Spannendes aus der Geschichte, Interessantes aus Literatur und Musik, Faszinierendes über Mythen, Menschen und Religionen, Erhellendes über Natur und Umwelt, Hintergründiges über aktuelle Themen im Gespräch. Die ganze Welt des Wissens - der radioWissen-Podcast liefert täglich ausgewählte Sendungen frei Haus - spannend erzählt, gut aufbereitet, nützlich für die Schule und bereichernd für alle Bildungsinteressierten."
+    }, {
         "title": "Rich Eisen NFL Podcast",
         "url": "http://richeisen.libsyn.com/rss",
         "language": "English",
