@@ -477,12 +477,19 @@
         "category": "Politics",
         "description": "Mark Levin has become one of the hottest properties in Talk radio, his top-rated show on WABC New York is now syndicated nationally by Cumulus Media. He is also one of the top new authors in the conservative political arena." 
     }, {
-        "title": "Mohr Stories",
-        "url": "http://smodcast.com/channels/mohr-stories/feed",
+        "title": "Mark Levin Show Audio Rewind",
+        "url": "http://www.marklevinshow.com/rss/ilevin.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Politics",
+        "description": "Mark Levin has become one of the hottest properties in Talk radio, his top-rated show on WABC New York is now syndicated nationally by Cumulus Media. He is also one of the top new authors in the conservative political arena." 
+    }, {
+        "title": "Mike O'Meara Show",
+        "url": "http://mikeomearashow.com/category/podcasts/feed",
         "language": "English",
         "type": "Audio",
         "category": "Comedy",
-        "description": "With Jay Mohr. Put Your name On It!" 
+        "description": "A fun mash-up of real life, pop-culture, news of the day, dynamic audio clips, and three guys busting each others’ balls." 
     }, {
         "title": "Motley Fool Money",
         "url": "http://fool.libsyn.com/rss",
