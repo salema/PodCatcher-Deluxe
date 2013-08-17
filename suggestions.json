@@ -512,6 +512,14 @@
         "category": "Comedy",
         "description": "Die ZDF-Politsatire \"Neues aus der Anstalt\" mit Priol. Kabarett ist oft tot gesagt worden, aber es ist heute auch im Fernsehen präsenter und lebendiger denn je. Zu verdanken ist dies vor allem der ZDF-Produktion Neues aus der Anstalt, welche seit 2007 fast monatlich politisches Kabarett auf höchstem Niveau bietet."
     }, {
+        "title": "Nerdgasm Noire Networkt",
+        "url": "http://feeds.feedburner.com/NerdgasmNoireNetwork",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "explicit": "yes",
+        "description": "The Nerdgasm Noire Network is a group of 5 black women who love all things geeky. From books to anime to tv, we discuss what we love and hate. Click. Read. Listen. Enjoy."
+    }, {
         "title": "Nerdist Podcast",
         "url": "http://nerdist.libsyn.com/rss",
         "language": "English",
@@ -735,6 +743,13 @@
         "type": "Video",
         "category": "Entertainment",
         "description": "TED is a nonprofit devoted to Ideas Worth Spreading. On this feed, you'll find TEDTalks video to inspire, intrigue and stir the imagination from some of the world's leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world. This podcast is also available in high-def video and audio-only formats."
+    }, {
+        "title": "The Bugle",
+        "url": "http://feeds.feedburner.com/thebuglefeed",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "description": "John Oliver and Andy Zaltzman, the transatlantic region’s leading bi-continental satirical double-act, leave no hot potato unbuttered in their worldwide-hit weekly topical comedy show."
     }, {
         "title": "The Rachel Maddow Show",
         "url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
