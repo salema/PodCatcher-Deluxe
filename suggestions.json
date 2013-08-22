@@ -814,6 +814,14 @@
         "category": "Entertainment",
         "description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up."
     }, {
+        "title": "Welcome to Night Vale",
+        "url": "http://feeds.feedburner.com/WelcomeToNightVale",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "no",
+        "description": "Twice-monthly community updates for the small desert town of Night Vale, featuring local weather, news, announcements from the Sheriff's Secret Police, mysterious lights in the night sky, dark hooded figures with unknowable powers, and cultural events. Turn on your radio and hide. Welcome to Night Vale."
+    }, {
         "title": "Wissenschaft und Bildung (dradio)",
         "url": "http://www.dradio.de/rss/podcast/sendungen/wissenschaftundbildung/",
         "language": "German",
