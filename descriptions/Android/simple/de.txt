@@ -1,0 +1,6 @@
+Simple Podcatcher, die elegante und intuitive App für Ihre Podcasts.
+
+Simple Podcatcher ist ein einfacher Audio-Podcatcher, mit dem Sie Ihre Podcasts bequem verwalten.
+Die App verfügt über grundlegende Wiedergabefunktionen und zeichnet sich durch ein zugleich elegantes und intuitives Drei-Spalten-Layout aus, mit dem auch Tablet-Nutzer voll auf ihre Kosten kommen.. Während der Wiedergabe können die Podcasts durchsucht und die Episodenbeschreibung angezeigt werden. Ein integrierter Podcast-Katalog erleichtert Ihnen den Einstieg.
+Der Simple Podcatcher ist kostenlos. Das Herunterladen von Podcast-Inhalten sowie deutlich erweiterte Komfortfunktionen (zum Beispiel Wiedergabelisten und Filter) bieten die Schwester-Apps Podcatcher Deluxe und Video Podcatcher Deluxe, die ebenfalls auf Google Play verfügbar sind.
+Besuchen Sie http://www.podcatcher-deluxe.com für Links und weitere Informationen.
