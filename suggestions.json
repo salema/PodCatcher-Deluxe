@@ -204,6 +204,14 @@
         "category": "Education",
         "description": "Learn French with daily podcasts!" 
     }, {
+        "title": "Dave and Chuck the Freak",
+        "url": "http://feeds.feedburner.com/DaveandChuckTheFreak",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "yes",
+        "description": "Dave and Chuck the Freak featuring LIsa Way at Mornings on 101 WRIF, Detroit" 
+    }, {
         "title": "DeimHart",
         "url": "http://deimhart.net/rss.php?version=2.0&podcast_format=mp3",
         "language": "German",
