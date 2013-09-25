@@ -549,6 +549,13 @@
         "category": "Entertainment",
         "description": "On Being is a spacious conversation about meaning, faith, ethics, and ideas - online and on public radio. Join Krista and her guests as they discuss the big questions at the center of human life, from the boldest new science of the human brain to the most ancient traditions of the human spirit. Each week a new discovery about faith, meaning, and the immensity of our lives. The On Being podcast contains each week's show - and the unedited interview - in its entirety and is updated every Thursday."
     }, {
+        "title": "On The Media",
+        "url": "http://feeds.wnyc.org/onthemedia",
+        "language": "English",
+        "type": "Audio",
+        "category": "News",
+        "description": "The smartest, wittiest, most incisive media analysis show in the universe. The weekly one-hour podcast of NPR’s On the Media is your guide to how the media sausage is made. Hosts Brooke Gladstone and Bob Garfield examine threats to free speech and government transparency, criticize media coverage of the week’s big stories, examine new technology, and unravel hidden political narratives in the media. In an age of information overload, OTM helps you dig your way out. The Peabody Award winning show is produced by WNYC Radio."
+    }, {
         "title": "Pardon The Interruption",
         "url": "http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=2406595",
         "language": "English",
