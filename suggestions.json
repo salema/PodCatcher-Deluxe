@@ -36,6 +36,14 @@
         "category": "Music",
         "description": "Les comédies musicales d'hier et d'aujourd'hui flambent sur l'antenne de France Musique."
     }, {
+        "title": "99% Invisible",
+        "url": "http://feeds.99percentinvisible.org/99percentinvisible",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "explicit": "no",
+        "description": "A Tiny Radio Show about Design with Roman Mars."
+    }, {
         "title": "Adam Carolla Show",
         "url": "http://feeds.feedburner.com/TheAdamCarollaPodcast",
         "language": "English",
