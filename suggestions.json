@@ -486,13 +486,6 @@
         "category": "News",
         "description": "Marketplace Money from American Public Media is a weekly hour-long program hosted by Tess Vigeland on the topics of personal finance, money, retirement, and health care." 
     }, {
-        "title": "Mark Levin Show Audio Rewind",
-        "url": "http://www.marklevinshow.com/rss/ilevin.xml",
-        "language": "English",
-        "type": "Audio",
-        "category": "Politics",
-        "description": "Mark Levin has become one of the hottest properties in Talk radio, his top-rated show on WABC New York is now syndicated nationally by Cumulus Media. He is also one of the top new authors in the conservative political arena." 
-    }, {
         "title": "Mike O'Meara Show",
         "url": "http://mikeomearashow.com/category/podcasts/feed",
         "language": "English",
