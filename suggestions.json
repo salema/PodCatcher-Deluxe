@@ -602,8 +602,9 @@
         "title": "Raumzeit",
         "url": "http://feeds.feedburner.com/raumzeit-podcast",
         "language": "German",
-        "type": "Video",
+        "type": "Audio",
         "category": "Science",
+        "explicit": "no",
         "description": "Raumzeit ist eine Serie von Gesprächen mit Wissenschaftlern, Ingenieuren und anderen Machern von DLR und ESA über Raumfahrt. Jede Episode rückt einen Themenbereich in den Fokus und diskutiert ausführlich alle Aspekte und Details."
     }, {
         "title": "Radio Ambulante",
