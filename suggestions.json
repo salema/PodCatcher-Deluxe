@@ -65,6 +65,13 @@
         "category": "Technology",
         "description": "Un programa de radio lleno de temas diferentes. Deja la rutina a un lado y comparte con nosotros los temas que realmente te interesan. Ven y Aktualizate!"
     }, {
+        "title": "Alt.Latino (NPR)",
+        "url": "http://www.npr.org/rss/podcast.php?id=510305",
+        "language": "English",
+        "type": "Audio",
+        "category": "Music",
+        "description": "A voyage across the world in search of the best new Rock en Espanol and Latin Alternative music releases. Co-hosts Felix Contreras and Jasmine Garsd also pay tribute to the pioneers of the genre."
+    }, {
         "title": "Anderson Cooper 360°",
         "url": "http://rss.cnn.com/services/podcasting/ac360/rss",
         "language": "English",
