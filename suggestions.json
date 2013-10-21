@@ -670,6 +670,13 @@
         "category": "Entertainment",
         "description": "If Harvard offered a PhD in deceit, this would be it. Award-winning magician Brian Brushwood takes viewers on an inside tour of bar tricks, street cons, and scams. If you watch carefully, you'll never have to pay for a drink again!"
     }, {
+        "title": "Science Friday",
+        "url": "http://www.sciencefriday.com/audio/scifriaudio.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science",
+        "description": "Science Friday, as heard on NPR, is a weekly discussion of the latest news in science, technology, health, and the environment hosted by Ira Flatow. Ira interviews scientists, authors, and policymakers, and listeners can call in and ask questions as well."
+    }, {
         "title": "Science Talk",
         "url": "http://rss.sciam.com/sciam/science-talk",
         "language": "English",
