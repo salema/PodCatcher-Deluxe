@@ -742,6 +742,13 @@
         "category": "Science",
         "description": "Science, pop culture & comedy collide on StarTalk w/ astrophysicist & Hayden Planetarium director Neil deGrasse Tyson, comic co-hosts, celebrities & scientists."
     }, {
+        "title": "Studio 360",
+        "url": "http://feeds.feedburner.com/studio360/podcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "description": "The Peabody Award-winning Studio 360 with Kurt Andersen, from PRI and WNYC, is public radio’s smart and surprising guide to what's happening in pop culture and the arts. Each week, Kurt Andersen introduces you to the people who are creating and shaping our culture. Life is busy – so let Studio 360 steer you to the must-see movie this weekend, the next book for your nightstand, or the song that will change your life."
+    }, {
         "title": "Stuff You Should Know",
         "url": "http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss",
         "language": "English",
