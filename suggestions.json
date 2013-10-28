@@ -500,6 +500,14 @@
         "category": "Comedy",
         "description": "A fun mash-up of real life, pop-culture, news of the day, dynamic audio clips, and three guys busting each others’ balls." 
     }, {
+        "title": "Mohr Stories - FakeMustache",
+        "url": "http://mohrstories.fakemustache.libsynpro.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "explicit": "yes",
+        "description": "Join your host Jay Mohr and a rotating cast of his hilarious friends as they regale you with tales and conversation covering every topic imaginable. You haven't heard the half of it until you've heard... Mohr Stories." 
+    }, {
         "title": "Motley Fool Money",
         "url": "http://fool.libsyn.com/rss",
         "language": "English",
@@ -705,6 +713,14 @@
         "category": "Technology",
         "description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
     }, {
+        "title": "Selected Shorts",
+        "url": "http://selectedshortspri.pri.libsynpro.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "explicit": "no",
+        "description": "It's story time for adults with PRI's award-winning series of short fiction read by the stars of stage and screen. Recorded live at Peter Norton Symphony Space in NYC and on tour. A co-production of Symphony Space and WNYC, New York Public Radio."
+    }, {
         "title": "The Skeptics' Guide to the Universe",
         "url": "http://www.theskepticsguide.org/feed/rss.aspx?feed=SGU",
         "language": "English",
@@ -781,6 +797,14 @@
         "type": "Video",
         "category": "News",
         "description": "The Rachel Maddow Show, which airs 9 p.m. ET weeknights on MSNBC, is a smart look at politics, pop culture, and all the day's top stories. It's mind over chatter! Maddow is a political commentator for MSNBC and the Air America Radio network. This video podcast brings you each night's show in its entirety."
+    }, {
+        "title": "The Moth",
+        "url": "http://feeds.themoth.org/themothpodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Entertainment",
+        "explicit": "no",
+        "description": "Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country."
     }, {
         "title": "This Is My Next...",
         "url": "http://feeds.feedburner.com/ThisIsMyNextPodcast",
