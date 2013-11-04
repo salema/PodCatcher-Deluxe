@@ -29,6 +29,14 @@
         "description": "Die Maus ist ein Urgestein der deutschen TV-Landschaft. Seit den 70ern produziert der WDR diese Show für Kinder. Ausgestrahlt wird die Sendung mit der Maus in allen großen Landesrundfunkanstalten. Beiträge aus der Sendung mit der Maus werden in nahezu einhundert Ländern ausgestrahlt."
     }],
     "suggestions": [{
+        "title": "24FPS",
+        "url": "http://feeds.djpod.com/24fps",
+        "language": "French",
+        "type": "Audio",
+        "category": "Entertainment",
+        "explicit": "yes",
+        "description": "24FPS, le podcast cinéma avec ou sans spoiler ! Chaque émission (sauf épisode hors-série) traite d'un film vu au cinéma par ses deux co-animateurs, Jérôme et Julien, dans une discussion détaillée, pleine d'anecdotes et de références, et sans que l'auditeur ne prenne le risque de se faire révéler l'histoire du film par accident. Chaque épisode se divise en 2 parties : - La première partie est garantie 100% sans spoiler car les co-animateurs y retracent la carrière du réalisateur et/ou des acteurs principaux avant de donner leur ressenti général sur le long-métrage, mais en faisant bien attention de ne pas en dévoiler le scénario. - La seconde partie débute par un signal sonore qui indique que toutes les scènes du film vont être révélées et analysées (généralement dans leur ordre chronologique) dans un débat passionné et rempli de remarques, de débats et d'anecdotes. Seuls les auditeurs ayant déjà vu le film ou n'ayant pas peur de se faire révéler l'intrigue peuvent écouter cette partie."
+    }, {
         "title": "42e Rue",
         "url": "http://radiofrance-podcast.net/podcast09/rss_11392.xml",
         "language": "French",
@@ -190,6 +198,13 @@
         "type": "Audio",
         "category": "News",
         "description": "Clark Howard is a nationally syndicated consumer expert who is heard every day on more than 200 radio stations throughout America."
+    }, {
+        "title": "Club Liza",
+        "url": "http://www.rtl.fr/podcast/le-club-liza.xml",
+        "language": "French",
+        "type": "Audio",
+        "category": "Sports",
+        "description": "Premier à se présenter : Bixente Lizarazu… Le champion du monde reprend le micro pour une nouvelle saison radiophonique avec en ligne de mire la Coupe du Monde 2014 au Brésil ! Chaque lundi, de 20h00 à 21h00 dans \"Le Club Liza\", il apporte son expertise et livre ses analyses sans concession sur le monde du foot, entouré de ses fidèles compères Sylvain Charley et Cyprien Cini. Il reçoit les grandes figures qui agitent la planète Foot et nous offre un condensé de l’actu du moment."
     }, {
         "title": "Computerclub Zwei",
         "url": "http://www.cczwei.de/rss_issues",
@@ -374,6 +389,14 @@
         "category": "Science",
         "description": "Esto es HistoCast. No es Esparta pero casi. Evitamos nuestro asesinato en un contubernio compuesto por Alex, Rodri, Jesús (@vuckaner), Toni (@LordCirencester) y Goyix (@goyix_salduero www.elguaridadegoyix.com). Os recordamos que nos podéis seguir a través de nuestra cuenta de twitter @histocast y en facebook. Esperamos que también os guste, tanto como a nosotros hacer este podcast de Historia."
     }, {
+        "title": "Hoaxilla",
+        "url": "http://www.hoaxilla.de/podcast/hoaxilla.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Science",
+        "explicit": "yes",
+        "description": "Der skeptische Podcast aus Hamburg - Hoaxilla beschäftigt sich mit Modernen Sagen (Urban Legends), Medien, Kultur und Wissenschaft aus Sicht der Skeptiker-Bewegung ohne sich dabei selbst zu ernst zu nehmen." 
+    }, {
         "title": "HowStuffWorks: TechStuff",
         "url": "http://www.howstuffworks.com/podcasts/techstuff.rss",
         "language": "English",
@@ -401,6 +424,14 @@
         "type": "Audio",
         "category": "Politics",
         "description": "\"It's All Politics\" features Senior Washington Editor Ron Elving and Political Editor Ken Rudin. They dissect the latest news from inside the beltway, along with other political stories from around the country." 
+    }, {
+        "title": "Journal Économique",
+        "url": "http://www.rtl.fr/podcast/le-journal-economique.xml",
+        "language": "French",
+        "type": "Audio",
+        "category": "News",
+        "explicit": "no",
+        "description": "Le «Journal Économique» de Christian Menanteau offre un tour complet de l’actualité économique pour mieux en appréhender ses enjeux." 
     }, {
         "title": "The John Batchelor Show",
         "url": "http://batchelorshow.libsyn.com/rss",
@@ -451,6 +482,14 @@
         "category": "News",
         "description": "Interactive Talk Radio for Legal Professionals. Our multimedia network lets you get the latest legal news, listen to Internet radio shows hosted by the leading attorneys across the U-S and access important legal resources and technology...all in one place. The Legal Talk Network will make a difference in the way you practice law!" 
     }, {
+        "title": "L'Edito d'Alba Ventura",
+        "url": "http://www.rtl.fr/podcast/l-edito-d-alba-ventura-en-video.xml",
+        "language": "French",
+        "type": "Video",
+        "category": "Politics",
+        "explicit": "no",
+        "description": "Après ses «carnets» qu’elle signait d’une main de maître les deux saisons précedentes, Alba Ventura décode dans «L’Édito» l’actualité politique et apporte son expertise des affaires publiques." 
+    }, {
         "title": "L'Inaudible",
         "url": "http://feeds.feedburner.com/linaudible",
         "language": "French",
@@ -484,6 +523,7 @@
         "language": "Spanish",
         "type": "Audio",
         "category": "Entertainment",
+        "explicit": "yes",
         "description": "El Pelos y Sam Danko te traen una visi&#243;n alternativa y urbana del humor, episodios divertidos e inesperados sobre lo actual, lo humano, y lo divino. Un podcast alternativo y &#250;nico, no vinculado a ning&#250;n ente medi&#225;tico, libre de censuras y tab&#250;s, y siempre, desde el respeto y la modulaci&#243;n..." 
     }, {
         "title": "Marketplace Money",
@@ -492,6 +532,14 @@
         "type": "Audio",
         "category": "News",
         "description": "Marketplace Money from American Public Media is a weekly hour-long program hosted by Tess Vigeland on the topics of personal finance, money, retirement, and health care." 
+    }, {
+        "title": "Mein Freund der Baum",
+        "url": "http://www.kuechenstud.io/mein-freund-der-baum/feed/mp3/",
+        "language": "German",
+        "type": "Audio",
+        "category": "Entertainment",
+        "explicit": "no",
+        "description": "Das Bücherradio im Küchenstud.io mit Andreas Baum." 
     }, {
         "title": "Mike O'Meara Show",
         "url": "http://mikeomearashow.com/category/podcasts/feed",
@@ -776,6 +824,14 @@
         "type": "Audio",
         "category": "Entertainment",
         "description": "In dem Gemeinschaftsprojekt ARD Radio Tatort sorgen spannende und unterhaltende Originalhörspiele prominenter Autorinnen und Autoren für akustischen Nervenkitzel. Zu hören sind die Folgen der Hörfunk-Krimireihe einmal monatlich innerhalb von fünf Tagen auf den beteiligten Sendern der neun Landesrundfunkanstalten. Der ARD Radio Tatort - auch als Podcast vier Wochen lang abrufbar, jeden Monat neu."
+    }, {
+        "title": "Tanguy Pastureau",
+        "url": "http://www.rtl.fr/podcast/tanguy-pastureau-en-video.xml",
+        "language": "French",
+        "type": "Video",
+        "category": "Comedy",
+        "explicit": "no",
+        "description": "Tanguy Pastureau tranche, malmène et détourne l’actualité à travers sa vision décalée."
     }, {
         "title": "Tech Guy",
         "url": "http://feeds.twit.tv/ttg_video_small",
