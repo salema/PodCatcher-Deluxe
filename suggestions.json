@@ -35,7 +35,7 @@
         "type": "Audio",
         "category": "Entertainment",
         "explicit": "yes",
-        "description": "24FPS, le podcast cinéma avec ou sans spoiler ! Chaque émission (sauf épisode hors-série) traite d'un film vu au cinéma par ses deux co-animateurs, Jérôme et Julien, dans une discussion détaillée, pleine d'anecdotes et de références, et sans que l'auditeur ne prenne le risque de se faire révéler l'histoire du film par accident. Chaque épisode se divise en 2 parties : - La première partie est garantie 100% sans spoiler car les co-animateurs y retracent la carrière du réalisateur et/ou des acteurs principaux avant de donner leur ressenti général sur le long-métrage, mais en faisant bien attention de ne pas en dévoiler le scénario. - La seconde partie débute par un signal sonore qui indique que toutes les scènes du film vont être révélées et analysées (généralement dans leur ordre chronologique) dans un débat passionné et rempli de remarques, de débats et d'anecdotes. Seuls les auditeurs ayant déjà vu le film ou n'ayant pas peur de se faire révéler l'intrigue peuvent écouter cette partie."
+        "description": "24FPS, le podcast cinéma avec ou sans spoiler ! Chaque émission (sauf épisode hors-série) traite d'un film vu au cinéma par ses deux co-animateurs, Jérôme et Julien, dans une discussion détaillée, pleine d'anecdotes et de références, et sans que l'auditeur ne prenne le risque de se faire révéler l'histoire du film par accident."
     }, {
         "title": "42e Rue",
         "url": "http://radiofrance-podcast.net/podcast09/rss_11392.xml",
@@ -283,6 +283,14 @@
         "type": "Audio",
         "category": "News",
         "description": "EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Host Russ Roberts, of the Library of Economics and Liberty and George Mason U., draws you in with lively guests and creative repartee.  Topics include health care, business cycles, economic growth, free trade, education, finance, politics, sports, book reviews, and the curiosities of everyday decision-making." 
+    }, {
+        "title": "Elektrischer Reporter",
+        "url": "http://www.elektrischer-reporter.de/phase3/rss_hq",
+        "language": "German",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "no",
+        "description": "Neues aus Digitalien mit Mario Sixtus."
     }, {
         "title": "En días como hoy",
         "url": "http://www.rtve.es/api/programas/1963/audios.rss",
