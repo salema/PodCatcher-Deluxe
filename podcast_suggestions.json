@@ -8,13 +8,53 @@
         "explicit": "No",
         "description": "A Tiny Radio Show about Design with Roman Mars."
     }, {
-        "title": "This American Life",
-        "url": "http://feeds.thisamericanlife.org/talpodcast",
+        "title": "Freakonomics Podcast",
+        "url": "http://feeds.feedburner.com/freakonomicsradio",
+        "language": "English",
+        "type": "Audio",
+        "category": "Business",
+        "explicit": "No",
+        "description": "In their books \"Freakonomics\" and \"SuperFreakonomics,\" Steven D. Levitt and Stephen J. Dubner explore \"the hidden side of everything,\" with stories about cheating schoolteachers, self-dealing real-estate agents, and crack-selling mama’s boys. The Freakonomics Radio podcast, hosted by Dubner, carries on that tradition with weekly episodes. Prepare to be enlightened, engaged, perhaps enraged, and definitely surprised."
+    }, {
+        "title": "L'Inaudible",
+        "url": "http://feeds.feedburner.com/linaudible",
+        "language": "French",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "La vie de Walter Proof pourrait etre un roman. Mais non. Elle est en fait une symphonie de redoutables synergies mises a l'oeuvre dans toute une declinaison de pyrargies discriminatoires, incluses dans une optique retrograde a la maniere d'un theatre de gestes permanents presentant une collection de souvenirs perimes et customisables. C'est dire si c'est facile a suivre." 
+    }, {
+        "title": "On The Media",
+        "url": "http://feeds.wnyc.org/onthemedia",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "The smartest, wittiest, most incisive media analysis show in the universe. The weekly one-hour podcast of NPR’s On the Media is your guide to how the media sausage is made. Hosts Brooke Gladstone and Bob Garfield examine threats to free speech and government transparency, criticize media coverage of the week’s big stories, examine new technology, and unravel hidden political narratives in the media. In an age of information overload, OTM helps you dig your way out. The Peabody Award winning show is produced by WNYC Radio."
+    }, {
+        "title": "Radio Ambulante",
+        "url": "http://feeds.feedburner.com/RadioAmbulante-Spanish",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Radio Ambulante es un programa de radio que cuenta historias latinoamericanas provenientes de todos los países de habla hispana, incluyendo Estados Unidos. Buscamos llevar la estética de la buena crónica de prensa escrita a la radio."
+    }, {
+        "title": "Radiolab",
+        "url": "http://feeds.wnyc.org/radiolab",
         "language": "English",
         "type": "Audio",
         "category": "Society & Culture",
         "explicit": "No",
-        "description": "\"This American Life\" is a weekly public radio show broadcast on more than 500 stations to about 1.7 million listeners. It is produced by Chicago Public Media, distributed by Public Radio International, and has won all of the major broadcasting awards. There’s a theme to each episode, and a variety of stories on that theme. It’s mostly true stories of everyday people, though not always. There’s lots more to the show, but it’s sort of hard to describe."
+        "description": "Radiolab believes your ears are a portal to another world. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience. Big questions are investigated, tinkered with, and encouraged to grow. Bring your curiosity, and we'll feed it with possibility."
+    }, {
+        "title": "Security Now!",
+        "url": "http://feeds.twit.tv/sn_video_small",
+        "language": "English",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast."
     }, {
         "title": "Sendung mit der Maus",
         "url": "http://podcast.wdr.de/maus.xml",
@@ -23,6 +63,30 @@
         "category": "TV & Film",
         "explicit": "No",
         "description": "Die Maus ist ein Urgestein der deutschen TV-Landschaft. Seit den 70ern produziert der WDR diese Show für Kinder. Ausgestrahlt wird die Sendung mit der Maus in allen großen Landesrundfunkanstalten. Beiträge aus der Sendung mit der Maus werden in nahezu einhundert Ländern ausgestrahlt."
+    }, {
+        "title": "TED Talks",
+        "url": "http://feeds.feedburner.com/tedtalks_video",
+        "language": "English",
+        "type": "Video",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "TED is a nonprofit devoted to Ideas Worth Spreading. On this feed, you'll find TEDTalks video to inspire, intrigue and stir the imagination from some of the world's leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world. This podcast is also available in high-def video and audio-only formats."
+    }, {
+        "title": "The Bugle",
+        "url": "http://feeds.feedburner.com/thebuglefeed",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "John Oliver and Andy Zaltzman, the transatlantic region’s leading bi-continental satirical double-act, leave no hot potato unbuttered in their worldwide-hit weekly topical comedy show."
+    }, {
+        "title": "This American Life",
+        "url": "http://feeds.thisamericanlife.org/talpodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "\"This American Life\" is a weekly public radio show broadcast on more than 500 stations to about 1.7 million listeners. It is produced by Chicago Public Media, distributed by Public Radio International, and has won all of the major broadcasting awards. There’s a theme to each episode, and a variety of stories on that theme. It’s mostly true stories of everyday people, though not always. There’s lots more to the show, but it’s sort of hard to describe."
     }],
     "suggestions": [{
         "title": "24FPS",
@@ -248,5 +312,749 @@
         "category": "Arts",
         "explicit": "No",
         "description": "Toute l'actualité des super-héros, c'est dans Côté Comics, votre nouveau rendez-vous qui se concentre sur les comics et met de coté tout le reste !"
+    }, {
+        "title": "Daily Bacon",
+        "url": "http://downloads.bbc.co.uk/podcasts/fivelive/dailybacon/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "The best interviews and chat from Richard Bacon's afternoon programme on BBC Radio 5 live. Featuring a broad variety of guests from the fields of news, sport and entertainment." 
+    }, {
+        "title": "Daily French Pod",
+        "url": "http://feeds.feedburner.com/LearnFrenchWithDailyfrenchpod",
+        "language": "English",
+        "type": "Audio",
+        "category": "Education",
+        "explicit": "No",
+        "description": "Learn French with daily podcasts!" 
+    }, {
+        "title": "Dave and Chuck the Freak",
+        "url": "http://feeds.feedburner.com/DaveandChuckTheFreak",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Dave and Chuck the Freak featuring LIsa Way at Mornings on 101 WRIF, Detroit" 
+    }, {
+        "title": "DeimHart",
+        "url": "http://deimhart.net/rss.php?version=2.0&podcast_format=mp3",
+        "language": "German",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "DeimHart ist ein 2009 gestarteter gemeinsamer Podcast von Roman Hanhart und Dirk Deimeke. DeimHart ist aufgrund einer Idee entstanden, nach der Dirk und Roman etwas Gemeinsames erschaffen wollten, das im Internet und in den angrenzenden Communities sichtbar ist und bleibt. Anfänglich stand die Linux-Distribution Ubuntu und die Ubuntu-Philosophie im Vordergrund. Auch jetzt liegt noch ein Schwerpunkt auf technischen Themen rund um Open-Source-Software, vorranging Linux, aber Ubuntu bildet keinen Hauptpunkt mehr. Zwei weitere Themenblöcke sind zusätzlich im Fokus, \"Community und Gesellschaft\" und Philosophie." 
+    }, {
+        "title": "Democracy Now!",
+        "url": "http://www.democracynow.org/podcast.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "A daily TV/radio news program, hosted by Amy Goodman and Juan Gonzalez, airing on over 900 stations, pioneering the largest community media collaboration in the United States." 
+    },  {
+        "title": "Desconéctate",
+        "url": "http://feeds.feedburner.com/desconectate",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Tu podcast de Aventura, Deporte y Naturaleza. Carreras de montaña, ultrafondo, mountain bike, senderismo, atletismo popular, etc. En Desconéctate Podcast trataremos temas relacionados con los deportes para aquellos que quieren desconectar de la vida cotidiana y practicar deporte al aire libre y en la naturaleza." 
+    }, {
+        "title": "Desde el Matadero",
+        "url": "http://feeds.feedburner.com/DesdeElMatadero",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "No",
+        "description": "Podcast dedicado al cine, la television, los comics, la musica, internet, los libros,... todo lo que nos gusta a nosotros y queremos que conozcas." 
+    }, {
+        "title": "Ecole Appli",
+        "url": "http://feeds.feedburner.com/ecoleapplihd",
+        "language": "French",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Ecole Appli HD c'est des test d'application iphone, ipad et ipod touch en vidéo HD." 
+    }, {
+        "title": "EconTalk",
+        "url": "http://www.econlib.org/library/EconTalk.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Business",
+        "explicit": "No",
+        "description": "EconTalk is an award-winning weekly talk show about economics in daily life. Featured guests include renowned economics professors, Nobel Prize winners, and exciting speakers on all kinds of topical matters related to economic thought.  Host Russ Roberts, of the Library of Economics and Liberty and George Mason U., draws you in with lively guests and creative repartee.  Topics include health care, business cycles, economic growth, free trade, education, finance, politics, sports, book reviews, and the curiosities of everyday decision-making." 
+    }, {
+        "title": "Elektrischer Reporter",
+        "url": "http://www.elektrischer-reporter.de/phase3/rss_hq",
+        "language": "German",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Neues aus Digitalien mit Mario Sixtus."
+    }, {
+        "title": "En días como hoy",
+        "url": "http://www.rtve.es/api/programas/1963/audios.rss",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "El equipo de En días como hoy madruga: abre el micrófono a las seis de la mañana. Apuesta cada día por la actualidad, la tertulia política, el deporte, el sentido del humor, los temas sociales, las historias diferentes, los personajes extraordinarios y la salud. Su propósito es hacer el magacín más completo de la radio, un programa abierto a la participación de los oyentes, que son los protagonistas de secciones como \"El parlamento de la calle\". Los oyentes intervienen en el programa en todo momento, a través del teléfono y de internet, para hacer preguntas a los invitados." 
+    }, {
+        "title": "Engadget en español",
+        "url": "http://es.engadget.com/category/podcasts/rss.xml",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Engadget en español." 
+    }, {
+        "title": "Esta peli ya la he visto",
+        "url": "http://estapeliyalahevisto.com/feed/podcast",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "TV & Film",
+        "explicit": "No",
+        "description": "Dos amigos hablando de cine." 
+    }, {
+        "title": "FIGARINO-Geschichten",
+        "url": "http://www.mdr.de/figarino/podcast/audiogalerie544-podcast.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Kids & Family",
+        "explicit": "No",
+        "description": "Jede Woche neue Abenteuer in und um FIGARINOS Werkstatt: Nachbarin Frau Sparbrod nervt, Kater Long John ist mal wieder frech und immer klingelt das Telefon ... Hört, was diese Woche in FIGARINOS Werkstatt passiert!"
+    }, {
+        "title": "Fresh Air (NPR)",
+        "url": "http://www.npr.org/rss/podcast.php?id=13",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross, the show features intimate conversations with today's biggest luminaries."
+    }, {
+        "title": "Freshnews",
+        "url": "http://feeds.djpod.com/freshnews",
+        "language": "French",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Freshnews : votre JT quotidien de l'actu high-tech ! Une émission produite par Uptown Prod et présentée par Nicolas Catard."
+    }, {
+        "title": "Geek Friday",
+        "url": "http://feeds.5by5.tv/geekfriday",
+        "language": "English",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "A weekly show exploring, discussing, and reality-checking your favorite geek topics, including technology, television, movies, music, comics, gear, and more."
+    }, {
+        "title": "GEOaudio: Hören und Reisen",
+        "url": "http://feeds.feedburner.com/GEOaudio",
+        "language": "German",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Der GEO-Podcast: Spannende Hintergrundgeschichten, Interviews mit GEO-Reportern und Experten, ausgewählte GEO-Reportagen, O-Töne aus Metropolen, Urwald, Wüste oder Antarktis. Jeden Donnerstag neu."
+    }, {
+        "title": "GeoCastAway | GeoNáufragos",
+        "url": "http://feeds.feedburner.com/geocastawaypodcast",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "Yes",
+        "description": "Podcast de Geologia y Ciencias de la Tierra."
+    }, {
+        "title": "Golfcast",
+        "url": "http://www.golfcast.es/feed/",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Golfcast reune alrededor del micrófono a los mejores periodistas deportivos, especialistas en golf, para analizar todo lo que acontece en torno a este deporte."
+    }, {
+        "title": "Happy Shooting",
+        "url": "http://feeds.happyshooting.de/happyshooting",
+        "language": "German",
+        "type": "Audio",
+        "category": "Games & Hobbies",
+        "explicit": "No",
+        "description": "Die Sendung rund um die Fotografie. Präsentiert von Boris (bekannt vom nSonic-Podcast) und Chris (tips from the top floor)."
+    }, {
+        "title": "Hart aber fair",
+        "url": "http://podcast.wdr.de/hartaberfair.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Hart aber fair: Das Reizthema!"
+    }, {
+        "title": "Here's The Thing",
+        "url": "http://www.wnyc.org/feeds/shows/heresthething",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "In WNYC’s new podcast series, award-winning actor Alec Baldwin gives the  listener unique entrée into the lives of artists, policy makers and  performers.   Alec sidesteps the predictable by taking listeners inside the dressing  rooms, apartments, and offices of people such as comedian Chris Rock,  political strategist Ed Rollins and Oscar winner Michael Douglas.   Every two weeks, Alec pursues great conversations in unexpected places  to find out what motivates his guests, how they feel about what they do  and what keeps them up at night. Here’s The Thing: Listen to what  happens when a man you think you know surprises you."
+    }, {
+        "title": "Histocast",
+        "url": "http://www.histocast.com/feed",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Esto es HistoCast. No es Esparta pero casi. Evitamos nuestro asesinato en un contubernio compuesto por Alex, Rodri, Jesús (@vuckaner), Toni (@LordCirencester) y Goyix (@goyix_salduero www.elguaridadegoyix.com). Os recordamos que nos podéis seguir a través de nuestra cuenta de twitter @histocast y en facebook. Esperamos que también os guste, tanto como a nosotros hacer este podcast de Historia."
+    }, {
+        "title": "Hoaxilla",
+        "url": "http://www.hoaxilla.de/podcast/hoaxilla.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "Yes",
+        "description": "Der skeptische Podcast aus Hamburg - Hoaxilla beschäftigt sich mit Modernen Sagen (Urban Legends), Medien, Kultur und Wissenschaft aus Sicht der Skeptiker-Bewegung ohne sich dabei selbst zu ernst zu nehmen." 
+    }, {
+        "title": "HowStuffWorks: TechStuff",
+        "url": "http://www.howstuffworks.com/podcasts/techstuff.rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "What exactly is RAM? How do remote controls work? Join Chris and Jonathan each week as they bring you the latest and greatest TechStuff in this podcast by HowStuffWorks.com." 
+    }, {
+        "title": "Ideas",
+        "url": "http://www.cbc.ca/podcasting/includes/ideas.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "IDEAS is CBC Radio's program of contemporary thought. The show's content is wide-ranging. From the French thinker Simone Weil to ideas about oceans. From ice cream to Einstein. Dante to spy novels. Robin Hood to the culture of pain. Almost any subject can become an IDEAS program, as long as there's an important idea at the core and a fascinating story to be told." 
+    }, {
+        "title": "Inside MusiCast",
+        "url": "http://www.insidemusicast.com/storage/podcast/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Music",
+        "explicit": "No",
+        "description": "We love music. All kinds of music. You name it, we like it. But listening to the music isnt enough for us. Anyone can do that. Thats why we've launched Inside MusiCast. Because we know that behind great music are great session musicians, producers, writers and engineers that are the talent behind the talent. We dedicate our podcast to them and to you - the music enthusiasts who need to go beyond the liner notes. Welcome to Inside Musicast." 
+    }, {
+        "title": "Journal Économique",
+        "url": "http://www.rtl.fr/podcast/le-journal-economique.xml",
+        "language": "French",
+        "type": "Audio",
+        "category": "Business",
+        "explicit": "No",
+        "description": "Le «Journal Économique» de Christian Menanteau offre un tour complet de l’actualité économique pour mieux en appréhender ses enjeux." 
+    }, {
+        "title": "The John Batchelor Show",
+        "url": "http://batchelorshow.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "News &; Politics",
+        "explicit": "No",
+        "description": "The John Batchelor Show brings listeners breaking news with a carefully cultivated team of sources and correspondents around the world." 
+    }, {
+        "title": "Kevin Pollak's Chat Show",
+        "url": "http://feeds.feedburner.com/kevinpollakschatShow-video?format=xml",
+        "language": "English",
+        "type": "Video",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Kevin Pollak's Chat Show is a video talkshow. An award-winning actor, Pollak (The Usual Suspects, Casino, A Few Good Men) was also named by Comedy Central as One of the Top 100 Comedians of All Time. Here, he interviews celebrated actors, writers, directors, comedians, and masters of the tech universe." 
+    }, {
+        "title": "Kwobb",
+        "url": "http://www.kwobb.net/content/podcast/kwobbcast",
+        "language": "German",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Jede Woche gibt's einen neuen Live-/Podcast rund um die ganze Welt der digitalen Unterhaltung. Ob Games, Gadgets, Filme oder das Internet. Wir besprechen mit euch (zugeschaltet via Skype) alles das, was den Geek/Nerd von heute interessiert!" 
+    }, {
+        "title": "L’apéro du Captain",
+        "url": "http://feeds.feedburner.com/CaptainWeb",
+        "language": "French",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Le VRAI blog geek et high tech de référence (BORDEL)." 
+    }, {
+        "title": "La Chaîne Guitare",
+        "url": "http://lachaineguitare.com/feed/podcast",
+        "language": "French",
+        "type": "Audio",
+        "category": "Music",
+        "explicit": "No",
+        "description": "Amplificateur de Passion." 
+    }, {
+        "title": "La Voix dans la Tête",
+        "url": "http://feeds.feedburner.com/LVDLT",
+        "language": "French",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "Yes",
+        "description": "La Voix dans la Tête, l'émission bimensuelle techno-culturelle." 
+    }, {
+        "title": "Left, Right & Center",
+        "url": "http://www.kcrw.com/news/programs/lr/RSS",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "KCRW's weekly confrontation over politics, policy and popular culture." 
+    }, {
+        "title": "Legal Talk",
+        "url": "http://legaltalknetwork.com/RSS/LTN_feed.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Interactive Talk Radio for Legal Professionals. Our multimedia network lets you get the latest legal news, listen to Internet radio shows hosted by the leading attorneys across the U-S and access important legal resources and technology...all in one place. The Legal Talk Network will make a difference in the way you practice law!" 
+    }, {
+        "title": "L'Edito d'Alba Ventura",
+        "url": "http://www.rtl.fr/podcast/l-edito-d-alba-ventura-en-video.xml",
+        "language": "French",
+        "type": "Video",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Après ses «carnets» qu’elle signait d’une main de maître les deux saisons précedentes, Alba Ventura décode dans «L’Édito» l’actualité politique et apporte son expertise des affaires publiques." 
+    }, {
+        "title": "Linux Action Show!",
+        "url": "http://feeds.feedburner.com/linuxactionshowipodvid?format=xml",
+        "language": "English",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "A show that covers everything geeks care about in the open source and Linux world. Get a solid dose of Linux, gadgets, news events and much more!" 
+    }, {
+        "title": "Linux Outlaws",
+        "url": "http://feeds.feedburner.com/linuxoutlaws",
+        "language": "English",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "Yes",
+        "description": "Two pragmatic geeks talk about the latest news concerning Linux, free and open technology or anything else they deem noteworthy which may include such absurd things as hockey or bands you never heard of. This means there's many a joke and derailed conversation along the way, so don't come here expecting only Linux or software freedom talk — just sit back and relax, partner." 
+    }, {
+        "title": "LoQueYoTeDiga",
+        "url": "http://podcastweblqytdiga.wordpress.com/feed",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "TV & Film",
+        "explicit": "No",
+        "description": "El podcast oficial de LoQueYoTeDiga, productora de comunicación dedicada durante más de 20 años a la información cinematográfica en distintos medios." 
+    }, {
+        "title": "Los Danko",
+        "url": "http://losdanko.podomatic.com/rss2.xml",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "El Pelos y Sam Danko te traen una visi&#243;n alternativa y urbana del humor, episodios divertidos e inesperados sobre lo actual, lo humano, y lo divino. Un podcast alternativo y &#250;nico, no vinculado a ning&#250;n ente medi&#225;tico, libre de censuras y tab&#250;s, y siempre, desde el respeto y la modulaci&#243;n..." 
+    }, {
+        "title": "Marketplace Money",
+        "url": "http://www.marketplace.org/shows/54/podcast.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Business",
+        "explicit": "No",
+        "description": "Marketplace Money from American Public Media is a weekly hour-long program hosted by Tess Vigeland on the topics of personal finance, money, retirement, and health care." 
+    }, {
+        "title": "Mein Freund der Baum",
+        "url": "http://www.kuechenstud.io/mein-freund-der-baum/feed/mp3/",
+        "language": "German",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "No",
+        "description": "Das Bücherradio im Küchenstud.io mit Andreas Baum." 
+    }, {
+        "title": "Mike O'Meara Show",
+        "url": "http://mikeomearashow.com/category/podcasts/feed",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "A fun mash-up of real life, pop-culture, news of the day, dynamic audio clips, and three guys busting each others’ balls." 
+    }, {
+        "title": "Mohr Stories - FakeMustache",
+        "url": "http://mohrstories.fakemustache.libsynpro.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Join your host Jay Mohr and a rotating cast of his hilarious friends as they regale you with tales and conversation covering every topic imaginable. You haven't heard the half of it until you've heard... Mohr Stories." 
+    }, {
+        "title": "Motley Fool Money",
+        "url": "http://fool.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Business",
+        "explicit": "No",
+        "description": "Syndicated to radio stations across America, Motley Fool Money is an irreverent, fast-paced look at the world of business and investing. Each weekly episode features a roundtable discussion breaking down the biggest headlines from Wall Street, interviews with business leaders and authors, and an inside look at the stocks on our radar." 
+    }, {
+        "title": "NachDenkSeiten",
+        "url": "http://www.nachdenkseiten.de/?feed=audiopodcast",
+        "language": "German",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Im Audiopodcast der NachDenkSeiten werden regelmäßig die wichtigsten Artikel des Blogs NachDenkSeiten.de zum Nachhören angeboten." 
+    }, {
+        "title": "Neues aus der Anstalt",
+        "url": "http://www.zdf.de/ZDFmediathek/podcast/222630?view=podcast",
+        "language": "German",
+        "type": "Video",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "Die ZDF-Politsatire \"Neues aus der Anstalt\" mit Priol. Kabarett ist oft tot gesagt worden, aber es ist heute auch im Fernsehen präsenter und lebendiger denn je. Zu verdanken ist dies vor allem der ZDF-Produktion Neues aus der Anstalt, welche seit 2007 fast monatlich politisches Kabarett auf höchstem Niveau bietet."
+    }, {
+        "title": "Nerdgasm Noire Networkt",
+        "url": "http://feeds.feedburner.com/NerdgasmNoireNetwork",
+        "language": "English",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "Yes",
+        "description": "The Nerdgasm Noire Network is a group of 5 black women who love all things geeky. From books to anime to tv, we discuss what we love and hate. Click. Read. Listen. Enjoy."
+    }, {
+        "title": "Nerdist Podcast",
+        "url": "http://nerdist.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "Yes",
+        "description": "I am Chris Hardwick. I am on TV a lot and have a blog at nerdist.com. This podcast is basically just me talking about stuff and things with my two nerdy friends Jonah Ray and Matt Mira, and usually someone more famous than all of us. Occasionally we swear because that is fun. I hope you like it."
+    }, {
+        "title": "Newshour",
+        "url": "http://downloads.bbc.co.uk/podcasts/worldservice/newshour/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Global news and analysis from the BBC World Service, twice a day, every day of the year. Join our leading team of presenters for the best interviews, features and analysis of world events."
+    }, {
+        "title": "Ohhh! TV",
+        "url": "http://feeds.feedburner.com/Ohhhtvs",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "TV & Film",
+        "explicit": "Yes",
+        "description": "Bienvenidos al podcast de la cultura audiovisual. Donde a modo de tertulia informal e informativa cada 15 días hablamos de las últimas noticias sobre televisión y cine."
+    }, {
+        "title": "On Being",
+        "url": "http://www.onbeing.org/sites/onbeing.org/podcast.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "On Being is a spacious conversation about meaning, faith, ethics, and ideas - online and on public radio. Join Krista and her guests as they discuss the big questions at the center of human life, from the boldest new science of the human brain to the most ancient traditions of the human spirit. Each week a new discovery about faith, meaning, and the immensity of our lives. The On Being podcast contains each week's show - and the unedited interview - in its entirety and is updated every Thursday."
+    }, {
+        "title": "Pardon The Interruption",
+        "url": "http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=2406595",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Tony Kornheiser and Michael Wilbon face off on the day's hot topics."
+    },  {
+        "title": "Planet Money",
+        "url": "http://www.npr.org/rss/podcast.php?id=510289",
+        "language": "English",
+        "type": "Audio",
+        "category": "Business",
+        "explicit": "No",
+        "description": "Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks -- all trying to make sense of our rapidly changing global economy."
+    }, {
+        "title": "Preston and Steve",
+        "url": "http://feeds.feedburner.com/PrestonAndStevePodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "The Preston and Steve show is a morning radio comedy and variety broadcast on Philadelphia Active Rock station 93.3 FM WMMR featuring DJs Preston Elliot and Steve Morrison. The show, which originated at Y100 in Philadelphia, features daily telephone interviews, in-studio guests, celebrity impersonations, unusual news stories, and numerous sound clips and running gags."
+    }, {
+        "title": "Territorimac",
+        "url": "http://www.territorimac.com/category/programas/feed",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "La voz de los usuarios Mac. Cada semana te ofrecemos en nuestras secciones, noticias, entrevistas, aplicaciones, trucos, respuestas a tus preguntas y concursos."
+    }, {
+        "title": "The Daily Interaction (Prolific Living Media)",
+        "url": "http://feeds.feedburner.com/TheDailyInteraction",
+        "language": "English",
+        "type": "Audio",
+        "category": "Business",
+        "explicit": "No",
+        "description": "The Daily Interaction Podcast, with Farnoosh Brock as your host, talks about all the social exchanges in your personal life as well as your business, your career, and the workplace. This show gives you specific tips on being an effective communicator by understanding and refining how you say things, how you position yourself, how you relate to others, using subtle, smart, and practical tools and techniques. What are the best ways of saying it, writing it, typing it, speaking it and meaning it exactly as you intend it? Join us each week as we share stories and strategies of taking your daily interactions to a higher level."
+    }, {
+        "title": "Quarks & Co",
+        "url": "http://podcast.wdr.de/quarks.xml",
+        "language": "German",
+        "type": "Video",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Quarks & Co: Das Wissenschaftsmagazin mit Ranga Yogeshwar."
+    }, {
+        "title": "Raumzeit",
+        "url": "http://feeds.feedburner.com/raumzeit-podcast",
+        "language": "German",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Raumzeit ist eine Serie von Gesprächen mit Wissenschaftlern, Ingenieuren und anderen Machern von DLR und ESA über Raumfahrt. Jede Episode rückt einen Themenbereich in den Fokus und diskutiert ausführlich alle Aspekte und Details."
+    }, {
+        "title": "Radio Underground",
+        "url": "http://feeds.feedburner.com/radiounderground",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Music",
+        "explicit": "No",
+        "description": "Radio Underground es un proyecto que trata de hacer llegar la música de una manera diferente a la que estamos acostumbrados."
+    }, {
+        "title": "Radio Vinyle",
+        "url": "http://podcast.radiofrance.fr/video/radio-vinyle.php",
+        "language": "French",
+        "type": "Video",
+        "category": "Music",
+        "explicit": "No",
+        "description": "Radio Vinyle, une immersion dans la collection de disques vinyles de Radio France! Un artiste se plonge dans l'intarissable discothèque de Radio France pour faire sa sélection de pépites musicales. Il pose le vinyle sur la platine, et l'entretien commence."
+    }, {
+        "title": "RadioWissen (Bayern 2)",
+        "url": "http://www.br-online.de/podcast/radiowissen/cast.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Education",
+        "explicit": "No",
+        "description": "radioWissen bietet eine Fülle unterschiedlicher Themen: Spannendes aus der Geschichte, Interessantes aus Literatur und Musik, Faszinierendes über Mythen, Menschen und Religionen, Erhellendes über Natur und Umwelt, Hintergründiges über aktuelle Themen im Gespräch. Die ganze Welt des Wissens - der radioWissen-Podcast liefert täglich ausgewählte Sendungen frei Haus - spannend erzählt, gut aufbereitet, nützlich für die Schule und bereichernd für alle Bildungsinteressierten."
+    }, {
+        "title": "Rich Eisen NFL Podcast",
+        "url": "http://richeisen.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "As host of the NFL Network since its inception in 2003, no one has enjoyed more access to the National Football League than Rich Eisen. Over the past 7 years, millions of fans have tuned into NFL Network's coverage of the Super Bowl, NFL Draft and NFL Scouting Combine to find Rich Eisen in the center of the NFL universe."
+    }, {
+        "title": "Rooster Teeth",
+        "url": "http://s3.roosterteeth.com/podcasts/index.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "On a weekly basis the Rooster Teeth (creators of Red vs Blue) crew discuss gaming, pop culture and projects that they are currently working on."
+    }, {
+        "title": "Scam School",
+        "url": "http://revision3.com/scamschool/feed/MP4-Large",
+        "language": "English",
+        "type": "Video",
+        "category": "Games & Hobbies",
+        "explicit": "No",
+        "description": "If Harvard offered a PhD in deceit, this would be it. Award-winning magician Brian Brushwood takes viewers on an inside tour of bar tricks, street cons, and scams. If you watch carefully, you'll never have to pay for a drink again!"
+    }, {
+        "title": "Science Friday",
+        "url": "http://www.sciencefriday.com/audio/scifriaudio.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Science Friday, as heard on NPR, is a weekly discussion of the latest news in science, technology, health, and the environment hosted by Ira Flatow. Ira interviews scientists, authors, and policymakers, and listeners can call in and ask questions as well."
+    }, {
+        "title": "Science Talk",
+        "url": "http://rss.sciam.com/sciam/science-talk",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Science Talk is a weekly science audio show covering the latest in the world of science and technology. Join Steve Mirsky each week as he explores cutting-edge breakthroughs and controversial issues with leading scientists and journalists."
+    }, {
+        "title": "Scott Mills Daily (BBC)",
+        "url": "http://downloads.bbc.co.uk/podcasts/radio1/mills/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "A daily slice of Scott, with more silly features, crank calls and plenty of attempts to make you laugh."
+    }, {
+        "title": "Scottish Football",
+        "url": "http://downloads.bbc.co.uk/podcasts/scotland/scotfoot/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Keep right up to date with what's happening in Scottish football by downloading the daily BBC Scottish football podcast. Breaking stories, match reaction, big names and insights into our national game. A must for your daily diet of football."
+    }, {
+        "title": "Selected Shorts",
+        "url": "http://selectedshortspri.pri.libsynpro.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "No",
+        "description": "It's story time for adults with PRI's award-winning series of short fiction read by the stars of stage and screen. Recorded live at Peter Norton Symphony Space in NYC and on tour. A co-production of Symphony Space and WNYC, New York Public Radio."
+    }, {
+        "title": "The Skeptics' Guide to the Universe",
+        "url": "http://www.theskepticsguide.org/feed/rss.aspx?feed=SGU",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "The Skeptics Guide to the Universe is a weekly Science podcast talkshow discussing the latest news and topics from the world of the paranormal, fringe science, and controversial claims from a scientific point of view."
+    }, {
+        "title": "Skeptoid: Critical Analysis of Pop Phenomena",
+        "url": "http://skeptoid.com/podcast.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Skeptoid is a weekly science podcast dedicated to furthering knowledge by blasting away the widespread pseudosciences that infect popular culture, and replacing them with way cooler reality. Each weekly episode focuses on a single phenomenon — an urban legend, a paranormal claim, alternative therapy, or something just plain stupid — that you've heard of, and that you probably believe in. Skeptoid attempts to expose the folly of belief in non-evidence based phenomena, and more importantly, explains the factual scientific reality. From the sublime to the startling, no topic is sacred, politically incorrect though that may be."
+    }, {
+        "title": "StarTalk Radio",
+        "url": "http://www.startalkradio.net/feed/shows",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Science, pop culture & comedy collide on StarTalk w/ astrophysicist & Hayden Planetarium director Neil deGrasse Tyson, comic co-hosts, celebrities & scientists."
+    }, {
+        "title": "Studio 360",
+        "url": "http://feeds.feedburner.com/studio360/podcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "The Peabody Award-winning Studio 360 with Kurt Andersen, from PRI and WNYC, is public radio’s smart and surprising guide to what's happening in pop culture and the arts. Each week, Kurt Andersen introduces you to the people who are creating and shaping our culture. Life is busy – so let Studio 360 steer you to the must-see movie this weekend, the next book for your nightstand, or the song that will change your life."
+    }, {
+        "title": "Stuff You Should Know",
+        "url": "http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "How does dueling work? Was Noah's Ark real? Join Josh and Chuck as they break down everything from Zorro to zoot suits in the Stuff You Should Know, a podcast from HowStuffWorks.com."
+    }, {
+        "title": "Snap Judgment",
+        "url": "http://www.npr.org/rss/podcast.php?id=510294",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Snap Judgment is the smoking-hot new show from NPR. Winner of the Public Radio Talent Quest, Glynn Washington delivers a raw, musical brand of storytelling, daring listeners to see the world through the eyes of another."
+    }, {
+        "title": "Tatort (ARD Radio)",
+        "url": "http://web.ard.de/radiotatort/rss/podcast.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "No",
+        "description": "In dem Gemeinschaftsprojekt ARD Radio Tatort sorgen spannende und unterhaltende Originalhörspiele prominenter Autorinnen und Autoren für akustischen Nervenkitzel. Zu hören sind die Folgen der Hörfunk-Krimireihe einmal monatlich innerhalb von fünf Tagen auf den beteiligten Sendern der neun Landesrundfunkanstalten. Der ARD Radio Tatort - auch als Podcast vier Wochen lang abrufbar, jeden Monat neu."
+    }, {
+        "title": "Tanguy Pastureau",
+        "url": "http://www.rtl.fr/podcast/tanguy-pastureau-en-video.xml",
+        "language": "French",
+        "type": "Video",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "Tanguy Pastureau tranche, malmène et détourne l’actualité à travers sa vision décalée."
+    }, {
+        "title": "Tech Guy",
+        "url": "http://feeds.twit.tv/ttg_video_small",
+        "language": "English",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "No one does a better job of explaining technology, computers, and the Internet than Leo Laporte. This feed contains the full audio of his twice weekly radio talk show as heard on stations all over the US."
+    }, {
+        "title": "The Rachel Maddow Show",
+        "url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
+        "language": "English",
+        "type": "Video",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "The Rachel Maddow Show, which airs 9 p.m. ET weeknights on MSNBC, is a smart look at politics, pop culture, and all the day's top stories. It's mind over chatter! Maddow is a political commentator for MSNBC and the Air America Radio network. This video podcast brings you each night's show in its entirety."
+    }, {
+        "title": "The Moth",
+        "url": "http://feeds.themoth.org/themothpodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "No",
+        "description": "Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country."
+    }, {
+        "title": "This Is My Next...",
+        "url": "http://feeds.feedburner.com/ThisIsMyNextPodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "You’re looking at \"This is my next\", the temporary home of Joshua Topolsky, Nilay Patel, Paul Miller, Joanna Stern, Ross Miller, Chris Ziegler, the lovely Justin Glow, and delightful Dan Chilton — a group of journalists and developers hard at work building the next great tech publication in partnership with SB Nation. That project will launch in the fall, but until then you can find us here, writing editorials, covering interesting news, and producing our weekly podcast. And if you think this is exciting, just wait until you see what we’ve got coming up next."
+    }, {
+        "title": "This week in Google",
+        "url": "http://feeds.twit.tv/twig_video_small",
+        "language": "English",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Leo Laporte, Gina Trapani, Jeff Jarvis and their guests talk about the latest Google and cloud computing news. Recorded live at 4 p.m. Eastern/1 p.m. Pacific/2000 UTC on Wednesdays and released later that evening. Part of the TWiT Netcast Network."
+    }, {
+        "title": "TMZ Live",
+        "url": "http://tmz.vo.llnwd.net/o28/podcasts/xml/tmz_podcast.xml",
+        "language": "English",
+        "type": "Video",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Come inside our TMZ newsroom for an hour Monday-Friday … hear about the stories we’re breaking from our staff in real time. Harvey Levin and crew will answer your questions via Twitter, Facebook … and on the phone. We’ll tell you things you didn’t know about the big celebrity stories of the day. It’s raw, unpredictable, packed with info and funny. In other words, it beats work."
+    }, {
+        "title": "To the Best of Our Knowledge",
+        "url": "http://ttbook.org/book/radio/rss/feed",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "To the Best of Our Knowledge cracks open the world and the ideas that fuel it through interviews with the world's luminaries, from experts to cultural icons.  Each show revolves around a theme where we explore these ideas and the people who consider them."
+    }, {
+        "title": "Tweet of the Day",
+        "url": "http://downloads.bbc.co.uk/podcasts/radio4/totd/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Discover British birds through their songs and calls. Each Tweet of the Day begins with a different call or song of a British species, followed by a story of fascinating ornithology inspired by the sound. The series runs for a year, with 265 episodes of 90 seconds, narrated by wildlife presenters beginning with Sir David Attenborough."
+    }, {
+        "title": "Von der Leyens",
+        "url": "http://podcast.wdr.de/radio/vonderleyens.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "Die perfekte Familie mit der perfektesten aller Muttis: Geschichten mit Gefühl, viel Arbeit, einem großen Familienkalender und einem kleinen Zeitfenster und mit sieben schlauen Kindern!"
+    }, {
+        "title": "Wait Wait... Don't Tell Me! (by NPR)",
+        "url": "http://www.npr.org/rss/podcast.php?id=35",
+        "language": "English",
+        "type": "Audio",
+        "category": "Games & Hobbies",
+        "explicit": "No",
+        "description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up."
+    }, {
+        "title": "Welcome to Night Vale",
+        "url": "http://feeds.feedburner.com/WelcomeToNightVale",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "Twice-monthly community updates for the small desert town of Night Vale, featuring local weather, news, announcements from the Sheriff's Secret Police, mysterious lights in the night sky, dark hooded figures with unknowable powers, and cultural events. Turn on your radio and hide. Welcome to Night Vale."
+    }, {
+        "title": "Wissenschaft und Bildung (dradio)",
+        "url": "http://www.dradio.de/rss/podcast/sendungen/wissenschaftundbildung",
+        "language": "German",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Beiträge des Deutschlandradio (Deutschlandfunk, Deutschlandradio Kultur) zu Wissenschaft und Bildung"
+    }, {
+        "title": "ZDF heute",
+        "url": "http://www.zdf.de/ZDFmediathek/podcast/222764",
+        "language": "German",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Das aktuelle Nachrichtenmagazin \"heute-journal\" des ZDF als Audio-Podcast."
     }]
 }
