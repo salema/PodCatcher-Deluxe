@@ -1,7 +1,7 @@
+- Updated icons and appearance
+- Improved playback control on tablets
 - Proper authentification support for password protected podcasts
 - Improved playlist behavior and re-ordering
-- Friendly dialog to welcome new users
 - Detailed download progress per episode
 - Resume indicators showing which episodes you started listening to
-- Improved feed compatibility
 - Plenty of fixes and small improvements
