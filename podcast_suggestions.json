@@ -8,6 +8,14 @@
         "explicit": "No",
         "description": "A Tiny Radio Show about Design with Roman Mars."
     }, {
+        "title": "Der satirische Wochenrückblick von Peter Zudeick",
+        "url": "http://podcast.wdr.de/radio/wochenrueck.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "Das politische Wochengeschehen - respektlos, aber treffend formuliert. Fair, aber ziemlich unbarmherzig."
+    }, {
         "title": "Freakonomics Podcast",
         "url": "http://feeds.feedburner.com/freakonomicsradio",
         "language": "English",
