@@ -1,0 +1,5 @@
+- Seleccionar tu color preferido para poder personalizar tu podcatcher.
+- Todos los episodios serán visibles de un solo vistazo gracias a la opción “Seleccionar todos los podcasts al inicio”.
+- Invertir el orden de la lista de episodios y descubrir antiguos episodios de tus podcasts favoritos.
+- La versión deluxe permite importar todos los podcasts de la versión simple al inicio de la aplicación.
+- Otras numerosas pequeñas mejoras

@@ -1,0 +1,5 @@
+- Přátelský pozdrav k uvítání nových uživatelů
+- Podrobný postup stahování epizody
+- Ukazatelé obnovení ukazující, které díly jste začali poslouchat
+- Vylepšená kompatibilita kanálu
+- Spousta oprav a malá vylepšení

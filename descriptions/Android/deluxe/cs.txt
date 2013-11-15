@@ -1,0 +1,6 @@
+Podcatcher Deluxe: vaše schopná a snadno se používající podcast aplikace.
+
+Podcatcher Deluxe je plně vybavená aplikace pro zvukové a obrazové záznamy, tzv. podcasty, navržená tak, aby váš obsah s těmito záznamy spravovala snadno za pohybu. 
+Společně se základními funkcemi pro přehrávání se Podcatcher Deluxe vyznačuje důmyslným rozvržením do tří sloupců. Jeden obsahuje seznam odběrů záznamů (podcastů), další zobrazuje nyní dostupné díly (pro vybraný odběr - předplatné) a třetí sloupec názorně zobrazuje podrobné popisy dílů záznamů. Toto rozvržení pracuje zvlášť dobře na tabulkových přenosných počítačích (tabletech) a u telefonů s velkou obrazovkou. Tento elegantní návrh podporuje více kanálů a během přehrávání v něm lze pohodlně hledat. Zahrnutý vyhledávač záznamů (podcastů) vám umožní rychlé hledání.
+Tato prémiová verze umožňuje stahování dílů, při opětovném spuštění pokračuje od naposledy přehrávaného místa a přidává podporu pro filtry dílů (nové/staré díly). Také poskytuje volbu seznamu skladeb pro nepřerušované těsně na sebe navazující přehrávání.
+Podívejte se na http://www.podcatcher-deluxe.com, kde jsou odkazy a další informace.

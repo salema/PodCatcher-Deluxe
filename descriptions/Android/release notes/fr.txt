@@ -1,0 +1,5 @@
+- Choisissez votre couleur préférée et personnalisez ainsi votre podcatcher.
+- Tous les épisodes seront visibles en un coup d’œil grâce à l’option « Choisir tous les podcasts lors du démarrage de l’application ».
+- Inverser l’ordre de la liste d’épisodes et découvrez les anciens épisodes de vos podcasts préférés.
+- Désormais, la version Deluxe vous permettra, lors du démarrage de l’application, d’importer tous les podcasts de la version simple.
+- Beaucoup d’autres petites améliorations.

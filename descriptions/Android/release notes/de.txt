@@ -1,0 +1,7 @@
+- Vollständige Unterstützung für passwort-geschützte Podcasts
+- Besseres Playlist-Verhalten und -Ordnen
+- Willkommensgruß für neue Nutzer
+- Detaillierte Fortschrittsanzeige für Downloads
+- Neue Icons, die zeigen welche Episoden erst teilweise angehört wurden
+- Verbesserte Unterstützung für bestimmte Podcast-Feeds
+- Zahlreiche kleinere Verbesserungen und Fehlerkorrekturen

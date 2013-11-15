@@ -1,0 +1,6 @@
+Simple Podcatcher: vaše zdarma a snadno se používající podcast aplikace.
+
+Simple Podcatcher je základní přesto elegantní aplikace pro přehrávání zvukových a obrazových záznamů (podcastů) navržená tak, aby snadno spravovala váš zaznamenaný obsah.
+Společně se základními funkcemi pro přehrávání se Simple Podcatcher vyznačuje důmyslným rozvržením do tří sloupců. Jeden obsahuje seznam odběrů záznamů (podcastů), další zobrazuje nyní dostupné díly (pro vybraný odběr - předplatné) a třetí sloupec názorně zobrazuje podrobné popisy dílů záznamů. Toto rozvržení pracuje zvlášť dobře na tabulkových přenosných počítačích (tabletech) a u telefonů s velkou obrazovkou. Tento elegantní návrh podporuje více kanálů a během přehrávání v něm lze pohodlně hledat. Zahrnutý vyhledávač záznamů (podcastů) vám umožní rychlé hledání.
+Simple Podcatcher je dostupný zdarma a umožňuje neomezený přenos dat s obsahem záznamu (podcast). Na stahování dílů záznamu, seznamy skladeb, filtry a mnohé další prémiové funkce vyzkoušejte Podcatcher Deluxe a Video Podcatcher Deluxe (oba dostupné na Google Play).
+Podívejte se na http://www.podcatcher-deluxe.com, kde jsou odkazy a další informace.
