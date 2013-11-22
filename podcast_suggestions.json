@@ -369,6 +369,14 @@
         "explicit": "No",
         "description": "Tu podcast de Aventura, Deporte y Naturaleza. Carreras de montaña, ultrafondo, mountain bike, senderismo, atletismo popular, etc. En Desconéctate Podcast trataremos temas relacionados con los deportes para aquellos que quieren desconectar de la vida cotidiana y practicar deporte al aire libre y en la naturaleza." 
     }, {
+        "title": "Desde Boxes",
+        "url": "http://feedpress.me/desdeboxes",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Podcast de Fórmula 1 hecho por aficionados, para aficionados." 
+    }, {
         "title": "Desde el Matadero",
         "url": "http://feeds.feedburner.com/DesdeElMatadero",
         "language": "Spanish",
