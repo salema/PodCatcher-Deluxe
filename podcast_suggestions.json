@@ -209,14 +209,6 @@
         "explicit": "No",
         "description": "Take a facts-based journey through the universe."
     }, {
-        "title": "Bakast",
-        "url": "http://feeds.feedburner.com/Bakast",
-        "language": "French",
-        "type": "Video",
-        "category": "TV & Film",
-        "explicit": "No",
-        "description": "Bakast c'est le podcast sur l'animation Japonaise et la culture otaku. Dans une ambiance geek assumée, Bakast vous donne rendez-vous chaque mois pour parler des dernières sorties animés, mangas et tester en direct un jeu vidéo."
-    }, {
         "title": "Bambule - das Magazin",
         "url": "http://www.zdf.de/ZDFmediathek/podcast/1579818?view=podcast",
         "language": "German",
