@@ -849,6 +849,14 @@
         "explicit": "No",
         "description": "On a weekly basis the Rooster Teeth (creators of Red vs Blue) crew discuss gaming, pop culture and projects that they are currently working on."
     }, {
+        "title": "Savage Lovecast",
+        "url": "http://savagelove.savagelovecast.libsynpro.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Health",
+        "explicit": "Yes",
+        "description": "Dan Savage, America's only advice columnist, answers your sex questions and yaps about politics."
+    }, {
         "title": "Scam School",
         "url": "http://revision3.com/scamschool/feed/MP4-Large",
         "language": "English",
@@ -912,6 +920,14 @@
         "category": "Science & Medicine",
         "explicit": "No",
         "description": "Skeptoid is a weekly science podcast dedicated to furthering knowledge by blasting away the widespread pseudosciences that infect popular culture, and replacing them with way cooler reality. Each weekly episode focuses on a single phenomenon — an urban legend, a paranormal claim, alternative therapy, or something just plain stupid — that you've heard of, and that you probably believe in. Skeptoid attempts to expose the folly of belief in non-evidence based phenomena, and more importantly, explains the factual scientific reality. From the sublime to the startling, no topic is sacred, politically incorrect though that may be."
+    }, {
+        "title": "Skip Heitzig Connection TV",
+        "url": "http://skipheitzig.com/podcast/tv",
+        "language": "English",
+        "type": "Video",
+        "category": "Religion & Spirituality",
+        "explicit": "No",
+        "description": "Connection TV features the teaching of Skip Heitzig, senior pastor at Calvary Albuquerque. From topical studies to verse-by-verse exposition through the entire Bible, Connection TV presents the Word of God in a format that is contemporary, relaxed, and relevant."
     }, {
         "title": "StarTalk Radio",
         "url": "http://www.startalkradio.net/feed/shows",
@@ -1056,6 +1072,14 @@
         "category": "Science & Medicine",
         "explicit": "No",
         "description": "Beiträge des Deutschlandradio (Deutschlandfunk, Deutschlandradio Kultur) zu Wissenschaft und Bildung"
+    }, {
+        "title": "WTF with Marc Maron",
+        "url": "http://www.wtfpod.com/podcast/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Comedian Marc Maron is tackling the most complex philosophical question of our day - WTF? He'll get to the bottom of it with help from comedian friends, celebrity guests and the voices in his own head."
     }, {
         "title": "ZDF heute",
         "url": "http://www.zdf.de/ZDFmediathek/podcast/222764",
