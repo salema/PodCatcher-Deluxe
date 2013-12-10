@@ -969,6 +969,14 @@
         "explicit": "No",
         "description": "Snap Judgment is the smoking-hot new show from NPR. Winner of the Public Radio Talent Quest, Glynn Washington delivers a raw, musical brand of storytelling, daring listeners to see the world through the eyes of another."
     }, {
+        "title": "Tagesschau",
+        "url": "http://www.tagesschau.de/export/video-podcast/tagesschau",
+        "language": "German",
+        "type": "Video",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Deutschlands erfolgreichste Nachrichtensendung als Video-Podcast."
+    }, {
         "title": "Tatort (ARD Radio)",
         "url": "http://web.ard.de/radiotatort/rss/podcast.xml",
         "language": "German",
@@ -1008,6 +1016,14 @@
         "category": "Arts",
         "explicit": "No",
         "description": "Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country."
+    }, {
+        "title": "The Side Project Freecast",
+        "url": "http://sideproject.radiofubar.com/?feed=rss2",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "Yes",
+        "description": "The Side Project Live is a libertarian talk show broadcasting from Morris, IL and Indianapolis, IN. Topics discussed range from health care, to horror movies, and anything in between."
     }, {
         "title": "This Is My Next...",
         "url": "http://feeds.feedburner.com/ThisIsMyNextPodcast",
