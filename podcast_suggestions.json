@@ -937,6 +937,14 @@
         "explicit": "No",
         "description": "Connection TV features the teaching of Skip Heitzig, senior pastor at Calvary Albuquerque. From topical studies to verse-by-verse exposition through the entire Bible, Connection TV presents the Word of God in a format that is contemporary, relaxed, and relevant."
     }, {
+        "title": "Staatsbürgerkunde",
+        "url": "http://www.staatsbuergerkunde-podcast.de/feed/mp3-rss",
+        "language": "German",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Ein Podcast über das Leben in der DDR. Im Gespräch mit Gästen schaut Martin Fischer in jeder Folge zurück auf die Lebensaspekte eines Bürgers der ehemaligen Deutschen Demokratischen Republik. Vom Schulsystem, dem kulturellen Leben bis hin zu den politischen Repressionen reicht das Themenspektrum. Der Podcast erscheint ungefähr alle drei Wochen."
+    }, {
         "title": "StarTalk Radio",
         "url": "http://www.startalkradio.net/feed/shows",
         "language": "English",
