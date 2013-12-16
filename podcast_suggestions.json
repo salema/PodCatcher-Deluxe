@@ -417,6 +417,14 @@
         "explicit": "No",
         "description": "Engadget en español." 
     }, {
+        "title": "Es la Mañana de Federico",
+        "url": "http://esradio.libertaddigital.com/es-la-manana-de-federico/podcast.xml",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "La mañana de siempre, ahora en esRadio. Federico conduce las mañanas con sus colaboradores habituales. Información y opinión." 
+    }, {
         "title": "Esta peli ya la he visto",
         "url": "http://estapeliyalahevisto.com/feed/podcast",
         "language": "Spanish",
