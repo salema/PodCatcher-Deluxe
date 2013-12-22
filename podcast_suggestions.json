@@ -1105,6 +1105,14 @@
         "explicit": "No",
         "description": "Twice-monthly community updates for the small desert town of Night Vale, featuring local weather, news, announcements from the Sheriff's Secret Police, mysterious lights in the night sky, dark hooded figures with unknowable powers, and cultural events. Turn on your radio and hide. Welcome to Night Vale."
     }, {
+        "title": "Wissen macht Ah!",
+        "url": "http://podcast.wdr.de/wissenmachtah.xml",
+        "language": "German",
+        "type": "Video",
+        "category": "Kids & Family",
+        "explicit": "No",
+        "description": "Wissen macht ah! versorgt Klugscheißer - und alle, die es werden wollen - mit dem gewissen Ah!"
+    }, {
         "title": "Wissenschaft und Bildung (dradio)",
         "url": "http://www.dradio.de/rss/podcast/sendungen/wissenschaftundbildung",
         "language": "German",
