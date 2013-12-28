@@ -313,6 +313,14 @@
         "explicit": "No",
         "description": "Toute l'actualité des super-héros, c'est dans Côté Comics, votre nouveau rendez-vous qui se concentre sur les comics et met de coté tout le reste !"
     }, {
+        "title": "Critical Reasoning for Beginners",
+        "url": "http://mediapub.it.ox.ac.uk/feeds/129128/video.xml",
+        "language": "English",
+        "type": "Video",
+        "category": "Education",
+        "explicit": "No",
+        "description": "Are you confident you can reason clearly? Are you able to convince others of your point of view? Are you able to give plausible reasons for believing what you believe? Do you sometimes read arguments in the newspapers, hear them on the television, or in the pub and wish you knew how to confidently evaluate them? In this six-part course, you will learn all about arguments, how to identify them, how to evaluate them, and how not to mistake bad arguments for good. Such skills are invaluable if you are concerned about the truth of your beliefs, and the cogency of your arguments."
+    }, {
         "title": "Daily Bacon",
         "url": "http://downloads.bbc.co.uk/podcasts/fivelive/dailybacon/rss.xml",
         "language": "English",
