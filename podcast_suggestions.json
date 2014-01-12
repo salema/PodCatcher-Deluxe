@@ -792,7 +792,7 @@
         "category": "Sports & Recreation",
         "explicit": "No",
         "description": "Tony Kornheiser and Michael Wilbon face off on the day's hot topics."
-    },  {
+    }, {
         "title": "Planet Money",
         "url": "http://www.npr.org/rss/podcast.php?id=510289",
         "language": "English",
@@ -800,6 +800,14 @@
         "category": "Business",
         "explicit": "No",
         "description": "Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks -- all trying to make sense of our rapidly changing global economy."
+    }, {
+        "title": "Point of Inquiry",
+        "url": "http://pointofinquiry.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Launched in 2005, Point of Inquiry is the premier podcast of the Center for Inquiry. Point of Inquiry critically examines topics in science, religion, philosophy, and politics. Each episode takes on a specific issue and features lively discussion with leading scientists, researchers and writers."
     }, {
         "title": "Preston and Steve",
         "url": "http://feeds.feedburner.com/PrestonAndStevePodcast",
