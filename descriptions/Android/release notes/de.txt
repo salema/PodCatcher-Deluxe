@@ -1,3 +1,4 @@
+- Einstellungen zum Blockieren von nicht-jugendfreien Inhalten 
 - Neue Icons und verbesserte Oberfläche
 - Erweiterte Wiedergabeoptionen auf Tablets
 - Vollständige Unterstützung für passwort-geschützte Podcasts

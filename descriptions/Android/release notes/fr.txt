@@ -1,7 +1,8 @@
+- Paramètres pour bloquer du contenu explicite 
 - Nouveaux icônes et meilleure apparence
 - Options avancées de lecture disponibles sur les tablettes
 - Supporte tous les podcasts protégés par un mot passe 
 - Amélioration du comportement et de la réorganisation de la liste de lecture
 - Barre de progression de téléchargements détaillée
 - Nouveaux icônes indiquant quels épisodes n’ont été que partiellement écoutés
-- Beaucoup d’autres petites améliorations.
+- Beaucoup d’autres petites améliorations
