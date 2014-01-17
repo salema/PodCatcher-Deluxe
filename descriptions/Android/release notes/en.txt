@@ -1,4 +1,4 @@
-- Optionally block explicit content in restricted profiles 
+- Optionally block explicit content in restricted profiles
 - Updated icons and appearance
 - Improved playback control on tablets
 - Proper authentication support for password protected podcasts

@@ -1,5 +1,5 @@
-- Ajustes para bloquear contenido explícito  
-- Nuevos iconos y mejor aspecto de la interfaz 
+- Ajustes para bloquear contenido explícito
+- Nuevos iconos y mejor aspecto de la interfaz
 - Opciones avanzadas de reproducción disponibles en tablets
 - Admite todos los podcasts protegidos con contraseña
 - Mejor comportamiento y reorganización de la lista de reproducción
