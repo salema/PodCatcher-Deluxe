@@ -1,4 +1,4 @@
-- Volitelně blokovat určitý obsah v profilech s omezením 
+- Volitelně blokovat určitý obsah v profilech s omezením
 - Aktualizované ikony a vzhled
 - Vylepšené ovládání přehrávání na tabletech
 - Řádná podpora ověřování pro záznamy chráněné heslem
