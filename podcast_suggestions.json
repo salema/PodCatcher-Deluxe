@@ -1105,6 +1105,14 @@
         "explicit": "No",
         "description": "Discover British birds through their songs and calls. Each Tweet of the Day begins with a different call or song of a British species, followed by a story of fascinating ornithology inspired by the sound. The series runs for a year, with 265 episodes of 90 seconds, narrated by wildlife presenters beginning with Sir David Attenborough."
     }, {
+        "title": "Vergecast",
+        "url": "http://feeds.feedburner.com/TheVergecastVideo",
+        "language": "English",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "This Vergecast is your source for an irreverent and informative look at what's happening right now (and next) in the world of technology and gadgets. Hosted by Joshua Topolsky, Nilay Patel, and Paul Miller alongside a cavalcade of tech luminaries, TIMNP is the only podcast you need to make sense of the week in tech news."
+    }, {
         "title": "Von der Leyens",
         "url": "http://podcast.wdr.de/radio/vonderleyens.xml",
         "language": "German",
