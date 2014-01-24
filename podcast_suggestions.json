@@ -8,6 +8,14 @@
         "explicit": "No",
         "description": "A Tiny Radio Show about Design with Roman Mars."
     }, {
+        "title": "CRE: Technik, Kultur, Gesellschaft",
+        "url": "http://cre.fm/feed/mp3",
+        "language": "German",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Der Interview-Podcast mit Tim Pritlove: Intensive und ausführliche Gespräche über Themen aus Technik, Kultur und Gesellschaft, das ist CRE. Interessante Gesprächspartner stehen Rede und Antwort zu Fragen, die man normalerweise selten gestellt bekommt. CRE möchte aufklären, weiterbilden und unterhalten."
+    }, {
         "title": "Der satirische Wochenrückblick von Peter Zudeick",
         "url": "http://podcast.wdr.de/radio/wochenrueck.xml",
         "language": "German",
