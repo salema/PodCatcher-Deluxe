@@ -9,7 +9,7 @@
         "description": "A Tiny Radio Show about Design with Roman Mars."
     }, {
         "title": "CRE: Technik, Kultur, Gesellschaft",
-        "url": "http://cre.fm/feed/mp3",
+        "url": "http://feeds.feedburner.com/cre-podcast/mp3",
         "language": "German",
         "type": "Audio",
         "category": "Technology",
