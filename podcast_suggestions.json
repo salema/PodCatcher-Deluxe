@@ -1105,6 +1105,14 @@
         "explicit": "No",
         "description": "Discover British birds through their songs and calls. Each Tweet of the Day begins with a different call or song of a British species, followed by a story of fascinating ornithology inspired by the sound. The series runs for a year, with 265 episodes of 90 seconds, narrated by wildlife presenters beginning with Sir David Attenborough."
     }, {
+        "title": "Q: The Podcast from CBC Radio",
+        "url": "http://www.cbc.ca/podcasting/includes/qpodcast.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "No",
+        "description": "CBC Radio's Q is Canada's liveliest arts, culture and entertainment magazine. It's a smart and surprising tour through personalities and cultural issues that matter to Canadians. Hosted by Jian Ghomeshi, with his trademark wit and spontaneity, Q covers pop culture and high arts alike, with forays into the most provocative and compelling cultural trends. Q brings you big names, big ideas, and those paving the way in Canada's cultural community. Q is your cultural intervention!"
+    }, {
         "title": "Vergecast",
         "url": "http://feeds.feedburner.com/TheVergecastVideo",
         "language": "English",
