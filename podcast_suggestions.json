@@ -777,6 +777,14 @@
         "explicit": "No",
         "description": "Global news and analysis from the BBC World Service, twice a day, every day of the year. Join our leading team of presenters for the best interviews, features and analysis of world events."
     }, {
+        "title": "NFL: The Dave Dameshek Football Program",
+        "url": "http://dameshek.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Dave Dameshek sets his gaze on the NFL landscape to analyze, celebrate and - when necessary - offer improvements to America's true national pastime from a true fan's perspective."
+    }, {
         "title": "Ohhh! TV",
         "url": "http://feeds.feedburner.com/Ohhhtvs",
         "language": "Spanish",
@@ -1072,6 +1080,14 @@
         "category": "News & Politics",
         "explicit": "Yes",
         "description": "The Side Project Live is a libertarian talk show broadcasting from Morris, IL and Indianapolis, IN. Topics discussed range from health care, to horror movies, and anything in between."
+    }, {
+        "title": "The World of Phil Hendrie",
+        "url": "http://feeds.soundcloud.com/users/soundcloud:users:36346811/sounds.rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "Creative genius chock full of character, comedy and commentary — that's Phil Hendrie."
     }, {
         "title": "This Is My Next...",
         "url": "http://feeds.feedburner.com/ThisIsMyNextPodcast",
