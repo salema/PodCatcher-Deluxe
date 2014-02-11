@@ -1,0 +1,24 @@
+﻿01_core_accept -> ic_checkmark
+04_collections_view_as_list -> ic_file
+04_collections_collection -> ic_file_folder
+02_navigation_back -> rotate -> ic_file_up
+01_core_refresh -> ic_media_buffering
+05_content_save -> ic_media_downloaded
+09_media_download -> ic_media_downloading
+09_media_fast_forward -> ic_media_forward
+09_media_full_screen -> ic_media_fullscreen
+03_rating_important -> ic_media_new
+09_media_next -> ic_media_next
+09_media_pause -> ic_media_pause
+09_media_play -> ic_media_play
+09_media_rewind -> ic_media_rewind
+09_media_stop -> ic_media_stop
+01_core_new -> ic_menu_add
+01_core_discard -> ic_menu_delete
+09_media_download -> ic_menu_download
+03_rating_half_important -> ic_menu_filter, ic_menu_filter_reverse
+03_rating_important -> ic_menu_new
+03_rating_not_important -> ic_menu_old
+09_media_add_to_queue -> ic_menu_playlist_add
+01_core_select_all -> ic_menu_select_all
+04_collections_sort_by_size -> ic_menu_sort, ic_menu_sort_reverse
