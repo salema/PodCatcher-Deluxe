@@ -402,7 +402,7 @@
         "description": "Podcast dedicado al cine, la television, los comics, la musica, internet, los libros,... todo lo que nos gusta a nosotros y queremos que conozcas." 
     }, {
         "title": "Dr. Will's Neighborhood",
-        "url": "http://drwill.com/episodes?format=feed&type=rss",
+        "url": "http://feeds.feedburner.com/drwill",
         "language": "English",
         "type": "Audio",
         "category": "Health",
