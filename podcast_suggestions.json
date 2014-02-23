@@ -401,6 +401,14 @@
         "explicit": "No",
         "description": "Podcast dedicado al cine, la television, los comics, la musica, internet, los libros,... todo lo que nos gusta a nosotros y queremos que conozcas." 
     }, {
+        "title": "Dr. Will's Neighborhood",
+        "url": "http://drwill.com/episodes?format=feed&type=rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Health",
+        "explicit": "No",
+        "description": "A Wellness Podcast. Television personality and Nick at Night host, Dr. Will is also a PHD and writer." 
+    }, {
         "title": "Ecole Appli",
         "url": "http://feeds.feedburner.com/ecoleapplihd",
         "language": "French",
