@@ -593,6 +593,14 @@
         "explicit": "No",
         "description": "We love music. All kinds of music. You name it, we like it. But listening to the music isnt enough for us. Anyone can do that. Thats why we've launched Inside MusiCast. Because we know that behind great music are great session musicians, producers, writers and engineers that are the talent behind the talent. We dedicate our podcast to them and to you - the music enthusiasts who need to go beyond the liner notes. Welcome to Inside Musicast." 
     }, {
+        "title": "Jimmy Dore Show",
+        "url": "http://feeds.feedburner.com/TheJimmyDoreShow",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Hosted by award winning comedian Jimmy Dore, this is an irreverent and humorous take on todays headlines and hypocrites. This program skewers politicians as well as the corporate mouthpieces which are todays main stream \"news media\". Interviews with todays top comedians and comedy writers, and gets their take on all things newsy. It is a show that provides the unvarnished truth with a twist of funny." 
+    }, {
         "title": "Journal Économique",
         "url": "http://www.rtl.fr/podcast/le-journal-economique.xml",
         "language": "French",
@@ -736,6 +744,14 @@
         "category": "Comedy",
         "explicit": "Yes",
         "description": "Join your host Jay Mohr and a rotating cast of his hilarious friends as they regale you with tales and conversation covering every topic imaginable. You haven't heard the half of it until you've heard... Mohr Stories." 
+    }, {
+        "title": "Moment of Clarity",
+        "url": "http://moc.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "A 5-min 3-times-per-week moment of clarity by comedian/activist/writer Lee Camp. This is not a placid meditation but a comedic confrontation taking on any all subjects." 
     }, {
         "title": "Motley Fool Money",
         "url": "http://fool.libsyn.com/rss",
