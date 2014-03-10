@@ -233,6 +233,14 @@
         "explicit": "No",
         "description": "Fresh world news, available by midday (UK time) / 7am (US Eastern) Monday-Friday. Dan Damon brings you 30 minutes of the latest interviews, reports and analysis of the day's top news. Plus Wknd Extra, every Saturday."
     }, {
+        "title": "Best of the Left",
+        "url": "http://feeds.feedburner.com/BestOfTheLeftPodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "This podcast is a beautifully executed compilation combining the absolute best in left-leaning political news, commentary and occasional comedy with great music to pull it all together."
+    }, {
         "title": "BizarreBazaar",
         "url": "http://recordings.talkshoe.com/rss74702.xml",
         "language": "English",
@@ -608,6 +616,14 @@
         "category": "Business",
         "explicit": "No",
         "description": "Le «Journal Économique» de Christian Menanteau offre un tour complet de l’actualité économique pour mieux en appréhender ses enjeux." 
+    }, {
+        "title": "Journal en français facile (RFI)",
+        "url": "http://www1.rfi.fr/radiofr/podcast/journalFrancaisFacile.asp",
+        "language": "French",
+        "type": "Audio",
+        "category": "Education",
+        "explicit": "No",
+        "description": "Un journal qui présente l'actualité avec des mots simples et explique les évènements et leur contexte pour rendre l'information en français accessible à tous." 
     }, {
         "title": "The John Batchelor Show",
         "url": "http://batchelorshow.libsyn.com/rss",
