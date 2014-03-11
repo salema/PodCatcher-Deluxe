@@ -857,6 +857,14 @@
         "explicit": "No",
         "description": "Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks -- all trying to make sense of our rapidly changing global economy."
     }, {
+        "title": "People's Pharmacy",
+        "url": "http://feeds.feedburner.com/ThePeoplesPharmacy",
+        "language": "English",
+        "type": "Audio",
+        "category": "Health",
+        "explicit": "No",
+        "description": "Everything from home remedies to the latest breakthrough drugs are discussed on The People's Pharmacy. Pharmacologist Joe Graedon and medical anthropologist Terry Graedon talk to leading experts to discuss issues relating to drugs, herbs, home remedies, vitamins and related health topics."
+    }, {
         "title": "Point of Inquiry",
         "url": "http://pointofinquiry.libsyn.com/rss",
         "language": "English",
