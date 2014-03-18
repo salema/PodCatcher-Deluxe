@@ -1113,6 +1113,14 @@
         "explicit": "No",
         "description": "Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country."
     }, {
+        "title": "The Morning Stream (Frogpants)",
+        "url": "http://myextralife.com/ftp/radio/morningstream.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "The Morning Stream, Mon thru Thurs, every morning, with Scott Johnson and the Frogpants Network. News, culture, politices and talk each and every day!"
+    }, {
         "title": "The Side Project Freecast",
         "url": "http://sideproject.radiofubar.com/?feed=rss2",
         "language": "English",
