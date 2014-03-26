@@ -40,6 +40,14 @@
         "explicit": "No",
         "description": "La vie de Walter Proof pourrait etre un roman. Mais non. Elle est en fait une symphonie de redoutables synergies mises a l'oeuvre dans toute une declinaison de pyrargies discriminatoires, incluses dans une optique retrograde a la maniere d'un theatre de gestes permanents presentant une collection de souvenirs perimes et customisables. C'est dire si c'est facile a suivre." 
     }, {
+        "title": "No Agenda",
+        "url": "http://feed.nashownotes.com/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "Yes",
+        "description": "A show about politics with No Agenda, by Adam Curry and John C. Dvorak"
+    }, {
         "title": "On The Media",
         "url": "http://feeds.wnyc.org/onthemedia",
         "language": "English",
@@ -79,6 +87,14 @@
         "category": "TV & Film",
         "explicit": "No",
         "description": "Die Maus ist ein Urgestein der deutschen TV-Landschaft. Seit den 70ern produziert der WDR diese Show für Kinder. Ausgestrahlt wird die Sendung mit der Maus in allen großen Landesrundfunkanstalten. Beiträge aus der Sendung mit der Maus werden in nahezu einhundert Ländern ausgestrahlt."
+    }, {
+        "title": "Sound Opinions",
+        "url": "http://feeds.feedburner.com/TheSoundOpinionsPodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Music",
+        "explicit": "No",
+        "description": "Take two nationally respected rock critics, the latest music news, personal commentary, and exclusive interviews and performances, add a huge pile of records old and new, and the result is Sound Opinions — the world's only rock and roll talk show."
     }, {
         "title": "TED Talks",
         "url": "http://feeds.feedburner.com/tedtalks_video",
