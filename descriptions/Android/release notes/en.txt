@@ -1,8 +1,5 @@
-- Optionally block explicit content in restricted profiles
-- Updated icons and appearance
-- Improved playback control on tablets
-- Proper authentication support for password protected podcasts
-- Improved playlist behavior and re-ordering
-- Detailed download progress per episode
-- Resume indicators showing which episodes you started listening to
+- Podcast data synchronization via Dropbox and gpodder.net
+- Chromecast support
+- Podcast catalog search
+- Introduced AppWidget
 - Plenty of fixes and small improvements
