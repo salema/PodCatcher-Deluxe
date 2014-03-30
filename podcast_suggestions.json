@@ -194,7 +194,7 @@
         "description": "\"Anderson Cooper 360° Daily\" features highlights from CNN's premier nightly news program."
     }, {
         "title": "Angry Teddy",
-        "url": "http://theangryteddy.com/feed/podcast",
+        "url": "http://feeds.feedburner.com/theangryteddy",
         "language": "German",
         "type": "Audio",
         "category": "Technology",
@@ -386,7 +386,7 @@
         "description": "Dave and Chuck the Freak featuring LIsa Way at Mornings on 101 WRIF, Detroit" 
     }, {
         "title": "DeimHart",
-        "url": "http://deimhart.net/rss.php?version=2.0&podcast_format=mp3",
+        "url": "http://deimhart.net/index.php?/feeds/categories/2-sendung-mp3.rss",
         "language": "German",
         "type": "Audio",
         "category": "Technology",
@@ -698,7 +698,7 @@
         "description": "Après ses «carnets» qu’elle signait d’une main de maître les deux saisons précedentes, Alba Ventura décode dans «L’Édito» l’actualité politique et apporte son expertise des affaires publiques." 
     }, {
         "title": "Linux Action Show!",
-        "url": "http://feeds.feedburner.com/linuxactionshowipodvid?format=xml",
+        "url": "http://feeds.feedburner.com/linuxactionshowipodvid",
         "language": "English",
         "type": "Video",
         "category": "Technology",
