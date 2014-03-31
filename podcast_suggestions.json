@@ -753,6 +753,14 @@
         "explicit": "No",
         "description": "Das Bücherradio im Küchenstud.io mit Andreas Baum." 
     }, {
+        "title": "Mens Room Podcast",
+        "url": "http://media.kisw.com/urss?pageid=395653",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "From sinners to saints, kings to commoners, rock stars and regular folks. Everyone is here and they’re sharing their stories. Sit down and grab a beer with the men of The Mens Room." 
+    }, {
         "title": "Mike O'Meara Show",
         "url": "http://mikeomearashow.com/category/podcasts/feed",
         "language": "English",
