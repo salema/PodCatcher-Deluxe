@@ -1,8 +1,5 @@
-- Ajustes para bloquear contenido explícito
-- Nuevos iconos y mejor aspecto de la interfaz
-- Opciones avanzadas de reproducción disponibles en tablets
-- Admite todos los podcasts protegidos con contraseña
-- Mejor comportamiento y reorganización de la lista de reproducción
-- Barra de progreso de descarga detallada
-- Nuevos iconos que indican qué episodios han sido escuchados sólo parcialmente
+- Sincronización de podcasts via Dropbox y gpodder.net
+- Soporte de Chromecast
+- Búsqueda en el catálogo de podcasts
+- Nuevo AppWidget
 - Otras numerosas pequeñas mejoras
