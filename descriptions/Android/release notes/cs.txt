@@ -1,8 +1,5 @@
-- Volitelně blokovat určitý obsah v profilech s omezením
-- Aktualizované ikony a vzhled
-- Vylepšené ovládání přehrávání na tabletech
-- Řádná podpora ověřování pro záznamy chráněné heslem
-- Vylepšené chování seznamu skladeb a přeskupení
-- Podrobný postup stahování epizody
-- Ukazatelé obnovení ukazující, které díly jste začali poslouchat
+- Synchronizace dat podcastů přes Dropbox a gpodder.net
+- Podpora Chromecast
+- Hledání v katalogu Podcastů
+- Uvedení AppWidget
 - Spousta oprav a malá vylepšení

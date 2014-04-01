@@ -1,8 +1,5 @@
-- Blocco opzionale dei contenuti espliciti nei profili con restrinzioni
-- Aggiornata icona e grafica
-- Migliorati i controlli di riproduzione sui tablet
-- Supporto dell'autenticazione corretta per i podcast protetti da password
-- Migliorato il comportamento della playlist e la funzione di riordino.
-- Progressi del download dettagliato per ogni singolo episodio
-- Gli indicatori mostrano quali episodi stai riascoltando
+- Sincronizzazione podcast tramite Dropobox e gpodder.net
+- Supporto Chromecast
+- Ricerca catalogo podcast
+- Introdotto Widget app
 - Un sacco di correzioni e piccoli miglioramenti

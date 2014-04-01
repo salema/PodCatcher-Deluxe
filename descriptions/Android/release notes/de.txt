@@ -1,8 +1,5 @@
-- Einstellungen zum Blockieren von nicht-jugendfreien Inhalten
-- Neue Icons und verbesserte Oberfläche
-- Erweiterte Wiedergabeoptionen auf Tablets
-- Vollständige Unterstützung für passwort-geschützte Podcasts
-- Besseres Playlist-Verhalten und -Ordnen
-- Detaillierte Fortschrittsanzeige für Downloads
-- Neue Icons, die zeigen, welche Episoden erst teilweise angehört wurden
+- Datensynchronisation via Dropbox und gpodder.net
+- Support für Chromecast
+- Suchfunktion im Podcast-Katalog
+- Neues App-Widget
 - Zahlreiche kleinere Verbesserungen und Fehlerkorrekturen
