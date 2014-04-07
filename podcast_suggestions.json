@@ -138,7 +138,7 @@
         "description": "NASA EDGE. One NASA. Two hosts. Twenty thousand plus rocket scientists. We have liftoff! NASA EDGE is different. Unscripted and unpredictable, NASA EDGE takes a unique look in and around the greatest space program on the planet."
     }, {
         "title": "Greenpeace Podcast",
-        "url": "http://www.greenpeace-berlin.de/fileadmin/podcast/greencast.xml",
+        "url": "https://greenpeace-berlin.de/feed/greencast.xml",
         "language": "German",
         "type": "Audio",
         "category": "Government & Organizations",
@@ -400,14 +400,6 @@
         "category": "News & Politics",
         "explicit": "No",
         "description": "A daily TV/radio news program, hosted by Amy Goodman and Juan Gonzalez, airing on over 900 stations, pioneering the largest community media collaboration in the United States." 
-    },  {
-        "title": "Desconéctate",
-        "url": "http://feeds.feedburner.com/desconectate",
-        "language": "Spanish",
-        "type": "Audio",
-        "category": "Sports & Recreation",
-        "explicit": "No",
-        "description": "Tu podcast de Aventura, Deporte y Naturaleza. Carreras de montaña, ultrafondo, mountain bike, senderismo, atletismo popular, etc. En Desconéctate Podcast trataremos temas relacionados con los deportes para aquellos que quieren desconectar de la vida cotidiana y practicar deporte al aire libre y en la naturaleza." 
     }, {
         "title": "Desde Boxes",
         "url": "http://feedpress.me/desdeboxes",
