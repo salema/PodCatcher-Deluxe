@@ -249,6 +249,14 @@
         "explicit": "No",
         "description": "Fresh world news, available by midday (UK time) / 7am (US Eastern) Monday-Friday. Dan Damon brings you 30 minutes of the latest interviews, reports and analysis of the day's top news. Plus Wknd Extra, every Saturday."
     }, {
+        "title": "Before You Buy",
+        "url": "http://feeds.twit.tv/byb_video_large.xml",
+        "language": "English",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Before You Buy is a product reviews show on the TWiT Network. TWiT staff get together to test out the latest gadgets - everything from phones to cameras - to help consumers make wise buying decisions. Make sure you watch... Before You Buy!"
+    }, {
         "title": "Best of the Left",
         "url": "http://feeds.feedburner.com/BestOfTheLeftPodcast",
         "language": "English",
@@ -384,14 +392,6 @@
         "category": "Comedy",
         "explicit": "Yes",
         "description": "Dave and Chuck the Freak featuring LIsa Way at Mornings on 101 WRIF, Detroit" 
-    }, {
-        "title": "DeimHart",
-        "url": "http://deimhart.net/index.php?/feeds/categories/2-sendung-mp3.rss",
-        "language": "German",
-        "type": "Audio",
-        "category": "Technology",
-        "explicit": "No",
-        "description": "DeimHart ist ein 2009 gestarteter gemeinsamer Podcast von Roman Hanhart und Dirk Deimeke. DeimHart ist aufgrund einer Idee entstanden, nach der Dirk und Roman etwas Gemeinsames erschaffen wollten, das im Internet und in den angrenzenden Communities sichtbar ist und bleibt. Anfänglich stand die Linux-Distribution Ubuntu und die Ubuntu-Philosophie im Vordergrund. Auch jetzt liegt noch ein Schwerpunkt auf technischen Themen rund um Open-Source-Software, vorranging Linux, aber Ubuntu bildet keinen Hauptpunkt mehr. Zwei weitere Themenblöcke sind zusätzlich im Fokus, \"Community und Gesellschaft\" und Philosophie." 
     }, {
         "title": "Democracy Now!",
         "url": "http://www.democracynow.org/podcast.xml",
