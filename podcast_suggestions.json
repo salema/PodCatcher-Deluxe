@@ -825,6 +825,14 @@
         "explicit": "No",
         "description": "Global news and analysis from the BBC World Service, twice a day, every day of the year. Join our leading team of presenters for the best interviews, features and analysis of world events."
     }, {
+        "title": "News in Slow Spanish",
+        "url": "http://newsinslowspanish.libsyn.com/rss",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Education",
+        "explicit": "No",
+        "description": "News in Slow Spanish is a podcast for those who already possess a basic vocabulary and some knowledge of Spanish grammar. Your host is a native Spanish speaker from Spain. In our program we discuss the world news, grammar, and expressions, and much more in simplified Spanish at a slow pace so that you can understand almost every word and sentence."
+    }, {
         "title": "NFL: The Dave Dameshek Football Program",
         "url": "http://dameshek.libsyn.com/rss",
         "language": "English",
