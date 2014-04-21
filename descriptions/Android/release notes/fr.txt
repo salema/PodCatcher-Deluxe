@@ -1,4 +1,4 @@
-- Synchronisation de podcasts via Driopbox et gpodder.net
+- Synchronisation de podcasts via Dropbox et gpodder.net
 - Support de Chromecast
 - Rechercher dans le catalogue de podcasts
 - Nouveau AppWidget
