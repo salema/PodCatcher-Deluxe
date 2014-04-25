@@ -5,20 +5,17 @@ Die App verfügt über vollständige Wiedergabefunktionen und zeichnet sich durc
 Zudem ermöglicht diese Premiumversion das Herunterladen von Episoden, die Fortsetzung der Wiedergabe beim Neustart der App von der Stelle, an der unterbrochen wurde und das Filtern von Inhalten (z.B. nach neu/alt bzw. ungehört/gehört). Mithilfe von flexiblen Wiedergabelisten können Sie außerdem mehrere Episoden nacheinander genießen. 
 Besuchen Sie http://www.podcatcher-deluxe.com für weitere Informationen.
 
-Podcatcher Deluxe ist ein <b>komplett ausgestatteter Audio-Podcatcher</b>, mit dem Sie Ihre Podcasts bequem verwalten.
-Die App verfügt über vollständige Wiedergabefunktionen und zeichnet sich durch ein zugleich <b>elegantes und intuitives Drei-Spalten-Layout</b> aus, mit dem auch <b>Tablet-Nutzer voll auf ihre Kosten</b> kommen. Während der Wiedergabe können die Podcasts durchsucht und die Episodenbeschreibung angezeigt werden. Ein <b>integrierter Podcast-Katalog</b> erleichtert Ihnen den Einstieg.
-Zudem ermöglicht diese Premiumversion das <b>Herunterladen von Episoden</b>, die Fortsetzung der Wiedergabe beim Neustart der App von der Stelle, an der unterbrochen wurde und das Filtern von Inhalten (z.B. nach neu/alt bzw. ungehört/gehört). Mithilfe von flexiblen <b>Wiedergabelisten</b> können Sie außerdem mehrere Episoden nacheinander genießen. 
-Besuchen Sie http://www.podcatcher-deluxe.com für weitere Informationen.
-&nbsp;
-<b><u>Highlights</u></b>
-&rarr; Für Smartphones und Tablets optimiert
-&rarr; Wiederaufnahme beim letzten Abspielpunkt
-&rarr; Integrierter Podcastkatalog
-&rarr; Import und Export von OPML-Dateien
-&rarr; Unterstützung für Bluetooth Headsets
-&rarr; Anpassbarer Download-Ordner
-&rarr; Wiedergabelisten und Filter
-&rarr; Auto-Download und -Löschen
-&rarr; Integration in Systemnachrichten und Sperrbildschirme
-&rarr; Synchronisation via Dropbox und gpodder.net
-&rarr; Keine Werbung
+Highlights
+Wiedergabe von Audio und Video, inkl. Vollbildoption
+Für Smartphones und Tablets optimiert
+Wiederaufnahme beim letzten Abspielpunkt 
+Integrierter Podcastkatalog
+Import und Export von OPML-Dateien
+Integration in Systemnachrichten und Sperrbildschirme
+Anpassbare Oberfläche
+Unterstützung für Bluetooth Headsets
+Anpassbarer Download-Ordner
+Wiedergabelisten und Filter
+Auto-Download und -Löschen
+Synchronisation via Dropbox und gpodder.net
+Keine Werbung

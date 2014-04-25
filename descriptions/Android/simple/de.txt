@@ -4,18 +4,3 @@ Simple Podcatcher ist ein einfacher Audio-Podcatcher, mit dem Sie Ihre Podcasts 
 Die App verfügt über grundlegende Wiedergabefunktionen und zeichnet sich durch ein zugleich elegantes und intuitives Drei-Spalten-Layout aus, mit dem auch Tablet-Nutzer voll auf ihre Kosten kommen. Während der Wiedergabe können die Podcasts durchsucht und die Episodenbeschreibung angezeigt werden. Ein integrierter Podcast-Katalog erleichtert Ihnen den Einstieg.
 Der Simple Podcatcher ist kostenlos. Das Herunterladen von Podcast-Inhalten sowie deutlich erweiterte Komfortfunktionen (zum Beispiel Wiedergabelisten und Filter) bieten die Schwester-Apps Podcatcher Deluxe und Video Podcatcher Deluxe, die ebenfalls auf Google Play verfügbar sind.
 Besuchen Sie http://www.podcatcher-deluxe.com für Links und weitere Informationen.
-
-Simple Podcatcher ist ein <b>einfacher Audio-Podcatcher</b>, mit dem Sie Ihre Podcasts bequem verwalten.
-Die App verfügt über grundlegende Wiedergabefunktionen und zeichnet sich durch ein zugleich <b>elegantes und intuitives Drei-Spalten-Layout</b> aus, mit dem auch <b>Tablet-Nutzer auf ihre Kosten kommen</b>. Während der Wiedergabe können die Podcasts durchsucht und die Episodenbeschreibung angezeigt werden. Ein <b>integrierter Podcast-Katalog</b> erleichtert Ihnen den Einstieg.
-Der Simple Podcatcher ist <b>kostenlos</b>. Das Herunterladen von Podcast-Inhalten sowie deutlich erweiterte Komfortfunktionen (zum Beispiel Wiedergabelisten und Filter) bieten die Schwester-Apps Podcatcher Deluxe und Video Podcatcher Deluxe, die ebenfalls auf Google Play verfügbar sind.
-Besuchen Sie http://www.podcatcher-deluxe.com für Links und weitere Informationen.
-&nbsp;
-<b><u>Highlights</u></b>
-&rarr; Für Smartphones und Tablets optimiert
-&rarr; Integrierter Podcastkatalog
-&rarr; Import und Export von OPML-Dateien
-&rarr; Unterstützung für Bluetooth Headsets
-&rarr; Integration in Systemnachrichten und Sperrbildschirme
-&rarr; Anpassbare Oberfläche
-&rarr; Synchronisation via Dropbox und gpodder.net
-&rarr; Keine Werbung

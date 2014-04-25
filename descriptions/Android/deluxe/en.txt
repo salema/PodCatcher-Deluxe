@@ -5,19 +5,17 @@ Along with basic playback functionality, Podcatcher Deluxe features a sophistica
 In addition, this premium version allows downloading of episodes, resumes to the last play position on restart and adds support for episode filters (new/old episodes). It also provides a playlist option for uninterrupted back-to-back playback.
 Visit http://www.podcatcher-deluxe.com for more information.
 
-Podcatcher Deluxe is a <b>full-featured audio podcast app</b> designed to manage your podcast content easily while on the go. 
-Along with basic playback functionality, Podcatcher Deluxe features a <b>sophisticated three column layout</b>. One contains the list of podcast subscriptions, another displays episodes currently available (for the selected subscription) and the third column clearly displays detailed podcast episode descriptions. This <b>layout works especially well on tablets</b> and big-screen phones. Multiple feeds are supported with this elegant design and can conveniently be searched while playing. The <b>integrated podcast finder</b> gets you going quickly.
-In addition, this premium version allows <b>downloading of episodes</b>, resumes to the last play position on restart and adds support for episode filters (new/old episodes). It also provides a <b>playlist</b> option for uninterrupted back-to-back playback.
-Visit http://www.podcatcher-deluxe.com for more information.
-&nbsp;
-<b><u>Highlights</u></b>
-&rarr; Adaptive layout, works great on both phones and tablets
-&rarr; Resume playback 
-&rarr; Integrated podcast catalog
-&rarr; OPML file import and export
-&rarr; Support for Bluetooth audio devices
-&rarr; Custom download folder
-&rarr; Playlists and filters
-&rarr; Optional auto-downloads and auto-deletes
-&rarr; Synchronization via Dropbox and gpodder.net
-&rarr; No ads
+Highlights
+Both audio and video playback, fullscreen option
+Adaptive layout, works great on both phones and tablets
+Resume playback 
+Integrated podcast catalog
+OPML file import and export
+Notification and lock screen integration
+Customizable appearance
+Support for Bluetooth audio devices
+Custom download folder
+Playlists and filters
+Optional auto-downloads and auto-deletes
+Synchronization via Dropbox and gpodder.net
+No ads
