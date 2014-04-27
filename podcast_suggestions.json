@@ -577,6 +577,14 @@
         "explicit": "Yes",
         "description": "Der skeptische Podcast aus Hamburg - Hoaxilla beschäftigt sich mit Modernen Sagen (Urban Legends), Medien, Kultur und Wissenschaft aus Sicht der Skeptiker-Bewegung ohne sich dabei selbst zu ernst zu nehmen." 
     }, {
+        "title": "How Did This Get Made?",
+        "url": "http://feeds.feedburner.com/HowDidThisGetMade",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Have you ever seen a movie so bad that it's amazing? Paul Scheer, June Diane Raphael and Jason Mantzoukas want to hear about it! We'll watch it with our funniest friends, and report back to you with the results." 
+    }, {
         "title": "HowStuffWorks: TechStuff",
         "url": "http://www.howstuffworks.com/podcasts/techstuff.rss",
         "language": "English",
@@ -1240,6 +1248,14 @@
         "category": "Comedy",
         "explicit": "No",
         "description": "Twice-monthly community updates for the small desert town of Night Vale, featuring local weather, news, announcements from the Sheriff's Secret Police, mysterious lights in the night sky, dark hooded figures with unknowable powers, and cultural events. Turn on your radio and hide. Welcome to Night Vale."
+    }, {
+        "title": "Why Shamanism Now",
+        "url": "http://whyshamanismnow.com/feed",
+        "language": "English",
+        "type": "Audio",
+        "category": "Religion & Spirituality",
+        "explicit": "No",
+        "description": "Internet Radio Show Hosted by Christina Pratt."
     }, {
         "title": "Wissen macht Ah!",
         "url": "http://podcast.wdr.de/wissenmachtah.xml",
