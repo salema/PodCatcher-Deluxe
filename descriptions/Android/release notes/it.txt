@@ -2,4 +2,5 @@
 - Supporto Chromecast
 - Ricerca catalogo podcast
 - Introdotto Widget app
+- Aggiornata icona e grafica
 - Un sacco di correzioni e piccoli miglioramenti

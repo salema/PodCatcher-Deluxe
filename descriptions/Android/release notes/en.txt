@@ -2,4 +2,5 @@
 - Chromecast support
 - Podcast catalog search
 - Introduced AppWidget
+- Updated icons and appearance
 - Plenty of fixes and small improvements

@@ -2,4 +2,5 @@
 - Podpora Chromecast
 - Hledání v katalogu Podcastů
 - Uvedení AppWidget
+- Aktualizované ikony a vzhled
 - Spousta oprav a malá vylepšení

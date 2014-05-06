@@ -2,4 +2,5 @@
 - Soporte de Chromecast
 - Búsqueda en el catálogo de podcasts
 - Nuevo AppWidget
+- Nuevos iconos y mejor aspecto de la interfaz
 - Otras numerosas pequeñas mejoras
