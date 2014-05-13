@@ -1137,6 +1137,14 @@
         "explicit": "No",
         "description": "No one does a better job of explaining technology, computers, and the Internet than Leo Laporte. This feed contains the full audio of his twice weekly radio talk show as heard on stations all over the US."
     }, {
+        "title": "TechSNAP",
+        "url": "http://feeds.feedburner.com/techsnapmp3",
+        "language": "English",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "An in-depth analysis of tech issues and topics. Hosted by Chris Fisher and Allan Jude, with over 20+ years in the technology industry. Tune in and get engaged by deep critical analysis and conversation around technologies’ milestones."
+    }, {
         "title": "The Rachel Maddow Show",
         "url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
         "language": "English",
