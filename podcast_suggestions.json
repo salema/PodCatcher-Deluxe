@@ -1145,13 +1145,13 @@
         "explicit": "No",
         "description": "An in-depth analysis of tech issues and topics. Hosted by Chris Fisher and Allan Jude, with over 20+ years in the technology industry. Tune in and get engaged by deep critical analysis and conversation around technologies’ milestones."
     }, {
-        "title": "The Rachel Maddow Show",
-        "url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
+        "title": "The Joe Rogan Experience",
+        "url": "http://joeroganexp.joerogan.libsynpro.com/irss",
         "language": "English",
-        "type": "Video",
-        "category": "News & Politics",
-        "explicit": "No",
-        "description": "The Rachel Maddow Show, which airs 9 p.m. ET weeknights on MSNBC, is a smart look at politics, pop culture, and all the day's top stories. It's mind over chatter! Maddow is a political commentator for MSNBC and the Air America Radio network. This video podcast brings you each night's show in its entirety."
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Conduit to the Gaian Mind."
     }, {
         "title": "The Moth",
         "url": "http://feeds.themoth.org/themothpodcast",
@@ -1168,6 +1168,14 @@
         "category": "News & Politics",
         "explicit": "No",
         "description": "The Morning Stream, Mon thru Thurs, every morning, with Scott Johnson and the Frogpants Network. News, culture, politices and talk each and every day!"
+    }, {
+        "title": "The Rachel Maddow Show",
+        "url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
+        "language": "English",
+        "type": "Video",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "The Rachel Maddow Show, which airs 9 p.m. ET weeknights on MSNBC, is a smart look at politics, pop culture, and all the day's top stories. It's mind over chatter! Maddow is a political commentator for MSNBC and the Air America Radio network. This video podcast brings you each night's show in its entirety."
     }, {
         "title": "The Side Project Freecast",
         "url": "http://sideproject.radiofubar.com/?feed=rss2",
