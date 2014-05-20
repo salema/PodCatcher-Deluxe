@@ -177,6 +177,14 @@
         "explicit": "No",
         "description": "Un programa de radio lleno de temas diferentes. Deja la rutina a un lado y comparte con nosotros los temas que realmente te interesan. Ven y Aktualizate!"
     }, {
+        "title": "All In The Mind (ABC)",
+        "url": "http://www.abc.net.au/radionational/feed/2888650/podcast.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Health",
+        "explicit": "No",
+        "description": "An exploration of all things mental, All in the Mind is about the brain and behaviour, and the fascinating connections between them."
+    }, {
         "title": "Alt.Latino (NPR)",
         "url": "http://www.npr.org/rss/podcast.php?id=510305",
         "language": "English",
