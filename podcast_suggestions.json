@@ -40,14 +40,6 @@
         "explicit": "No",
         "description": "La vie de Walter Proof pourrait etre un roman. Mais non. Elle est en fait une symphonie de redoutables synergies mises a l'oeuvre dans toute une declinaison de pyrargies discriminatoires, incluses dans une optique retrograde a la maniere d'un theatre de gestes permanents presentant une collection de souvenirs perimes et customisables. C'est dire si c'est facile a suivre." 
     }, {
-        "title": "Majority Report with Sam Seder",
-        "url": "http://feeds.feedburner.com/MajorityReport",
-        "language": "English",
-        "type": "Audio",
-        "category": "News & Politics",
-        "explicit": "Yes",
-        "description": "The Majority Report is a scathingly funny, no-holds-barred, informative talk show focused on politics. Sam Seder hosts this daily podcast with guests including writers, economists comedians and politicians."
-    }, {
         "title": "No Agenda",
         "url": "http://feed.nashownotes.com/rss.xml",
         "language": "English",
@@ -752,6 +744,14 @@
         "category": "Comedy",
         "explicit": "Yes",
         "description": "El Pelos y Sam Danko te traen una visión alternativa y urbana del humor, episodios divertidos e inesperados sobre lo actual, lo humano, y lo divino. Un podcast alternativo y único, no vinculado a ningún ente mediático, libre de censuras y tabús, y siempre, desde el respeto y la modulación..." 
+    }, {
+        "title": "Majority Report with Sam Seder",
+        "url": "http://feeds.feedburner.com/MajorityReport",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "Yes",
+        "description": "The Majority Report is a scathingly funny, no-holds-barred, informative talk show focused on politics. Sam Seder hosts this daily podcast with guests including writers, economists comedians and politicians."
     }, {
         "title": "Marketplace Money",
         "url": "http://www.marketplace.org/shows/54/podcast.xml",
