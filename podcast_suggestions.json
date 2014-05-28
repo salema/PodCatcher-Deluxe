@@ -8,6 +8,14 @@
         "explicit": "No",
         "description": "A Tiny Radio Show about Design with Roman Mars."
     }, {
+        "title": "Comedy Bang Bang",
+        "url": "http://feeds.feedburner.com/comedydeathrayradio",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Join host Scott Aukerman (\"Comedy Bang! Bang!\" on IFC, \"Mr. Show\") for a weekly podcast that blends conversation and character work from today's funniest comedians. While Scott begins by traditionally interviewing the celebrities, the open-door policy means an assortment of eccentric oddballs can pop by at any moment to chat, compete in games, and engage in comic revelry. With all that,andregular bonus episodes, we bet your favorite part will still be the plugs!"
+    }, {
         "title": "CRE: Technik, Kultur, Gesellschaft",
         "url": "http://feeds.feedburner.com/cre-podcast/mp3",
         "language": "German",
