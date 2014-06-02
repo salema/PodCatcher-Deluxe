@@ -401,6 +401,14 @@
         "explicit": "No",
         "description": "Learn French with daily podcasts!" 
     }, {
+        "title": "Dan Carlin's Hardcore History",
+        "url": "http://feeds.feedburner.com/dancarlin/history",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Was Alexander the Great as bad a person as Hitler? What was the greatest army of all time? Which U.S. President was the worst? Hardcore History discusses the issues and questions history fans love."
+    }, {
         "title": "Dave and Chuck the Freak",
         "url": "http://feeds.feedburner.com/DaveandChuckTheFreak",
         "language": "English",
