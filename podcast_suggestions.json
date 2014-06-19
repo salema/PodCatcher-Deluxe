@@ -633,6 +633,14 @@
         "explicit": "No",
         "description": "IDEAS is CBC Radio's program of contemporary thought. The show's content is wide-ranging. From the French thinker Simone Weil to ideas about oceans. From ice cream to Einstein. Dante to spy novels. Robin Hood to the culture of pain. Almost any subject can become an IDEAS program, as long as there's an important idea at the core and a fascinating story to be told." 
     }, {
+        "title": "Inquiring Minds",
+        "url": "http://feeds.feedburner.com/inquiring-minds",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Each week Inquiring Minds brings you a new, in-depth exploration of the place where science, politics, and society collide. We’re committed to the idea that making an effort to understand the world around you though science and critical thinking can benefit everyone—and lead to better decisions. We endeavor to find out what’s true, what’s left to discover, and why it all matters with weekly coverage of the latest headlines and probing discussions with leading scientists and thinkers." 
+    }, {
         "title": "Inside MusiCast",
         "url": "http://www.insidemusicast.com/storage/podcast/rss.xml",
         "language": "English",
