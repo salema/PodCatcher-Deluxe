@@ -681,6 +681,14 @@
         "explicit": "Yes",
         "description": "Kevin Pollak's Chat Show is a video talkshow. An award-winning actor, Pollak (The Usual Suspects, Casino, A Few Good Men) was also named by Comedy Central as One of the Top 100 Comedians of All Time. Here, he interviews celebrated actors, writers, directors, comedians, and masters of the tech universe." 
     }, {
+        "title": "KQED-FM: KQED's Forum Podcast",
+        "url": "http://www.npr.org/rss/podcast.php?id=510075",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "KQED's live call-in program presents wide-ranging discussions of local, state, national and international issues, as well as in-depth interviews." 
+    }, {
         "title": "Kwobb",
         "url": "http://www.kwobb.net/content/podcast/kwobbcast",
         "language": "German",
@@ -1096,6 +1104,14 @@
         "category": "Religion & Spirituality",
         "explicit": "No",
         "description": "Connection TV features the teaching of Skip Heitzig, senior pastor at Calvary Albuquerque. From topical studies to verse-by-verse exposition through the entire Bible, Connection TV presents the Word of God in a format that is contemporary, relaxed, and relevant."
+    }, {
+        "title": "SolderSmoke Podcasts",
+        "url": "http://www.soldersmoke.com/soldersmoke.rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Two amateur radio experimenters discuss workbench radio projects."
     }, {
         "title": "Staatsbürgerkunde",
         "url": "http://www.staatsbuergerkunde-podcast.de/feed/mp3-rss",
