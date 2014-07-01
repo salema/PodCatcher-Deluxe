@@ -273,6 +273,14 @@
         "explicit": "No",
         "description": "Before You Buy is a product reviews show on the TWiT Network. TWiT staff get together to test out the latest gadgets - everything from phones to cameras - to help consumers make wise buying decisions. Make sure you watch... Before You Buy!"
     }, {
+        "title": "Betty in the Sky with a Suitcase!",
+        "url": "http://betty.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "Travel the world with Flight Attendant Betty!!! This is a airline and travel podcast with funny stories from the airplane and around the world!"
+    }, {
         "title": "Best of the Left",
         "url": "http://feeds.feedburner.com/BestOfTheLeftPodcast",
         "language": "English",
@@ -976,6 +984,14 @@
         "category": "Business",
         "explicit": "No",
         "description": "The Daily Interaction Podcast, with Farnoosh Brock as your host, talks about all the social exchanges in your personal life as well as your business, your career, and the workplace. This show gives you specific tips on being an effective communicator by understanding and refining how you say things, how you position yourself, how you relate to others, using subtle, smart, and practical tools and techniques. What are the best ways of saying it, writing it, typing it, speaking it and meaning it exactly as you intend it? Join us each week as we share stories and strategies of taking your daily interactions to a higher level."
+    }, {
+        "title": "Qalam Institute Podcast",
+        "url": "http://feeds.feedburner.com/QalamPodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Religion & Spirituality",
+        "explicit": "No",
+        "description": "Welcome to the Qalam Institute Podcast. A place for khutbahs, lectures, and much much more!" 
     }, {
         "title": "Quarks & Co",
         "url": "http://podcast.wdr.de/quarks.xml",
