@@ -738,7 +738,7 @@
         "description": "La Voix dans la Tête, l'émission bimensuelle techno-culturelle." 
     }, {
         "title": "Left, Right & Center",
-        "url": "http://www.kcrw.com/news/programs/lr/RSS",
+        "url": "http://feeds.kcrw.com/kcrw/lr",
         "language": "English",
         "type": "Audio",
         "category": "News & Politics",
@@ -1088,14 +1088,6 @@
         "category": "Comedy",
         "explicit": "No",
         "description": "A daily slice of Scott, with more silly features, crank calls and plenty of attempts to make you laugh."
-    }, {
-        "title": "Scottish Football",
-        "url": "http://downloads.bbc.co.uk/podcasts/scotland/scotfoot/rss.xml",
-        "language": "English",
-        "type": "Audio",
-        "category": "Sports & Recreation",
-        "explicit": "No",
-        "description": "Keep right up to date with what's happening in Scottish football by downloading the daily BBC Scottish football podcast. Breaking stories, match reaction, big names and insights into our national game. A must for your daily diet of football."
     }, {
         "title": "Selected Shorts",
         "url": "http://selectedshortspri.pri.libsynpro.com/rss",
