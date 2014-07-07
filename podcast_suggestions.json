@@ -167,6 +167,7 @@
         "type": "Audio",
         "category": "Comedy",
         "explicit": "Yes",
+        "votes": "3",
         "description": "Welcome to the Adam Carolla Podcast! The new home for the rantings and ravings of Adam Carolla, with Bald Bryan on sound effects and and Alison Rosen on news. Check it out Adam hangs out with some his pals, like: Larry Miller, David Allen Grier, Dr. Drew Pinksy, Dana Gould, Doug Benson, and many, many more."
     }, {
         "title": "Africa Today",
@@ -224,6 +225,15 @@
         "category": "Arts",
         "explicit": "No",
         "description": "The full week’s events in Ambridge, available every Sunday. The Archers is a contemporary drama in a rural setting."
+    }, {
+        "title": "Around the Horn (ESPN)",
+        "url": "http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=2839445",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Host Tony Reali and four reporters from across the country debate the hottest issues of the day with points awarded for good arguments. In this sport of competitive banter, the winner gets 30 uninterrupted seconds to discuss the topic of their choice.",
+        "added": "07 Jul 2014"
     }, {
         "title": "Art of Wrestling",
         "url": "http://tsmradio.com/coltcabana/feed",
@@ -296,6 +306,15 @@
         "category": "Music",
         "explicit": "No",
         "description": "Award-winning music and chat from South Yorkshire in the UK."
+    }, {
+        "title": "Butler on Business",
+        "url": "http://feeds.feedburner.com/butleronbusiness",
+        "language": "English",
+        "type": "Audio",
+        "category": "Business",
+        "explicit": "No",
+        "description": "Award-winning music and chat from South Yorkshire in the UK.",
+        "added": "07 Jul 2014"
     }, {
         "title": "Buzz Out Loud",
         "url": "http://feeds.feedburner.com/cnet/bolhqvideo?format=xml",
