@@ -283,6 +283,14 @@
         "explicit": "No",
         "description": "Before You Buy is a product reviews show on the TWiT Network. TWiT staff get together to test out the latest gadgets - everything from phones to cameras - to help consumers make wise buying decisions. Make sure you watch... Before You Buy!"
     }, {
+        "title": "Betty in the Sky with a Suitcase!",
+        "url": "http://betty.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "Travel the world with Flight Attendant Betty!!! This is a airline and travel podcast with funny stories from the airplane and around the world!"
+    }, {
         "title": "Best of the Left",
         "url": "http://feeds.feedburner.com/BestOfTheLeftPodcast",
         "language": "English",
@@ -708,6 +716,14 @@
         "explicit": "Yes",
         "description": "Kevin Pollak's Chat Show is a video talkshow. An award-winning actor, Pollak (The Usual Suspects, Casino, A Few Good Men) was also named by Comedy Central as One of the Top 100 Comedians of All Time. Here, he interviews celebrated actors, writers, directors, comedians, and masters of the tech universe." 
     }, {
+        "title": "KQED-FM: KQED's Forum Podcast",
+        "url": "http://www.npr.org/rss/podcast.php?id=510075",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "KQED's live call-in program presents wide-ranging discussions of local, state, national and international issues, as well as in-depth interviews." 
+    }, {
         "title": "Kwobb",
         "url": "http://www.kwobb.net/content/podcast/kwobbcast",
         "language": "German",
@@ -741,7 +757,7 @@
         "description": "La Voix dans la Tête, l'émission bimensuelle techno-culturelle." 
     }, {
         "title": "Left, Right & Center",
-        "url": "http://www.kcrw.com/news/programs/lr/RSS",
+        "url": "http://feeds.kcrw.com/kcrw/lr",
         "language": "English",
         "type": "Audio",
         "category": "News & Politics",
@@ -988,6 +1004,14 @@
         "explicit": "No",
         "description": "The Daily Interaction Podcast, with Farnoosh Brock as your host, talks about all the social exchanges in your personal life as well as your business, your career, and the workplace. This show gives you specific tips on being an effective communicator by understanding and refining how you say things, how you position yourself, how you relate to others, using subtle, smart, and practical tools and techniques. What are the best ways of saying it, writing it, typing it, speaking it and meaning it exactly as you intend it? Join us each week as we share stories and strategies of taking your daily interactions to a higher level."
     }, {
+        "title": "Qalam Institute Podcast",
+        "url": "http://feeds.feedburner.com/QalamPodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Religion & Spirituality",
+        "explicit": "No",
+        "description": "Welcome to the Qalam Institute Podcast. A place for khutbahs, lectures, and much much more!" 
+    }, {
         "title": "Quarks & Co",
         "url": "http://podcast.wdr.de/quarks.xml",
         "language": "German",
@@ -1084,14 +1108,6 @@
         "explicit": "No",
         "description": "A daily slice of Scott, with more silly features, crank calls and plenty of attempts to make you laugh."
     }, {
-        "title": "Scottish Football",
-        "url": "http://downloads.bbc.co.uk/podcasts/scotland/scotfoot/rss.xml",
-        "language": "English",
-        "type": "Audio",
-        "category": "Sports & Recreation",
-        "explicit": "No",
-        "description": "Keep right up to date with what's happening in Scottish football by downloading the daily BBC Scottish football podcast. Breaking stories, match reaction, big names and insights into our national game. A must for your daily diet of football."
-    }, {
         "title": "Selected Shorts",
         "url": "http://selectedshortspri.pri.libsynpro.com/rss",
         "language": "English",
@@ -1123,6 +1139,14 @@
         "category": "Religion & Spirituality",
         "explicit": "No",
         "description": "Connection TV features the teaching of Skip Heitzig, senior pastor at Calvary Albuquerque. From topical studies to verse-by-verse exposition through the entire Bible, Connection TV presents the Word of God in a format that is contemporary, relaxed, and relevant."
+    }, {
+        "title": "SolderSmoke Podcasts",
+        "url": "http://www.soldersmoke.com/soldersmoke.rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Two amateur radio experimenters discuss workbench radio projects."
     }, {
         "title": "Staatsbürgerkunde",
         "url": "http://www.staatsbuergerkunde-podcast.de/feed/mp3-rss",
