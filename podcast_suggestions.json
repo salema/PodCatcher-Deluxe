@@ -540,6 +540,14 @@
         "explicit": "No",
         "description": "First Take is always a heated discussion as Skip Bayless and guests debate the day's top ten stories."
     }, {
+        "title": "Football Weekly (The Guardian)",
+        "url": "http://www.theguardian.com/football/series/footballweekly/podcast.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "James Richardson, Barry Glendenning, James Horncastle and the rest of your Football Weekly favourites bring you the very best puns and punditry every week."
+    }, {
         "title": "Fresh Air (NPR)",
         "url": "http://www.npr.org/rss/podcast.php?id=13",
         "language": "English",
@@ -923,6 +931,14 @@
         "category": "Education",
         "explicit": "No",
         "description": "News in Slow Spanish is a podcast for those who already possess a basic vocabulary and some knowledge of Spanish grammar. Your host is a native Spanish speaker from Spain. In our program we discuss the world news, grammar, and expressions, and much more in simplified Spanish at a slow pace so that you can understand almost every word and sentence."
+    }, {
+        "title": "NYTimes Book Review",
+        "url": "http://www.nytimes.com/services/xml/rss/nyt/podcasts/bookupdate.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "No",
+        "description": "The world's top authors and critics join Sunday Book Review Editor Pamela Paul in lively conversations about books, arts and ideas."
     }, {
         "title": "NFL: The Dave Dameshek Football Program",
         "url": "http://dameshek.libsyn.com/rss",
