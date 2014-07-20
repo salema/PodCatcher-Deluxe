@@ -307,6 +307,15 @@
         "explicit": "No",
         "description": "A light-hearted podcast about the funny, bizarre, odd and wonderful stories found on the internet and elsewhere. Come along, relax and have some fun. This Podcast was created using www.talkshoe.com"
     }, {
+        "title": "Brain Science Podcast",
+        "url": "http://brainsciencepodcast.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "The Brain Science Podcast is hosted by Dr. Ginger Campbell, MD. It explores how recent discoveries in neuroscience are unraveling the mystery of how our brains make us human.",
+        "added": "20 Jul 2014"
+    }, {
         "title": "Bugcast",
         "url": "http://thebugcast.org/feed",
         "language": "English",
@@ -546,7 +555,7 @@
         "type": "Audio",
         "category": "Sports & Recreation",
         "explicit": "No",
-        "description": "James Richardson, Barry Glendenning, James Horncastle and the rest of your Football Weekly favourites bring you the very best puns and punditry every week."
+        "description": "James Richardson, Barry Glendenning, James Horncastle and the rest of your Football Weekly favourites bring you the very best puns and punditry every week.",
         "added": "14 Jul 2014"
     }, {
         "title": "Fresh Air (NPR)",
@@ -939,7 +948,7 @@
         "type": "Audio",
         "category": "Arts",
         "explicit": "No",
-        "description": "The world's top authors and critics join Sunday Book Review Editor Pamela Paul in lively conversations about books, arts and ideas."
+        "description": "The world's top authors and critics join Sunday Book Review Editor Pamela Paul in lively conversations about books, arts and ideas.",
         "added": "14 Jul 2014"
     }, {
         "title": "NFL: The Dave Dameshek Football Program",
