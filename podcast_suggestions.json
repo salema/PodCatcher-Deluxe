@@ -1255,6 +1255,15 @@
         "explicit": "No",
         "description": "An in-depth analysis of tech issues and topics. Hosted by Chris Fisher and Allan Jude, with over 20+ years in the technology industry. Tune in and get engaged by deep critical analysis and conversation around technologies’ milestones."
     }, {
+        "title": "The Alton Browncast",
+        "url": "http://thebrowncast.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "TV Host and Foodist Alton Brown chats with celebrities about their culinary passions, takes calls from listeners, and basically does whatever he flippin’ wants for 45 minutes.",
+        "added": "28 Jul 2014"
+    }, {
         "title": "The Joe Rogan Experience",
         "url": "http://joeroganexp.joerogan.libsynpro.com/irss",
         "language": "English",
