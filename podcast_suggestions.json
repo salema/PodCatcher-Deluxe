@@ -830,6 +830,15 @@
         "explicit": "Yes",
         "description": "The Majority Report is a scathingly funny, no-holds-barred, informative talk show focused on politics. Sam Seder hosts this daily podcast with guests including writers, economists comedians and politicians."
     }, {
+        "title": "Mating Grounds",
+        "url": "http://www.thematinggrounds.com/category/podcast/feed",
+        "language": "English",
+        "type": "Audio",
+        "category": "Health",
+        "explicit": "Yes",
+        "description": "The Mating Grounds Podcast is a collaboration between #1 bestselling author, Tucker Max, and renowned evolutionary psychologist, Professor Geoffrey Miller, to teach men how to be successful with women, dating and relationships. Through discussions and interviews with the worlds leading experts in human sexuality, psychology, animal behavior, genetics and behavioral studies, they explain in clear and actionable terms precisely what men need to know about sex, dating, relationships, and women, and how to improve yourself in all of those areas.",
+        "added": "31 Jul 2014"
+    }, {
         "title": "Marketplace Money",
         "url": "http://www.marketplace.org/shows/54/podcast.xml",
         "language": "English",
