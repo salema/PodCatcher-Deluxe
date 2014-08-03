@@ -276,11 +276,12 @@
         "description": "Fresh world news, available by midday (UK time) / 7am (US Eastern) Monday-Friday. Dan Damon brings you 30 minutes of the latest interviews, reports and analysis of the day's top news. Plus Wknd Extra, every Saturday."
     }, {
         "title": "Before You Buy",
-        "url": "http://feeds.twit.tv/byb_video_large.xml",
+        "url": "http://feeds.twit.tv/byb_video_small",
         "language": "English",
         "type": "Video",
         "category": "Technology",
         "explicit": "No",
+        "votes": "2",
         "description": "Before You Buy is a product reviews show on the TWiT Network. TWiT staff get together to test out the latest gadgets - everything from phones to cameras - to help consumers make wise buying decisions. Make sure you watch... Before You Buy!"
     }, {
         "title": "Betty in the Sky with a Suitcase!",
@@ -1254,6 +1255,7 @@
         "type": "Video",
         "category": "Technology",
         "explicit": "No",
+        "votes": "2",
         "description": "No one does a better job of explaining technology, computers, and the Internet than Leo Laporte. This feed contains the full audio of his twice weekly radio talk show as heard on stations all over the US."
     }, {
         "title": "TechSNAP",
@@ -1329,13 +1331,22 @@
         "explicit": "No",
         "description": "You’re looking at \"This is my next\", the temporary home of Joshua Topolsky, Nilay Patel, Paul Miller, Joanna Stern, Ross Miller, Chris Ziegler, the lovely Justin Glow, and delightful Dan Chilton — a group of journalists and developers hard at work building the next great tech publication in partnership with SB Nation. That project will launch in the fall, but until then you can find us here, writing editorials, covering interesting news, and producing our weekly podcast. And if you think this is exciting, just wait until you see what we’ve got coming up next."
     }, {
-        "title": "This week in Google",
+        "title": "This Week in Google",
         "url": "http://feeds.twit.tv/twig_video_small",
         "language": "English",
         "type": "Video",
         "category": "Technology",
         "explicit": "No",
         "description": "Leo Laporte, Gina Trapani, Jeff Jarvis and their guests talk about the latest Google and cloud computing news. Recorded live at 4 p.m. Eastern/1 p.m. Pacific/2000 UTC on Wednesdays and released later that evening. Part of the TWiT Netcast Network."
+    }, {
+        "title": "This Week in Tech",
+        "url": "http://feeds.twit.tv/twit_video_small",
+        "language": "English",
+        "type": "Video",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Your first podcast of the week is the last word in tech. Join Leo Laporte, Patrick Norton, Kevin Rose, John C. Dvorak, and other tech luminaries in a roundtable discussion of the latest trends in digital technology. Winner of the 2005 People's Choice Podcast Award for best overall podcast and Best Technology Podcast. Released every Sunday by midnight Pacific.",
+        "added": "03 Aug 2014"
     }, {
         "title": "TMZ Live",
         "url": "http://tmz.vo.llnwd.net/o28/podcasts/xml/tmz_podcast.xml",
