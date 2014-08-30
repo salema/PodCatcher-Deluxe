@@ -170,6 +170,15 @@
         "explicit": "No",
         "description": "Les comédies musicales d'hier et d'aujourd'hui flambent sur l'antenne de France Musique."
     }, {
+        "title": "about:games",
+        "url": "http://www.about-gamescast.de/?feed=podcast",
+        "language": "German",
+        "type": "Audio",
+        "category": "Games & Hobbies",
+        "explicit": "No",
+        "description": "all about games",
+        "added": "30 Aug 2014"
+    }, {
         "title": "Adam Carolla Show",
         "url": "http://feeds.feedburner.com/TheAdamCarollaPodcast",
         "language": "English",
