@@ -244,6 +244,15 @@
         "explicit": "No",
         "description": "The full week’s events in Ambridge, available every Sunday. The Archers is a contemporary drama in a rural setting."
     }, {
+        "title": "ARD radiofeature",
+        "url": "http://www.ard.de/static/radio/radiofeature/rss/podcast.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Das ARD radiofeature ist ein Gemeinschaftsprojekt der ARD mit aufwändigen, investigativ-journalistischen Dokumentationen. Abseits der Nachrichtenflut nehmen sich renommierte Hörfunk-Autoren unter dem Motto \"hören, was dahinter steckt\" den Raum, um Hintergründe und Zusammenhänge kritisch zu beleuchten – vom Internetbetrug bis zum Bankenskandal und vom Doping im Fußball bis zum internationalen Waffenhandel.",
+        "added": "03 Sep 2014"
+    }, {
         "title": "Around the Horn (ESPN)",
         "url": "http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=2839445",
         "language": "English",
