@@ -135,6 +135,7 @@
         "type": "Audio",
         "category": "Society & Culture",
         "explicit": "No",
+        "votes": "4",
         "description": "\"This American Life\" is a weekly public radio show broadcast on more than 500 stations to about 1.7 million listeners. It is produced by Chicago Public Media, distributed by Public Radio International, and has won all of the major broadcasting awards. There’s a theme to each episode, and a variety of stories on that theme. It’s mostly true stories of everyday people, though not always. There’s lots more to the show, but it’s sort of hard to describe."
     }],
     "suggestions": [{
@@ -1448,6 +1449,7 @@
         "type": "Audio",
         "category": "Games & Hobbies",
         "explicit": "No",
+        "votes": "2",
         "description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up."
     }, {
         "title": "Welcome to Night Vale",
