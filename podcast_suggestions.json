@@ -135,6 +135,7 @@
         "type": "Audio",
         "category": "Society & Culture",
         "explicit": "No",
+        "votes": "4",
         "description": "\"This American Life\" is a weekly public radio show broadcast on more than 500 stations to about 1.7 million listeners. It is produced by Chicago Public Media, distributed by Public Radio International, and has won all of the major broadcasting awards. There’s a theme to each episode, and a variety of stories on that theme. It’s mostly true stories of everyday people, though not always. There’s lots more to the show, but it’s sort of hard to describe."
     }],
     "suggestions": [{
@@ -169,6 +170,15 @@
         "category": "Music",
         "explicit": "No",
         "description": "Les comédies musicales d'hier et d'aujourd'hui flambent sur l'antenne de France Musique."
+    }, {
+        "title": "A History of the World in 100 Objects",
+        "url": "http://downloads.bbc.co.uk/podcasts/radio4/ahow/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Welcome to A History of the World from the BBC. Here, you can find all 100 episodes in the series, each describing one of the objects.",
+        "added": "05 Sep 2014"
     }, {
         "title": "about:games",
         "url": "http://www.about-gamescast.de/?feed=podcast",
@@ -243,6 +253,15 @@
         "category": "Arts",
         "explicit": "No",
         "description": "The full week’s events in Ambridge, available every Sunday. The Archers is a contemporary drama in a rural setting."
+    }, {
+        "title": "ARD radiofeature",
+        "url": "http://www.ard.de/static/radio/radiofeature/rss/podcast.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Das ARD radiofeature ist ein Gemeinschaftsprojekt der ARD mit aufwändigen, investigativ-journalistischen Dokumentationen. Abseits der Nachrichtenflut nehmen sich renommierte Hörfunk-Autoren unter dem Motto \"hören, was dahinter steckt\" den Raum, um Hintergründe und Zusammenhänge kritisch zu beleuchten – vom Internetbetrug bis zum Bankenskandal und vom Doping im Fußball bis zum internationalen Waffenhandel.",
+        "added": "03 Sep 2014"
     }, {
         "title": "Around the Horn (ESPN)",
         "url": "http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=2839445",
@@ -1254,6 +1273,15 @@
         "explicit": "No",
         "description": "How does dueling work? Was Noah's Ark real? Join Josh and Chuck as they break down everything from Zorro to zoot suits in the Stuff You Should Know, a podcast from HowStuffWorks.com."
     }, {
+        "title": "Slate's The Gist with Mike Pesca",
+        "url": "http://feeds.feedburner.com/TheGistWithMikePesca",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "A daily afternoon podcast about news, culture, and whatever else you'll be discussing with friends and family tonight.",
+        "added": "05 Sep 2014"
+    }, {
         "title": "Snap Judgment",
         "url": "http://www.npr.org/rss/podcast.php?id=510294",
         "language": "English",
@@ -1448,6 +1476,7 @@
         "type": "Audio",
         "category": "Games & Hobbies",
         "explicit": "No",
+        "votes": "2",
         "description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up."
     }, {
         "title": "Welcome to Night Vale",
