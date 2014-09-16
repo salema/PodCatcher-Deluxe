@@ -670,14 +670,6 @@
         "explicit": "No",
         "description": "Hart aber fair: Das Reizthema!"
     }, {
-        "title": "Here's The Thing",
-        "url": "http://www.wnyc.org/feeds/shows/heresthething",
-        "language": "English",
-        "type": "Audio",
-        "category": "Society & Culture",
-        "explicit": "No",
-        "description": "In WNYC’s new podcast series, award-winning actor Alec Baldwin gives the listener unique entrée into the lives of artists, policy makers and performers. Alec sidesteps the predictable by taking listeners inside the dressing rooms, apartments, and offices of people such as comedian Chris Rock, political strategist Ed Rollins and Oscar winner Michael Douglas. Every two weeks, Alec pursues great conversations in unexpected places to find out what motivates his guests, how they feel about what they do and what keeps them up at night. Here’s The Thing: Listen to what happens when a man you think you know surprises you."
-    },  {
         "title": "His & Hers (ESPN Radio)",
         "url": "http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=8898044",
         "language": "English",
@@ -750,14 +742,6 @@
         "explicit": "Yes",
         "description": "Hosted by award winning comedian Jimmy Dore, this is an irreverent and humorous take on todays headlines and hypocrites. This program skewers politicians as well as the corporate mouthpieces which are todays main stream \"news media\". Interviews with todays top comedians and comedy writers, and gets their take on all things newsy. It is a show that provides the unvarnished truth with a twist of funny." 
     }, {
-        "title": "Journal Économique",
-        "url": "http://www.rtl.fr/podcast/le-journal-economique.xml",
-        "language": "French",
-        "type": "Audio",
-        "category": "Business",
-        "explicit": "No",
-        "description": "Le «Journal Économique» de Christian Menanteau offre un tour complet de l’actualité économique pour mieux en appréhender ses enjeux." 
-    }, {
         "title": "Journal en français facile (RFI)",
         "url": "http://www1.rfi.fr/radiofr/podcast/journalFrancaisFacile.asp",
         "language": "French",
@@ -829,14 +813,6 @@
         "category": "News & Politics",
         "explicit": "No",
         "description": "KCRW's weekly confrontation over politics, policy and popular culture." 
-    }, {
-        "title": "L'Edito d'Alba Ventura",
-        "url": "http://www.rtl.fr/podcast/l-edito-d-alba-ventura-en-video.xml",
-        "language": "French",
-        "type": "Video",
-        "category": "News & Politics",
-        "explicit": "No",
-        "description": "Après ses «carnets» qu’elle signait d’une main de maître les deux saisons précedentes, Alba Ventura décode dans «L’Édito» l’actualité politique et apporte son expertise des affaires publiques." 
     }, {
         "title": "Linux Action Show!",
         "url": "http://feeds.feedburner.com/linuxactionshowipodvid",
@@ -1232,14 +1208,6 @@
         "explicit": "No",
         "description": "A weekly roundup of the most important stories from the worlds or business and finance, hosted by Felix Salmon.",
         "added": "24 Aug 2014"
-    }, {
-        "title": "SolderSmoke Podcasts",
-        "url": "http://www.soldersmoke.com/soldersmoke.rss",
-        "language": "English",
-        "type": "Audio",
-        "category": "Technology",
-        "explicit": "No",
-        "description": "Two amateur radio experimenters discuss workbench radio projects."
     }, {
         "title": "Staatsbürgerkunde",
         "url": "http://www.staatsbuergerkunde-podcast.de/feed/mp3-rss",
