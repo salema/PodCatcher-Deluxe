@@ -1258,6 +1258,15 @@
         "explicit": "No",
         "description": "Snap Judgment is the smoking-hot new show from NPR. Winner of the Public Radio Talent Quest, Glynn Washington delivers a raw, musical brand of storytelling, daring listeners to see the world through the eyes of another."
     }, {
+        "title": "SVP & Russillo (ESPN)",
+        "url": "http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=3028618",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "A daily best of SVP & Russillo on ESPN Radio.",
+		"added": "14 Sep 2014"        
+    }, {
         "title": "Tagesschau",
         "url": "http://www.tagesschau.de/export/video-podcast/tagesschau",
         "language": "German",
