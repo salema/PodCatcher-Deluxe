@@ -579,6 +579,15 @@
         "explicit": "No",
         "description": "Jede Woche neue Abenteuer in und um FIGARINOS Werkstatt: Nachbarin Frau Sparbrod nervt, Kater Long John ist mal wieder frech und immer klingelt das Telefon ... Hört, was diese Woche in FIGARINOS Werkstatt passiert!"
     }, {
+        "title": "Filmspotting",
+        "url": "http://feeds.feedburner.com/cinecast",
+        "language": "English",
+        "type": "Audio",
+        "category": "TV & Film",
+        "explicit": "no",
+        "description": "Weekly film podcast/WBEZ radio show from Chicago featuring in-depth reviews, top 5 lists and interviews. Hosted by Adam Kempenaar and Josh Larsen.",
+        "added": "19 Sep 2014"
+    }, {
         "title": "First Take (ESPN)",
         "url": "http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=6247496",
         "language": "English",
