@@ -337,6 +337,15 @@
         "explicit": "No",
         "description": "This podcast is a beautifully executed compilation combining the absolute best in left-leaning political news, commentary and occasional comedy with great music to pull it all together."
     }, {
+        "title": "Bill Burr Monday Morning Podcast",
+        "url": "http://feeds.feedburner.com/BillBurr",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Dates, Videos, Images and Podcasts by yours truly.",
+        "added": "02 Oct 2014"
+    }, {
         "title": "BizarreBazaar",
         "url": "http://recordings.talkshoe.com/rss74702.xml",
         "language": "English",
