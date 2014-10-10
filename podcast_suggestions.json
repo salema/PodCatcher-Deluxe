@@ -712,6 +712,15 @@
         "explicit": "Yes",
         "description": "Der skeptische Podcast aus Hamburg - Hoaxilla beschäftigt sich mit Modernen Sagen (Urban Legends), Medien, Kultur und Wissenschaft aus Sicht der Skeptiker-Bewegung ohne sich dabei selbst zu ernst zu nehmen." 
     }, {
+        "title": "Hockey Central @ Noon",
+        "url": "http://feeds.feedburner.com/fan590_hockeycentral",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "The latest hockey buzz with Daren Millard, former NHLer Nick Kypreos and former NHL executive Doug MacLean.",
+        "added": "10 Oct 2014"
+    }, {
         "title": "How Did This Get Made?",
         "url": "http://feeds.feedburner.com/HowDidThisGetMade",
         "language": "English",
@@ -1129,6 +1138,15 @@
         "category": "Education",
         "explicit": "No",
         "description": "radioWissen bietet eine Fülle unterschiedlicher Themen: Spannendes aus der Geschichte, Interessantes aus Literatur und Musik, Faszinierendes über Mythen, Menschen und Religionen, Erhellendes über Natur und Umwelt, Hintergründiges über aktuelle Themen im Gespräch. Die ganze Welt des Wissens - der radioWissen-Podcast liefert täglich ausgewählte Sendungen frei Haus - spannend erzählt, gut aufbereitet, nützlich für die Schule und bereichernd für alle Bildungsinteressierten."
+    }, {
+        "title": "Revolutions",
+        "url": "http://revolutionspodcast.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Education",
+        "explicit": "No",
+        "description": "A weekly podcasting exploring great political revolutions.",
+        "added": "10 Oct 2014"
     }, {
         "title": "Rich Eisen NFL Podcast",
         "url": "http://richeisen.libsyn.com/rss",
