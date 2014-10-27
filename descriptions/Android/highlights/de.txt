@@ -1,0 +1,14 @@
+Highlights
+Wiedergabe von Audio und Video, inkl. Vollbildoption
+Für Smartphones und Tablets optimiert
+Wiederaufnahme beim letzten Abspielpunkt 
+Integrierter Podcastkatalog
+Import und Export von OPML-Dateien
+Integration in Systemnachrichten und Sperrbildschirme
+Anpassbare Oberfläche
+Unterstützung für Bluetooth Headsets
+Anpassbarer Download-Ordner
+Wiedergabelisten und Filter
+Auto-Download und -Löschen
+Synchronisation via Dropbox und gpodder.net
+Keine Werbung, kein Tracking

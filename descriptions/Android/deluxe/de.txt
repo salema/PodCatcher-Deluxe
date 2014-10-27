@@ -4,18 +4,3 @@ Podcatcher Deluxe ist ein komplett ausgestatteter Audio-Podcatcher, mit dem Sie 
 Die App verfügt über vollständige Wiedergabefunktionen und zeichnet sich durch ein zugleich elegantes und intuitives Drei-Spalten-Layout aus, mit dem auch Tablet-Nutzer voll auf ihre Kosten kommen. Während der Wiedergabe können die Podcasts durchsucht und die Episodenbeschreibung angezeigt werden. Ein integrierter Podcast-Katalog erleichtert Ihnen den Einstieg.
 Zudem ermöglicht diese Premiumversion das Herunterladen von Episoden, die Fortsetzung der Wiedergabe beim Neustart der App von der Stelle, an der unterbrochen wurde und das Filtern von Inhalten (z.B. nach neu/alt bzw. ungehört/gehört). Mithilfe von flexiblen Wiedergabelisten können Sie außerdem mehrere Episoden nacheinander genießen. 
 Besuchen Sie http://www.podcatcher-deluxe.com für weitere Informationen.
-
-Highlights
-Wiedergabe von Audio und Video, inkl. Vollbildoption
-Für Smartphones und Tablets optimiert
-Wiederaufnahme beim letzten Abspielpunkt 
-Integrierter Podcastkatalog
-Import und Export von OPML-Dateien
-Integration in Systemnachrichten und Sperrbildschirme
-Anpassbare Oberfläche
-Unterstützung für Bluetooth Headsets
-Anpassbarer Download-Ordner
-Wiedergabelisten und Filter
-Auto-Download und -Löschen
-Synchronisation via Dropbox und gpodder.net
-Keine Werbung

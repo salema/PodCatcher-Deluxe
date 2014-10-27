@@ -1,0 +1,14 @@
+Highlights
+Both audio and video playback, fullscreen option
+Adaptive layout, works great on both phones and tablets
+Resume playback 
+Integrated podcast catalog
+OPML file import and export
+Notification and lock screen integration
+Customizable appearance
+Support for Bluetooth audio devices
+Custom download folder
+Playlists and filters
+Optional auto-downloads and auto-deletes
+Synchronization via Dropbox and gpodder.net
+No ads, no tracking
