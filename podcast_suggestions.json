@@ -354,6 +354,15 @@
         "explicit": "No",
         "description": "A light-hearted podcast about the funny, bizarre, odd and wonderful stories found on the internet and elsewhere. Come along, relax and have some fun. This Podcast was created using www.talkshoe.com"
     }, {
+        "title": "Black Sweet Stories",
+        "url": "http://www.blacksweetstories.com/feed/podcast",
+        "language": "German",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "Yes",
+        "description": "Black Sweet Stories ist ein Vorlesepodcast der düsteren Art – kosten- aber nicht jugendfrei, jeden Freitag neu.",
+        "added": "04 Nov 2014"
+    }, {
         "title": "Brain Science Podcast",
         "url": "http://brainsciencepodcast.libsyn.com/rss",
         "language": "English",
@@ -402,6 +411,7 @@
         "type": "Audio",
         "category": "Games & Hobbies",
         "explicit": "No",
+        "votes": "2",
         "description": "America's funniest auto mechanics take calls from weary car owners all over the country, and crack wise while they diagnose Dodges and dismiss Diahatsus. You don't have to know anything about cars to love this one hour weekly laugh fest."
     }, {
         "title": "Cheeky Backheel",
