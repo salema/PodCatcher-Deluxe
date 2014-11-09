@@ -32,6 +32,15 @@
         "explicit": "No",
         "description": "Das politische Wochengeschehen - respektlos, aber treffend formuliert. Fair, aber ziemlich unbarmherzig."
     }, {
+        "title": "Einschlafen Podcast",
+        "url": "http://feeds.feedburner.com/EinschlafenPodcast",
+        "language": "German",
+        "type": "Audio",
+        "category": "Kids & Family",
+        "explicit": "No",
+        "description": "Langweilige Texte mit ruhiger Stimme vorlesen, damit Ihr besser einschlafen könnt, das ist mein Ziel!",
+        "added": "09 Nov 2014"
+    }, {
         "title": "Freakonomics Podcast",
         "url": "http://feeds.feedburner.com/freakonomicsradio",
         "language": "English",
@@ -104,6 +113,24 @@
         "category": "TV & Film",
         "explicit": "No",
         "description": "Die Maus ist ein Urgestein der deutschen TV-Landschaft. Seit den 70ern produziert der WDR diese Show für Kinder. Ausgestrahlt wird die Sendung mit der Maus in allen großen Landesrundfunkanstalten. Beiträge aus der Sendung mit der Maus werden in nahezu einhundert Ländern ausgestrahlt."
+    }, {
+        "title": "Serial",
+        "url": "http://feeds.serialpodcast.org/serialpodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Serial is a new podcast from the creators of This American Life, hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole season. The show follows the plot and characters wherever they lead, through many surprising twists and turns. Sarah won't know what happens at the end of the story until she gets there, not long before you get there with her. Each week she'll bring you the latest chapter, so it's important to listen in, starting with Episode 1. New episodes are released on Thursday mornings. Serial, like This American Life, is a production of WBEZ Chicago.",
+        "added": "09 Nov 2014"
+    }, {
+        "title": "Sonntagssoziologe",
+        "url": "http://feeds.feedburner.com/sonntagssoziologe",
+        "language": "German",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Ein soziologisch-philosophischer Podcast",
+        "added": "09 Nov 2014"
     }, {
         "title": "Sound Opinions",
         "url": "http://feeds.feedburner.com/TheSoundOpinionsPodcast",
@@ -1362,6 +1389,15 @@
         "category": "Technology",
         "explicit": "No",
         "description": "An in-depth analysis of tech issues and topics. Hosted by Chris Fisher and Allan Jude, with over 20+ years in the technology industry. Tune in and get engaged by deep critical analysis and conversation around technologies’ milestones."
+    }, {
+        "title": "Textilvergehen",
+        "url": "http://www.textilvergehen.de/feed/mp3",
+        "language": "German",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Der Podcast über den 1. FC Union und das ganze Drumherum. Mit O-Tönen von Spielern und Trainern. Nicht immer objektiv, aber dafür mit viel Meinung.",
+        "added": "09 Nov 2014"
     }, {
         "title": "The Alton Browncast",
         "url": "http://thebrowncast.libsyn.com/rss",
