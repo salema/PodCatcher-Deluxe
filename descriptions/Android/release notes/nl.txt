@@ -1,0 +1,6 @@
+- Podcast data synchronisatie via Dropbox en gpodder.net
+- Chromecast ondersteuning
+- Podcast catalogus zoekmogelijkheid
+- Introduceert AppWidget
+- Geupdate iconen en weergave
+- Verscheidene bugfixes en kleine verbeteringen

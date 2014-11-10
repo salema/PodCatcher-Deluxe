@@ -1,0 +1,14 @@
+Hoogtepunten
+Zowel audio- als video playback, fullscreen optie
+Adaptieve layout, werkt geweldig op zowel telefoons als tablets
+Hervat afspelen
+Geintegreerde podcast catalogus
+OPML bestand import en export
+Notificatie en lockscreen integratie
+Aanpasbaar uiterlijk
+Ondersteuning voor Bluetooth audio apparatuur
+Aanpasbare download map
+Afspeellijsten en filters
+Optionele auto-downloads en auto-deletes
+Synchronisatie via Dropbox en gpodder.net
+Geen advertenties, geen tracking
