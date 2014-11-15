@@ -481,6 +481,15 @@
         "explicit": "No",
         "description": "Premier à se présenter : Bixente Lizarazu… Le champion du monde reprend le micro pour une nouvelle saison radiophonique avec en ligne de mire la Coupe du Monde 2014 au Brésil ! Chaque lundi, de 20h00 à 21h00 dans \"Le Club Liza\", il apporte son expertise et livre ses analyses sans concession sur le monde du foot, entouré de ses fidèles compères Sylvain Charley et Cyprien Cini. Il reçoit les grandes figures qui agitent la planète Foot et nous offre un condensé de l’actu du moment."
     }, {
+        "title": "Comedian's Comedian",
+        "url": "http://feeds.feedburner.com/stuartgoldsmith",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "The Comedian's Comedian Podcast with Stuart Goldsmith. Like \"Inside the Actor's Studio\" but for comedians. And less pompous.",
+        "added": "15 Nov 2014"
+    }, {
         "title": "Computerclub Zwei",
         "url": "http://www.cczwei.de/rss_issues",
         "language": "German",
@@ -504,14 +513,6 @@
         "category": "Education",
         "explicit": "No",
         "description": "Are you confident you can reason clearly? Are you able to convince others of your point of view? Are you able to give plausible reasons for believing what you believe? Do you sometimes read arguments in the newspapers, hear them on the television, or in the pub and wish you knew how to confidently evaluate them? In this six-part course, you will learn all about arguments, how to identify them, how to evaluate them, and how not to mistake bad arguments for good. Such skills are invaluable if you are concerned about the truth of your beliefs, and the cogency of your arguments."
-    }, {
-        "title": "Daily Bacon",
-        "url": "http://downloads.bbc.co.uk/podcasts/fivelive/dailybacon/rss.xml",
-        "language": "English",
-        "type": "Audio",
-        "category": "News & Politics",
-        "explicit": "No",
-        "description": "The best interviews and chat from Richard Bacon's afternoon programme on BBC Radio 5 live. Featuring a broad variety of guests from the fields of news, sport and entertainment." 
     }, {
         "title": "Daily French Pod",
         "url": "http://feeds.feedburner.com/LearnFrenchWithDailyfrenchpod",
@@ -690,14 +691,6 @@
         "category": "Science & Medicine",
         "explicit": "Yes",
         "description": "Podcast de Geologia y Ciencias de la Tierra."
-    }, {
-        "title": "Golfcast",
-        "url": "http://www.golfcast.es/feed",
-        "language": "Spanish",
-        "type": "Audio",
-        "category": "Sports & Recreation",
-        "explicit": "No",
-        "description": "Golfcast reune alrededor del micrófono a los mejores periodistas deportivos, especialistas en golf, para analizar todo lo que acontece en torno a este deporte."
     }, {
         "title": "Happy Shooting",
         "url": "http://feeds.happyshooting.de/happyshooting",
@@ -935,13 +928,15 @@
         "explicit": "No",
         "description": "Marketplace Money from American Public Media is a weekly hour-long program hosted by Tess Vigeland on the topics of personal finance, money, retirement, and health care." 
     }, {
-        "title": "Mars Hill Church: Mark Driscoll",
-        "url": "http://feeds.marshill.com/marshill/mark-driscoll/audio",
+        "title": "Mark Levin Audio Rewind",
+        "url": "http://cdn.stationcaster.com/stations/mark/rss/10771.rss",
         "language": "English",
         "type": "Audio",
-        "category": "Religion & Spirituality",
-        "explicit": "No",
-        "description": "At Mars Hill Church, it’s all about Jesus. Every week on this channel, we distribute sermons, teachings from events, and other messages from Pastor Mark Driscoll, Mars Hill’s founding and preaching pastor, for our extended church family on the internet." 
+        "category": "News & Politics",
+        "explicit": "Yes",
+        "votes": "2",
+        "description": "Mark Levin has become one of the hottest properties in Talk radio, his top-rated show on WABC is now syndicated nationally. He is also one of the top new authors in the conservative political arena.",
+        "added": "15 Nov 2014"
     }, {
         "title": "Mein Freund der Baum",
         "url": "http://www.kuechenstud.io/mein-freund-der-baum/feed/mp3",
@@ -1000,7 +995,7 @@
         "description": "Im Audiopodcast der NachDenkSeiten werden regelmäßig die wichtigsten Artikel des Blogs NachDenkSeiten.de zum Nachhören angeboten." 
     }, {
         "title": "Neues aus der Anstalt",
-        "url": "http://www.zdf.de/ZDFmediathek/podcast/222630?view=podcast",
+        "url": "http://www.zdf.de/ZDFmediathek/podcast/2085930?view=podcast",
         "language": "German",
         "type": "Video",
         "category": "Comedy",
@@ -1055,6 +1050,15 @@
         "category": "Sports & Recreation",
         "explicit": "No",
         "description": "Dave Dameshek sets his gaze on the NFL landscape to analyze, celebrate and - when necessary - offer improvements to America's true national pastime from a true fan's perspective."
+    }, {
+        "title": "Nothing But The Blues",
+        "url": "http://cliff.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Music",
+        "explicit": "No",
+        "description": "Nothing but the blues, from the earliest to the latest, all genres.",
+        "added": "15 Nov 2014"
     }, {
         "title": "Ohhh! TV",
         "url": "http://feeds.feedburner.com/Ohhhtvs",
@@ -1274,14 +1278,6 @@
         "explicit": "No",
         "description": "Skeptoid is a weekly science podcast dedicated to furthering knowledge by blasting away the widespread pseudosciences that infect popular culture, and replacing them with way cooler reality. Each weekly episode focuses on a single phenomenon — an urban legend, a paranormal claim, alternative therapy, or something just plain stupid — that you've heard of, and that you probably believe in. Skeptoid attempts to expose the folly of belief in non-evidence based phenomena, and more importantly, explains the factual scientific reality. From the sublime to the startling, no topic is sacred, politically incorrect though that may be."
     }, {
-        "title": "Skip Heitzig Connection TV",
-        "url": "http://skipheitzig.com/podcast/tv",
-        "language": "English",
-        "type": "Video",
-        "category": "Religion & Spirituality",
-        "explicit": "No",
-        "description": "Connection TV features the teaching of Skip Heitzig, senior pastor at Calvary Albuquerque. From topical studies to verse-by-verse exposition through the entire Bible, Connection TV presents the Word of God in a format that is contemporary, relaxed, and relevant."
-    }, {
         "title": "Slate Money",
         "url": "http://feeds.feedburner.com/SlateMoney",
         "language": "English",
@@ -1290,6 +1286,15 @@
         "explicit": "No",
         "description": "A weekly roundup of the most important stories from the worlds or business and finance, hosted by Felix Salmon.",
         "added": "24 Aug 2014"
+    }, {
+        "title": "Sodajerker On Songwriting",
+        "url": "http://sodajerker.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Music",
+        "explicit": "No",
+        "description": "Sodajerker On Songwriting is a programme devoted to the art and craft of songwriting. The show, created and hosted by the UK songwriting team Sodajerker, features interviews with some of the most successful songwriters and musicians in the world.",
+        "added": "15 Nov 2014"
     }, {
         "title": "Staatsbürgerkunde",
         "url": "http://www.staatsbuergerkunde-podcast.de/feed/mp3-rss",
@@ -1416,6 +1421,15 @@
         "explicit": "Yes",
         "description": "Conduit to the Gaian Mind."
     }, {
+        "title": "The Memory Palace",
+        "url": "http://feeds.feedburner.com/TheMemoryPalace",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "The Memory Palace History Podcast by Nate DiMeo.",
+        "added": "15 Nov 2014"
+    }, {
         "title": "The Moth",
         "url": "http://feeds.themoth.org/themothpodcast",
         "language": "English",
@@ -1481,14 +1495,6 @@
         "description": "Your first podcast of the week is the last word in tech. Join Leo Laporte, Patrick Norton, Kevin Rose, John C. Dvorak, and other tech luminaries in a roundtable discussion of the latest trends in digital technology. Winner of the 2005 People's Choice Podcast Award for best overall podcast and Best Technology Podcast. Released every Sunday by midnight Pacific.",
         "added": "03 Aug 2014"
     }, {
-        "title": "TMZ Live",
-        "url": "http://tmz.vo.llnwd.net/o28/podcasts/xml/tmz_podcast.xml",
-        "language": "English",
-        "type": "Video",
-        "category": "News & Politics",
-        "explicit": "No",
-        "description": "Come inside our TMZ newsroom for an hour Monday-Friday … hear about the stories we’re breaking from our staff in real time. Harvey Levin and crew will answer your questions via Twitter, Facebook … and on the phone. We’ll tell you things you didn’t know about the big celebrity stories of the day. It’s raw, unpredictable, packed with info and funny. In other words, it beats work."
-    }, {
         "title": "To the Best of Our Knowledge",
         "url": "http://ttbook.org/book/radio/rss/feed",
         "language": "English",
@@ -1512,6 +1518,15 @@
         "category": "Arts",
         "explicit": "No",
         "description": "CBC Radio's Q is Canada's liveliest arts, culture and entertainment magazine. It's a smart and surprising tour through personalities and cultural issues that matter to Canadians. Hosted by Jian Ghomeshi, with his trademark wit and spontaneity, Q covers pop culture and high arts alike, with forays into the most provocative and compelling cultural trends. Q brings you big names, big ideas, and those paving the way in Canada's cultural community. Q is your cultural intervention!"
+    }, {
+        "title": "Quirks and Quarks (CBC Radio)",
+        "url": "http://www.cbc.ca/podcasting/includes/quirks.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "CBC Radio's Quirks & Quarks covers the quirks of the expanding universe to the quarks within a single atom... and everything in between.",
+        "added": "15 Nov 2014"
     }, {
         "title": "Vergecast",
         "url": "http://feeds.feedburner.com/TheVergecastVideo",
@@ -1545,14 +1560,6 @@
         "category": "Comedy",
         "explicit": "No",
         "description": "Twice-monthly community updates for the small desert town of Night Vale, featuring local weather, news, announcements from the Sheriff's Secret Police, mysterious lights in the night sky, dark hooded figures with unknowable powers, and cultural events. Turn on your radio and hide. Welcome to Night Vale."
-    }, {
-        "title": "Why Shamanism Now",
-        "url": "http://whyshamanismnow.com/feed",
-        "language": "English",
-        "type": "Audio",
-        "category": "Religion & Spirituality",
-        "explicit": "No",
-        "description": "Internet Radio Show Hosted by Christina Pratt."
     }, {
         "title": "Wissen macht Ah!",
         "url": "http://podcast.wdr.de/wissenmachtah.xml",
