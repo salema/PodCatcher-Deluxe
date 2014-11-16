@@ -82,6 +82,15 @@
         "explicit": "No",
         "description": "The smartest, wittiest, most incisive media analysis show in the universe. The weekly one-hour podcast of NPR’s On the Media is your guide to how the media sausage is made. Hosts Brooke Gladstone and Bob Garfield examine threats to free speech and government transparency, criticize media coverage of the week’s big stories, examine new technology, and unravel hidden political narratives in the media. In an age of information overload, OTM helps you dig your way out. The Peabody Award winning show is produced by WNYC Radio."
     }, {
+        "title": "Probably Science",
+        "url": "http://probablyscience.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "Yes",
+        "description": "Three professional comedians and incompetent scientists take you through this week in science. Incompetently. Featuring Matt Kirshen, Andy Wood, Jesse Case and a rotating cast of special guests.",
+        "added": "16 Nov 2014"
+    }, {
         "title": "Radio Ambulante",
         "url": "http://feeds.feedburner.com/RadioAmbulante-Spanish",
         "language": "Spanish",
@@ -887,14 +896,6 @@
         "explicit": "Yes",
         "description": "Two pragmatic geeks talk about the latest news concerning Linux, free and open technology or anything else they deem noteworthy which may include such absurd things as hockey or bands you never heard of. This means there's many a joke and derailed conversation along the way, so don't come here expecting only Linux or software freedom talk — just sit back and relax, partner." 
     }, {
-        "title": "LoQueYoTeDiga",
-        "url": "http://podcastweblqytdiga.wordpress.com/feed",
-        "language": "Spanish",
-        "type": "Audio",
-        "category": "TV & Film",
-        "explicit": "No",
-        "description": "El podcast oficial de LoQueYoTeDiga, productora de comunicación dedicada durante más de 20 años a la información cinematográfica en distintos medios." 
-    }, {
         "title": "Los Danko",
         "url": "http://losdanko.podomatic.com/rss2.xml",
         "language": "Spanish",
@@ -1560,6 +1561,15 @@
         "category": "Comedy",
         "explicit": "No",
         "description": "Twice-monthly community updates for the small desert town of Night Vale, featuring local weather, news, announcements from the Sheriff's Secret Police, mysterious lights in the night sky, dark hooded figures with unknowable powers, and cultural events. Turn on your radio and hide. Welcome to Night Vale."
+    }, {
+        "title": "Wie war der Tag, Liebling? (SWR3)",
+        "url": "http://www.swr3.de/rss/Wie_20war_20der_20Tag,_20Liebling_3F/-/id=477150/did=477162/1neezeu/index.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "WR3-Moderator Kristian Thees hat früher mit Anke Engelke zusammen Radio gemacht und ruft sie jetzt regelmäßig aus seiner Sendung an. Worüber die beiden dann plaudern, hört ihr im SWR3-Podcast „Wie war der Tag, Liebling?“",
+        "added": "16 Nov 2014"
     }, {
         "title": "Wissen macht Ah!",
         "url": "http://podcast.wdr.de/wissenmachtah.xml",
