@@ -571,6 +571,15 @@
         "explicit": "No",
         "description": "Podcast dedicado al cine, la television, los comics, la musica, internet, los libros,... todo lo que nos gusta a nosotros y queremos que conozcas." 
     }, {
+        "title": "Desert Island Discs",
+        "url": "http://downloads.bbc.co.uk/podcasts/radio4/did/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Music",
+        "explicit": "No",
+        "description": "Kirsty Young asks castaways to choose eight records, a book and a luxury to take with them to the mythical desert island.",
+        "added": "25 Nov 2014" 
+    }, {
         "title": "Ecole Appli",
         "url": "http://feeds.feedburner.com/ecoleapplihd",
         "language": "French",
@@ -1486,6 +1495,15 @@
         "category": "Technology",
         "explicit": "No",
         "description": "Leo Laporte, Gina Trapani, Jeff Jarvis and their guests talk about the latest Google and cloud computing news. Recorded live at 4 p.m. Eastern/1 p.m. Pacific/2000 UTC on Wednesdays and released later that evening. Part of the TWiT Netcast Network."
+    }, {
+        "title": "This Old Workshop",
+        "url": "http://thisoldworkshop.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Games & Hobbies",
+        "explicit": "No",
+        "description": "This Old Workshop has been a woodworking resource online since 1995. Now the founders have come together to create podcast on a variety of woodworking subjects. Woodworking, projects, techniques and resources.",
+        "added": "25 Nov 2014"
     }, {
         "title": "This Week in Tech",
         "url": "http://feeds.twit.tv/twit_video_small",
