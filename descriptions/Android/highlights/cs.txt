@@ -1,0 +1,12 @@
+Vlastnosti
+
+
+Obnovení přehrávání 
+Vyhledávač záznamů
+Zavedení/Vyvedení souborů OPML
+Oznámení a zamknutí obrazovky
+Podpora pro zvuková zařízení s bluetooth
+Složka pro vlastní stahování
+Seznamy skladeb a filtr
+Automatické stahování a mazání
+Synchronizace přes Dropbox a gpodder.net

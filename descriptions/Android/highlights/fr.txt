@@ -1,0 +1,12 @@
+Fonctions
+
+
+Reprendre la lecture 
+Catalogue de podcasts intégré
+Import et export de fichiers OPML
+Intégration avec notifications et écran de verrouillage
+Compatible avec les périphériques audio Bluetooth
+Choisir dossier de téléchargement
+Listes de lecture et filtres
+Téléchargement et suppression automatiques
+Synchronisation via Dropbox et gpodder.net

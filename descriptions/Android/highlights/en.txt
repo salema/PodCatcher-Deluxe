@@ -5,7 +5,6 @@ Resume playback
 Integrated podcast catalog
 OPML file import and export
 Notification and lock screen integration
-Customizable appearance
 Support for Bluetooth audio devices
 Custom download folder
 Playlists and filters
