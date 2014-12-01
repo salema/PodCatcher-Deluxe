@@ -1,0 +1,13 @@
+Vurgulanmalar
+Ses ve video oynatma, tam ekran seçeneği
+Adaptif düzen, telefonlar ve tabletler üzerinde harika çalışır
+Oynatmaya devam et
+Entegre podcast kataloğu
+OPML dosya aktar ve çıkart
+Bildirim ve kilit ekran entegrasyonu
+Bluetooth ses aygıtları için destek
+Seçimli indirme klasörü
+Oynatma listeleri ve filtreler
+Opsiyonel otomatik indirme ve silme
+Dropbox ve gpodder.net senkronizasyonu
+Reklam, izleme yok

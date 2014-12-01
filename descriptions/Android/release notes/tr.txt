@@ -1,0 +1,6 @@
+- Dropbox ve gpodder.net podcast veri senkronizasyonu
+- Chromecast desteği
+- Podcast kataloğu bulma
+- Sunulan AppWidget
+- İkonlar ve görünüm değiştirildi
+- Birçok hata düzeltmeleri ve küçük geliştirmeler

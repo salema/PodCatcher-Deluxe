@@ -1,0 +1,6 @@
+Simple Podcatcher: bedava, güçlü, şık ve kolay podcast uygulama.
+
+Simple Podcatcher temel özellikli olarak tasarlanmış podcast yönetimini sağlayan kolay kullanımlı bir uygulamadır.
+
+
+Daha fazla bilgi için http://www.podcatcher-deluxe.com ziyaret edin.
