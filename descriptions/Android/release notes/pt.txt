@@ -1,0 +1,6 @@
+- Sincronização de dados de podcast via Dropbox e gpodder.net
+- Suporte Chromecast
+- Pesquisa do catálogo de podcast
+- Aplicativo AppWidget introduzido
+- Ícones e aparência atualizada
+- Muitas correções e pequenas melhorias

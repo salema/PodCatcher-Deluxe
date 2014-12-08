@@ -1,0 +1,6 @@
+Podcatcher Deluxe: seu aplicativo de podcast poderoso, elegante e fácil de usar.
+
+Podcatcher Deluxe é um app de podcast de áudio full-featured projetado para gerenciar o conteúdo de podcast facilmente enquanto em movimento.
+Junto com as funcionalidades básicas de reprodução, Podcatcher Deluxe apresenta um layout de três colunas sofisticado. Uma contém a lista de subscrições de podcast, outro exibe episódios disponíveis (para a subscrição selecionada) e a terceira coluna mostra claramente descrições detalhadas do episódio do podcast. Este esquema funciona especialmente bem em tablets e telefones de tela grande. Vários feeds são suportados com este design elegante e podem convenientemente ser pesquisados durante a visualização. O localizador de podcast integrado faz com que você aceda rapidamente.
+Além disso, esta versão premium permite o download de episódios, retoma a última posição de reprodução no reinício e adiciona suporte para filtros de episódio (episódios novos/antigos). Ele também oferece uma opção de lista de reprodução para reprodução ininterrupta back-to-back.
+Visite http://www.podcatcher-deluxe.com para links e mais informações.

@@ -1,0 +1,13 @@
+Destaques
+Reprodução de áudio, vídeo e opção de tela cheia
+Layout adaptável, funciona muito bem em telefones e tablets
+Retomar a reprodução 
+Catálogo integrado de podcast
+Exportação e importação de arquivos OPML
+Notificação e tela de bloqueio integrada
+Suporte para dispositivos de áudio Bluetooth
+Pasta de download personalizada
+Listas e filtros
+Opção de download e exclusão automáticos
+Sincronização via Dropbox e gpodder.net
+Sem anúncios, sem acompanhamento
