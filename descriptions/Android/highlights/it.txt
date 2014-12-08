@@ -1,0 +1,13 @@
+In evidenza
+Riproduzione sia audio che video, opzione full screen (schermo intero)
+Layout adattivo, lavora perfettamente sia sugli smartphone che sui tablet
+Sintetizza la riproduzione 
+Catalogo di podcast integrato
+Importare ed esportare file OPML
+Notifiche e blocco della schermata integrato
+Supporto per i dispositivi audio Bluetooth
+Cartella di download personalizzata
+Playlist e filtri
+Download automatici e cancellazioni automatiche opzionali.
+Sincronizzazione tramite Dropbox e gpodder.net
+Nessuna pubblicità, nessun tracciamento
