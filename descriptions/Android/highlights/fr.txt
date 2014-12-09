@@ -1,7 +1,7 @@
 Fonctions
-
-
-Reprendre la lecture 
+Lecture à la fois audio et vidéo, option plein écran
+Mise en page adaptive, fonctionne très bien, à la fois sur les tablettes et les téléphones
+Reprendre la lecture
 Catalogue de podcasts intégré
 Import et export de fichiers OPML
 Intégration avec notifications et écran de verrouillage
@@ -10,3 +10,4 @@ Choisir dossier de téléchargement
 Listes de lecture et filtres
 Téléchargement et suppression automatiques
 Synchronisation via Dropbox et gpodder.net
+Pas de publicité, pas de suivi

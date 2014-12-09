@@ -1,7 +1,7 @@
 Funciones
-
-
-Reanudar la reproducción 
+Reproducción de audio y vídeo con opción de pantalla completa
+Diseño de la pantalla ajustable con buen funcionamiento en teléfonos y tablets
+Reanudar la reproducción
 Catálogo de podcasts integrado
 Importación y exportación de archivos OPML
 Integración con notificaciones y pantalla de bloqueo
@@ -10,3 +10,4 @@ Seleccionar carpeta de descargas
 Listas de reproducción y filtros
 Descarga y eliminación automáticas
 Sincronización via Dropbox y gpodder.net
+Sin anuncios ni seguimiento
