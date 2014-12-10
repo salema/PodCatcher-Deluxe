@@ -1,6 +1,6 @@
 Vlastnosti
-
-
+Přehrávání zvuku i obrazu, volby pro celou obrazovku
+Odladěno pro (chytré) telefony a tablety
 Obnovení přehrávání 
 Vyhledávač záznamů
 Zavedení/Vyvedení souborů OPML
@@ -10,3 +10,4 @@ Složka pro vlastní stahování
 Seznamy skladeb a filtr
 Automatické stahování a mazání
 Synchronizace přes Dropbox a gpodder.net
+Žádné inzeráty, žádné sledování
