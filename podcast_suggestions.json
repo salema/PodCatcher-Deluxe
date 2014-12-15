@@ -382,6 +382,15 @@
         "description": "Dates, Videos, Images and Podcasts by yours truly.",
         "added": "02 Oct 2014"
     }, {
+        "title": "Bits und so",
+        "url": "http://www.bitsundso.de/feed",
+        "language": "German",
+        "type": "Audio",
+        "category": "Technology",
+        "explicit": "No",
+        "description": "Die wöchentliche Talkrunde rund um Apple, Mac, iPod + iPhone, Gadgets und so. Fast live aus München.",
+        "added": "15 Dec 2014"
+    }, {
         "title": "BizarreBazaar",
         "url": "http://recordings.talkshoe.com/rss74702.xml",
         "language": "English",
@@ -579,6 +588,15 @@
         "explicit": "No",
         "description": "Kirsty Young asks castaways to choose eight records, a book and a luxury to take with them to the mythical desert island.",
         "added": "25 Nov 2014" 
+    }, {
+        "title": "DJ Orkidea",
+        "url": "http://feeds.feedburner.com/djorkidea/podcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Music",
+        "explicit": "No",
+        "description": "Tapio Hakanen, better known by his stage name DJ Orkidea, is a Finnish electronic music artist. DJ Orkidea has been one of Scandinavia’s top DJs for over 10 years.",
+        "added": "15 Dec 2014" 
     }, {
         "title": "Ecole Appli",
         "url": "http://feeds.feedburner.com/ecoleapplihd",
@@ -841,6 +859,15 @@
         "explicit": "Yes",
         "description": "Kevin Pollak's Chat Show is a video talkshow. An award-winning actor, Pollak (The Usual Suspects, Casino, A Few Good Men) was also named by Comedy Central as One of the Top 100 Comedians of All Time. Here, he interviews celebrated actors, writers, directors, comedians, and masters of the tech universe." 
     }, {
+        "title": "Küchenradio",
+        "url": "http://www.kuechenstud.io/kuechenradio/feed/mp3",
+        "language": "German",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Gespräche, Reportagen, Monologe aus Berlin seit 2005",
+        "added": "15 Dec 2014"
+    }, {
         "title": "KQED-FM: KQED's Forum Podcast",
         "url": "http://www.npr.org/rss/podcast.php?id=510075",
         "language": "English",
@@ -880,6 +907,15 @@
         "category": "Society & Culture",
         "explicit": "Yes",
         "description": "La Voix dans la Tête, l'émission bimensuelle techno-culturelle." 
+    }, {
+        "title": "La Zanzara",
+        "url": "http://www.radio24.ilsole24ore.com/podcast/lazanzara.xml",
+        "language": "Italian",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Giuseppe Cruciani conduce \"La zanzara\", l'attualità senza tabù, senza censure, senza tagli alle vostre opinioni. Alla fine della giornata, con i titoli dei telegiornali in diretta, inchieste, voci catturate dalle tv di tutto il mondo e ospiti che non avete mai sentito, \"La zanzara\" diventa la zona franca degli ascoltatori, uno spazio nemico della banalità, l'arena dove il primo comandamento è parlare chiaro.",
+        "added": "15 Dec 2014"
     }, {
         "title": "Left, Right & Center",
         "url": "http://feeds.kcrw.com/kcrw/lr",
@@ -929,6 +965,15 @@
         "explicit": "Yes",
         "description": "The Mating Grounds Podcast is a collaboration between #1 bestselling author, Tucker Max, and renowned evolutionary psychologist, Professor Geoffrey Miller, to teach men how to be successful with women, dating and relationships. Through discussions and interviews with the worlds leading experts in human sexuality, psychology, animal behavior, genetics and behavioral studies, they explain in clear and actionable terms precisely what men need to know about sex, dating, relationships, and women, and how to improve yourself in all of those areas.",
         "added": "31 Jul 2014"
+    }, {
+        "title": "Mark Kermode and Simon Mayo's Film Reviews",
+        "url": "http://downloads.bbc.co.uk/podcasts/fivelive/kermode/rss.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "TV & Film",
+        "explicit": "No",
+        "description": "Mark Kermode discusses the latest film releases with Simon Mayo. Lively, controversial and unmissable movie discussion.",
+        "added": "15 Dec 2014" 
     }, {
         "title": "Marketplace Money",
         "url": "http://www.marketplace.org/shows/54/podcast.xml",
