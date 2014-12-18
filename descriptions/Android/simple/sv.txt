@@ -1,0 +1,6 @@
+Simple Podcatcher: en gratis, elegant och lättanvänd podcastapplikation.
+
+Simple Podcatcher är en enkel men elegant podcastapplikation utformad för att hantera dina podcaster lätt.
+Utöver grundfunktioner som uppspelning kommer Podcatcher Deluxe med ett avancerat trekolumnsgränssnitt. En kolumn innehåller listan över prenumerationer på podcaster, den andra visar tillgängliga avsnitt (för den valda prenumerationen) och den tredje har detaljerade beskrivningar av podcastavsnitten. Det här gränssnittet fungerar särskilt bra på surfplattor och telefoner med stora skärmar. Åtskilliga flöden stöds med det här eleganta gränssnittet och du kan enkelt söka dem samtidigt som du spelar upp något. Den inbyggda podcastsökaren får igång dig snabbt.
+Simple Podcatcher är helt gratis och tillåter obegränsad streaming och nedladdning av podcastavsnitt. För spellistor, filter och många fler premiumfunktioner, kolla in Podcatcher Deluxe och Video Podcatcher Deluxe (båda är tillgängliga på Google Play).
+Se http://www.podcatcher-deluxe.com för länkar och mer information.

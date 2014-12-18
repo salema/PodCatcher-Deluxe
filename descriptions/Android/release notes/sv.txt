@@ -1,0 +1,6 @@
+- Podcastsynkronisering via Dropbox och gpodder.net
+- Stöd för Chromecast
+- Podcastkatalog sökning
+- Införde AppWidget
+- Uppdaterade ikoner och utseende
+- Massor av buggfixar och mindre förbättringar

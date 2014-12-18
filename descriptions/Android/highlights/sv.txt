@@ -1,0 +1,13 @@
+Höjdpunkter
+Både ljud- och bilduppspelning, möjlighet till fullskärmsläge
+Anpassningsbart gränssnitt, fungerar perfekt på både telefoner och surfplattor
+Återuppta uppspelning
+Inbyggd podcastkatalog
+Import och export av OPML-filer
+Integrering av notiser och låst skärm
+Stöd för ljudenheter med Bluetooth
+Egen hämtningsmapp
+Spellistor och filter
+Valfria automatiska hämtningar och automatiska raderingar
+Synkronisering vid Dropbox och gpodder.net
+Ingen reklam, ingen spårning

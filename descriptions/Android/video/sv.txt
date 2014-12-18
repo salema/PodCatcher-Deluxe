@@ -1,0 +1,6 @@
+Video Podcatcher Deluxe: en kraftfull, elegant och lättanvänd podcastapp.
+
+Video Podcatcher Deluxe är en komplett podcastapplikation för ljud och bild, utformad för att hantera dina podcaster enkelt i farten.
+Utöver grundfunktioner som uppspelning kommer Podcatcher Deluxe med ett avancerat trekolumnsgränssnitt. En kolumn innehåller listan över prenumerationer på podcaster, den andra visar tillgängliga avsnitt (för den valda prenumerationen) och den tredje har detaljerade beskrivningar av podcastavsnitten. Det här gränssnittet fungerar särskilt bra på surfplattor och telefoner med stora skärmar. Åtskilliga flöden stöds med det här eleganta gränssnittet och du kan enkelt söka dem samtidigt som du spelar upp något. Den inbyggda podcastsökaren får igång dig snabbt.
+Därtill tillåter premiumversionen hämtningar av avsnitt, att återuppta uppselning till senaste läge och stöd av avsnittsfilter (nya/gamla avsnitt). Den tillhandahåller också möjligheten att spela upp spellistor oavbrutet.
+Besök http://www.podcatcher-deluxe.com för ytterligare information.
