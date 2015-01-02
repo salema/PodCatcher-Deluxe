@@ -638,6 +638,15 @@
         "explicit": "No",
         "description": "Engadget en español." 
     }, {
+        "title": "Escape Pod",
+        "url": "http://escapepod.org/feed",
+        "language": "English",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "no",
+        "description": "The Science Fiction Podcast Magazine. Each week Escape Pod delivers science fiction short stories from today's best authors. Listen today, and hear the new sound of science fiction!",
+        "added": "02 Jan 2015"
+    }, {
         "title": "Es la Mañana de Federico",
         "url": "http://esradio.libertaddigital.com/es-la-manana-de-federico/podcast.xml",
         "language": "Spanish",
@@ -727,6 +736,15 @@
         "category": "Science & Medicine",
         "explicit": "Yes",
         "description": "Podcast de Geologia y Ciencias de la Tierra."
+    }, {
+        "title": "Hagmann & Hagmann Report",
+        "url": "http://www.blogtalkradio.com/cfp-radio.rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "The Hagmann & Hagmann Report provides listeners information about current events and historical topics that transcend the political right-left paradigm and delve into the real issues behind the sugar-coated news. This unique, father-son detective duo uses their investigative abilities and resources to aggressively research and report on issues left untouched by the corporate media and those that exist beyond the scope of the non-traditional media. The show addresses many issues once considered mere fodder for \"conspiracy theorists,\" tracing their roots from the various events that created them through the fabric of history to the present day.",
+        "added": "02 Jan 2015"
     }, {
         "title": "Happy Shooting",
         "url": "http://feeds.happyshooting.de/happyshooting",
@@ -1147,6 +1165,15 @@
         "explicit": "No",
         "description": "Money makes the world go around, faster and faster every day. On NPR's Planet Money, you'll meet high rollers, brainy economists and regular folks -- all trying to make sense of our rapidly changing global economy."
     }, {
+        "title": "PM Show with Robert Conrad",
+        "url": "http://feeds.feedburner.com/RobertConrad",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "CRN's \"PM SHOW with ROBERT CONRAD\" reaches a national audience on Cox Cable, Comcast Cables and radio stations and satellite operators coast to coast. Robert Conrad is a popular television actor and the star of, \"Wild, Wild West\", \"Ba Ba Black Sheep\", \"Hawaiian Eye\", and others. He talks about his views, thoughts and career in a lively 2 hour live national radio show.",
+        "added": "02 Jan 2015"
+    }, {
         "title": "People's Pharmacy",
         "url": "http://feeds.feedburner.com/ThePeoplesPharmacy",
         "language": "English",
@@ -1351,6 +1378,15 @@
         "description": "Sodajerker On Songwriting is a programme devoted to the art and craft of songwriting. The show, created and hosted by the UK songwriting team Sodajerker, features interviews with some of the most successful songwriters and musicians in the world.",
         "added": "15 Nov 2014"
     }, {
+        "title": "Soundcheck",
+        "url": "http://soundcheck.wnyc.org/feeds/shows/soundcheck",
+        "language": "English",
+        "type": "Audio",
+        "category": "Music",
+        "explicit": "No",
+        "description": "Soundcheck is WNYC’s destination for music fans to discover their ongoing personal soundtrack. It features insight from musicians, journalists and tastemakers, listener-created content, a blogger bullpen and daily Gig Alerts, plus in-studio performances representing what’s new and compelling in New York City.",
+        "added": "02 Jan 2015"
+    }, {
         "title": "Staatsbürgerkunde",
         "url": "http://www.staatsbuergerkunde-podcast.de/feed/mp3-rss",
         "language": "German",
@@ -1468,6 +1504,15 @@
         "description": "TV Host and Foodist Alton Brown chats with celebrities about their culinary passions, takes calls from listeners, and basically does whatever he flippin’ wants for 45 minutes.",
         "added": "28 Jul 2014"
     }, {
+        "title": "The Dan Patrick Show",
+        "url": "http://feeds.feedburner.com/DanPatrickShow",
+        "language": "English",
+        "type": "Audio",
+        "category": "Sports & Recreation",
+        "explicit": "No",
+        "description": "Listen to the Dan Patrick daily radio show. With exclusive insider access, Patrick brings A-list guests from the world of sports and entertainment to The Dan Patrick Show. Sharing his perspective on pop culture and sports, Patrick also brings a dose of humor to his fans.",
+        "added": "02 Jan 2015"
+    }, {
         "title": "The Joe Rogan Experience",
         "url": "http://joeroganexp.joerogan.libsynpro.com/irss",
         "language": "English",
@@ -1516,6 +1561,15 @@
         "category": "News & Politics",
         "explicit": "Yes",
         "description": "The Side Project Live is a libertarian talk show broadcasting from Morris, IL and Indianapolis, IN. Topics discussed range from health care, to horror movies, and anything in between."
+    }, {
+        "title": "The World and Everything in It",
+        "url": "http://www.worldmag.com/podcast/worldandeverything.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Religion & Spirituality",
+        "explicit": "No",
+        "description": "'The World and Everything in It' is a daily (Monday-Friday) audio news magazine produced by WORLD Radio. (We also produce a weekend edition.) Hosted by Nick Eicher and Joseph Slife, the program features reports, interviews, and analysis from WORLD News Group's editorial team. WORLD is your source for news and views presented from a biblical worldview perspective.",
+        "added": "02 Jan 2015"
     }, {
         "title": "The World of Phil Hendrie",
         "url": "http://feeds.soundcloud.com/users/soundcloud:users:36346811/sounds.rss",
