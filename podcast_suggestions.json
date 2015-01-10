@@ -1084,12 +1084,21 @@
         "description": "The Nerdgasm Noire Network is a group of 5 black women who love all things geeky. From books to anime to tv, we discuss what we love and hate. Click. Read. Listen. Enjoy."
     }, {
         "title": "Nerdist Podcast",
-        "url": "http://nerdist.libsyn.com/rss",
+        "url": "http://rss.earwolf.com/nerd-poker",
         "language": "English",
         "type": "Audio",
         "category": "Technology",
         "explicit": "Yes",
         "description": "I am Chris Hardwick. I am on TV a lot and have a blog at nerdist.com. This podcast is basically just me talking about stuff and things with my two nerdy friends Jonah Ray and Matt Mira, and usually someone more famous than all of us. Occasionally we swear because that is fun. I hope you like it."
+    }, {
+        "title": "Nerd Poker",
+        "url": "http://nerdist.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Each week, under dark of night, a group of warriors lead by Brian Posehn gather to play Dungeons & Dragons, and you're invited to attend!",
+        "added": "10 Jan 2015"
     }, {
         "title": "Newshour",
         "url": "http://downloads.bbc.co.uk/podcasts/worldservice/newshour/rss.xml",
@@ -1270,6 +1279,15 @@
         "category": "Education",
         "explicit": "No",
         "description": "radioWissen bietet eine Fülle unterschiedlicher Themen: Spannendes aus der Geschichte, Interessantes aus Literatur und Musik, Faszinierendes über Mythen, Menschen und Religionen, Erhellendes über Natur und Umwelt, Hintergründiges über aktuelle Themen im Gespräch. Die ganze Welt des Wissens - der radioWissen-Podcast liefert täglich ausgewählte Sendungen frei Haus - spannend erzählt, gut aufbereitet, nützlich für die Schule und bereichernd für alle Bildungsinteressierten."
+    }, {
+        "title": "Rationally Speaking",
+        "url": "http://nycskeptics.org/storage/feeds/rs.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Rationally Speaking is the bi-weekly podcast of New York City Skeptics. Join hosts Massimo Pigliucci and Julia Galef as they explore the borderlands between reason and nonsense, likely from unlikely, and science from pseudoscience. Any topic is fair game as long as we can bring reason to bear upon it, with both a skeptical eye and a good dose of humor!",
+        "added": "10 Jan 2015"
     }, {
         "title": "Revolutions",
         "url": "http://revolutionspodcast.libsyn.com/rss",
