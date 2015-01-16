@@ -845,6 +845,15 @@
         "explicit": "No",
         "description": "We love music. All kinds of music. You name it, we like it. But listening to the music isnt enough for us. Anyone can do that. Thats why we've launched Inside MusiCast. Because we know that behind great music are great session musicians, producers, writers and engineers that are the talent behind the talent. We dedicate our podcast to them and to you - the music enthusiasts who need to go beyond the liner notes. Welcome to Inside Musicast." 
     }, {
+        "title": "Invisibilia",
+        "url": "http://www.npr.org/rss/podcast.php?id=510307",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Invisibilia (Latin for all the invisible things) is about the invisible forces that control human behavior - ideas, beliefs, assumptions and emotions. Co-hosted by Lulu Miller and Alix Spiegel, Invisibilia interweaves narrative storytelling with scientific research that will ultimately make you see your own life differently.",
+        "added": "16 Jan 2015" 
+    }, {
         "title": "Jimmy Dore Show",
         "url": "http://feeds.feedburner.com/TheJimmyDoreShow",
         "language": "English",
@@ -1653,7 +1662,7 @@
         "type": "Audio",
         "category": "Arts",
         "explicit": "No",
-        "description": "CBC Radio's Q is Canada's liveliest arts, culture and entertainment magazine. It's a smart and surprising tour through personalities and cultural issues that matter to Canadians. Hosted by Jian Ghomeshi, with his trademark wit and spontaneity, Q covers pop culture and high arts alike, with forays into the most provocative and compelling cultural trends. Q brings you big names, big ideas, and those paving the way in Canada's cultural community. Q is your cultural intervention!"
+        "description": "CBC Radio's Q is Canada's liveliest arts, culture and entertainment magazine. Q covers pop culture and high arts alike, with forays into the most provocative and compelling cultural trends. Q brings you big names, big ideas, and those paving the way in Canada's cultural community. Q is your cultural intervention!"
     }, {
         "title": "Quirks and Quarks (CBC Radio)",
         "url": "http://www.cbc.ca/podcasting/includes/quirks.xml",
