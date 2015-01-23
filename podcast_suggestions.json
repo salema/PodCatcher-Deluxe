@@ -130,7 +130,8 @@
         "category": "News & Politics",
         "explicit": "No",
         "description": "Serial is a new podcast from the creators of This American Life, hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole season. The show follows the plot and characters wherever they lead, through many surprising twists and turns. Sarah won't know what happens at the end of the story until she gets there, not long before you get there with her. Each week she'll bring you the latest chapter, so it's important to listen in, starting with Episode 1. New episodes are released on Thursday mornings. Serial, like This American Life, is a production of WBEZ Chicago.",
-        "added": "09 Nov 2014"
+        "added": "09 Nov 2014",
+        "votes": "2"
     }, {
         "title": "Sonntagssoziologe",
         "url": "http://feeds.feedburner.com/sonntagssoziologe",
@@ -852,7 +853,8 @@
         "category": "Society & Culture",
         "explicit": "No",
         "description": "Invisibilia (Latin for all the invisible things) is about the invisible forces that control human behavior - ideas, beliefs, assumptions and emotions. Co-hosted by Lulu Miller and Alix Spiegel, Invisibilia interweaves narrative storytelling with scientific research that will ultimately make you see your own life differently.",
-        "added": "16 Jan 2015" 
+        "added": "16 Jan 2015",
+        "votes": "2"
     }, {
         "title": "Jimmy Dore Show",
         "url": "http://feeds.feedburner.com/TheJimmyDoreShow",
@@ -975,6 +977,15 @@
         "category": "Comedy",
         "explicit": "Yes",
         "description": "El Pelos y Sam Danko te traen una visión alternativa y urbana del humor, episodios divertidos e inesperados sobre lo actual, lo humano, y lo divino. Un podcast alternativo y único, no vinculado a ningún ente mediático, libre de censuras y tabús, y siempre, desde el respeto y la modulación..." 
+    }, {
+        "title": "Lost Skills Podcast",
+        "url": "http://lostskillspodcast.com/feed",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Helping you learn the skills to achieve self sufficiency and self reliance.",
+        "added": "23 Jan 2015"
     }, {
         "title": "Majority Report with Sam Seder",
         "url": "http://feeds.feedburner.com/MajorityReport",
@@ -1572,6 +1583,15 @@
         "category": "News & Politics",
         "explicit": "No",
         "description": "The Morning Stream, Mon thru Thurs, every morning, with Scott Johnson and the Frogpants Network. News, culture, politices and talk each and every day!"
+    }, {
+        "title": "The NoSleep Podcast",
+        "url": "http://nosleeppodcast.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "Yes",
+        "description": "The NoSleep Podcast is a multi-award winning anthology series of original horror stories, with rich atmospheric music to enhance the frightening tales.",
+        "added": "23 Jan 2015"
     }, {
         "title": "The Rachel Maddow Show",
         "url": "http://podcastfeeds.nbcnews.com/audio/podcast/MSNBC-MADDOW-NETCAST-M4V.xml",
