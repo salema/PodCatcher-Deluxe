@@ -172,7 +172,7 @@
         "type": "Audio",
         "category": "Society & Culture",
         "explicit": "No",
-        "votes": "4",
+        "votes": "5",
         "description": "\"This American Life\" is a weekly public radio show broadcast on more than 500 stations to about 1.7 million listeners. It is produced by Chicago Public Media, distributed by Public Radio International, and has won all of the major broadcasting awards. There’s a theme to each episode, and a variety of stories on that theme. It’s mostly true stories of everyday people, though not always. There’s lots more to the show, but it’s sort of hard to describe."
     }],
     "suggestions": [{
@@ -598,6 +598,15 @@
         "explicit": "No",
         "description": "Tapio Hakanen, better known by his stage name DJ Orkidea, is a Finnish electronic music artist. DJ Orkidea has been one of Scandinavia’s top DJs for over 10 years.",
         "added": "15 Dec 2014" 
+    }, {
+        "title": "Earth Eats",
+        "url": "http://feeds.feedburner.com/EarthEats",
+        "language": "English",
+        "type": "Audio",
+        "category": "Health",
+        "explicit": "No",
+        "description": "Earth Eats is a weekly program of real food and green living bringing you the freshest news and recipes inspired by seasonal ingredients and sustainable agriculture.",
+        "added": "27 Jan 2015"
     }, {
         "title": "Ecole Appli",
         "url": "http://feeds.feedburner.com/ecoleapplihd",
