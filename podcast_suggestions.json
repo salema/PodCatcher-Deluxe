@@ -1710,6 +1710,15 @@
         "explicit": "No",
         "description": "This Vergecast is your source for an irreverent and informative look at what's happening right now (and next) in the world of technology and gadgets. Hosted by Joshua Topolsky, Nilay Patel, and Paul Miller alongside a cavalcade of tech luminaries, TIMNP is the only podcast you need to make sense of the week in tech news."
     }, {
+        "title": "Vinyl Cafe Stories",
+        "url": "http://www.cbc.ca/podcasting/includes/vinylcafe.xml",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "CBC Radio presents the stories and misadventures of Dave, the owner of the \"Vinyl Cafe\", the world's smallest record store, where the motto is \"We may not be big, but we're small.\" The show also features Dave's wife, Morley, their two children, Sam and Stephanie and assorted friends and neighbours.",
+        "added": "05 Feb 2015"
+    }, {
         "title": "Von der Leyens",
         "url": "http://podcast.wdr.de/radio/vonderleyens.xml",
         "language": "German",
