@@ -963,6 +963,15 @@
         "explicit": "No",
         "description": "KCRW's weekly confrontation over politics, policy and popular culture." 
     }, {
+        "title": "Liderazgo Hoy",
+        "url": "http://feeds.feedburner.com/LiderazgoHoy",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "Liderazgo · Gerencia · Mercadeo · Crecimiento Personal",
+        "added": "14 Feb 2015"
+    }, {
         "title": "Linux Action Show!",
         "url": "http://feeds.feedburner.com/linuxactionshowipodvid",
         "language": "English",
@@ -1559,6 +1568,15 @@
         "explicit": "No",
         "description": "Listen to the Dan Patrick daily radio show. With exclusive insider access, Patrick brings A-list guests from the world of sports and entertainment to The Dan Patrick Show. Sharing his perspective on pop culture and sports, Patrick also brings a dose of humor to his fans.",
         "added": "02 Jan 2015"
+    }, {
+        "title": "The Hooray Show",
+        "url": "http://rss.earwolf.com/the-hooray-show",
+        "language": "English",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "Yes",
+        "description": "Ladies and gentlemen, welcome to The Hooray Show! Join your host Horatio Sanz and his producer Chad Krueger as they invite you into Bro Bro Studios where anything can happen. Expect some good ol chit chat with some of Horatios friends, special sketches, and maybe an appearance from Aaron Neville.",
+        "added": "14 Feb 2015"
     }, {
         "title": "The Joe Rogan Experience",
         "url": "http://joeroganexp.joerogan.libsynpro.com/irss",
