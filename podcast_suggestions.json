@@ -557,6 +557,15 @@
         "explicit": "Yes",
         "description": "Dave and Chuck the Freak featuring LIsa Way at Mornings on 101 WRIF, Detroit" 
     }, {
+        "title": "Death, Sex & Money",
+        "url": "http://www.wnyc.org/feeds/shows/deathsexmoney",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "A podcast about the big questions and hard choices that are often left out of polite conversation. Host Anna Sale talks to celebrities and regular people about relationships, money, family, work and making it all count while we're here.",
+        "added": "24 Feb 2015" 
+    }, {
         "title": "Democracy Now!",
         "url": "http://www.democracynow.org/podcast.xml",
         "language": "English",
@@ -880,6 +889,15 @@
         "category": "Education",
         "explicit": "No",
         "description": "Un journal qui présente l'actualité avec des mots simples et explique les évènements et leur contexte pour rendre l'information en français accessible à tous." 
+    }, {
+        "title": "Julia en la Onda",
+        "url": "http://www.ondacero.es/podcast_rss/1002799.xml",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Programa presentado por Julia Otero. Disfruta de sus secciones: crítica televisiva con Ferrán Monegal, las otras noticias en la Mesa de Redacción, análisis de la actualidad en Con un par y entrevistas a personas relevantes de la política, la cultura y la sociedad. Descárgate nuestros territorios Negro, Superpadres y el Comanche y nuestra sección emblemática El Gabinete.",
+        "added": "24 Feb 2015"
     }, {
         "title": "The John Batchelor Show",
         "url": "http://batchelorshow.libsyn.com/rss",
