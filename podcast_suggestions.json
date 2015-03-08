@@ -148,7 +148,8 @@
         "type": "Audio",
         "category": "Music",
         "explicit": "No",
-        "description": "Take two nationally respected rock critics, the latest music news, personal commentary, and exclusive interviews and performances, add a huge pile of records old and new, and the result is Sound Opinions — the world's only rock and roll talk show."
+        "description": "Take two nationally respected rock critics, the latest music news, personal commentary, and exclusive interviews and performances, add a huge pile of records old and new, and the result is Sound Opinions — the world's only rock and roll talk show.",
+        "votes": "2"
     }, {
         "title": "TED Talks",
         "url": "http://feeds.feedburner.com/tedtalks_video",
