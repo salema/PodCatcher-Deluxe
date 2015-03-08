@@ -558,6 +558,15 @@
         "explicit": "Yes",
         "description": "Dave and Chuck the Freak featuring LIsa Way at Mornings on 101 WRIF, Detroit" 
     }, {
+        "title": "Death, Sex & Money",
+        "url": "http://www.wnyc.org/feeds/shows/deathsexmoney",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "A podcast about the big questions and hard choices that are often left out of polite conversation. Host Anna Sale talks to celebrities and regular people about relationships, money, family, work and making it all count while we're here.",
+        "added": "24 Feb 2015" 
+    }, {
         "title": "Democracy Now!",
         "url": "http://www.democracynow.org/podcast.xml",
         "language": "English",
@@ -599,6 +608,15 @@
         "explicit": "No",
         "description": "Tapio Hakanen, better known by his stage name DJ Orkidea, is a Finnish electronic music artist. DJ Orkidea has been one of Scandinavia’s top DJs for over 10 years.",
         "added": "15 Dec 2014" 
+    }, {
+        "title": "Dr. Drew's Loveline",
+        "url": "http://www.podcastone.com/podcast?categoryID2=519",
+        "language": "English",
+        "type": "Audio",
+        "category": "Science & Medicine",
+        "explicit": "No",
+        "description": "Loveline is a syndicated radio call in program in North America, offering medical and relationship advice to listeners, often with the assistance of guests, typically actors and musicians. Its flagship station is KROQ-FM in Los Angeles. Its hosts are Dr. Drew Pinsky and Mike Catherwood.",
+        "added": "02 Mar 2015" 
     }, {
         "title": "Earth Eats",
         "url": "http://feeds.feedburner.com/EarthEats",
@@ -748,6 +766,15 @@
         "explicit": "Yes",
         "description": "Podcast de Geologia y Ciencias de la Tierra."
     }, {
+        "title": "Good Job, Brain!",
+        "url": "http://goodjobbrain.libsyn.com/rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Games & Hobbies",
+        "explicit": "No",
+        "description": "Part quiz show, part offbeat news, and all awesome. We here are nuts about trivia and pub quiz! And we are darn sure there are people out there who share our unusual obsession. Play along and laugh along as Karen, Colin, Dana, and Chris school each other on some of the weirdest and most interesting facts about our funny little world.",
+        "added": "02 Mar 2015"
+    }, {
         "title": "Hagmann & Hagmann Report",
         "url": "http://www.blogtalkradio.com/cfp-radio.rss",
         "language": "English",
@@ -882,6 +909,15 @@
         "explicit": "No",
         "description": "Un journal qui présente l'actualité avec des mots simples et explique les évènements et leur contexte pour rendre l'information en français accessible à tous." 
     }, {
+        "title": "Julia en la Onda",
+        "url": "http://www.ondacero.es/podcast_rss/1002799.xml",
+        "language": "Spanish",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Programa presentado por Julia Otero. Disfruta de sus secciones: crítica televisiva con Ferrán Monegal, las otras noticias en la Mesa de Redacción, análisis de la actualidad en Con un par y entrevistas a personas relevantes de la política, la cultura y la sociedad. Descárgate nuestros territorios Negro, Superpadres y el Comanche y nuestra sección emblemática El Gabinete.",
+        "added": "24 Feb 2015"
+    }, {
         "title": "The John Batchelor Show",
         "url": "http://batchelorshow.libsyn.com/rss",
         "language": "English",
@@ -963,6 +999,15 @@
         "category": "News & Politics",
         "explicit": "No",
         "description": "KCRW's weekly confrontation over politics, policy and popular culture." 
+    }, {
+        "title": "Liberation Radio",
+        "url": "http://feeds.feedburner.com/LiberationRadio",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "Liberation Radio brings you a Marxist perspective through interviews, presentations and news coverage. Liberation Radio is produced by the Party for Socialism and Liberation.",
+        "added": "02 Mar 2015"
     }, {
         "title": "Liderazgo Hoy",
         "url": "http://feeds.feedburner.com/LiderazgoHoy",
@@ -1476,6 +1521,15 @@
         "explicit": "No",
         "description": "How does dueling work? Was Noah's Ark real? Join Josh and Chuck as they break down everything from Zorro to zoot suits in the Stuff You Should Know, a podcast from HowStuffWorks.com."
     }, {
+        "title": "Stuff You Missed in History Class",
+        "url": "http://www.howstuffworks.com/podcasts/stuff-you-missed-in-history-class.rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "Society & Culture",
+        "explicit": "No",
+        "description": "What's the history of Plessy vs Ferguson? Who was the father of plastics? Join Holly and Tracy as they bring you the greatest and strangest Stuff You Missed In History Class in this podcast by HowStuffWorks.com.",
+        "added": "02 Mar 2015"
+    }, {
         "title": "Slate's The Gist with Mike Pesca",
         "url": "http://feeds.feedburner.com/TheGistWithMikePesca",
         "language": "English",
@@ -1560,6 +1614,15 @@
         "explicit": "No",
         "description": "TV Host and Foodist Alton Brown chats with celebrities about their culinary passions, takes calls from listeners, and basically does whatever he flippin’ wants for 45 minutes.",
         "added": "28 Jul 2014"
+    }, {
+        "title": "The British History Podcast",
+        "url": "http://feeds.feedburner.com/TheBritishHistoryPodcast",
+        "language": "English",
+        "type": "Audio",
+        "category": "Education",
+        "explicit": "No",
+        "description": "The BHP is a chronological retelling of the history of Britain with a particular focus upon the lives of the people. You won't find a dry recounting of dates and battles here, but instead you'll learn about who these people were and how their desires, fears, and flaws shaped the scope of this island at the edge of the world.",
+        "added": "02 Mar 2015"
     }, {
         "title": "The Dan Patrick Show",
         "url": "http://feeds.feedburner.com/DanPatrickShow",
