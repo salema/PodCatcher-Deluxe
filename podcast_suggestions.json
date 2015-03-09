@@ -1615,6 +1615,15 @@
         "description": "TV Host and Foodist Alton Brown chats with celebrities about their culinary passions, takes calls from listeners, and basically does whatever he flippin’ wants for 45 minutes.",
         "added": "28 Jul 2014"
     }, {
+        "title": "The Bubble Genius Bob and Chez Show",
+        "url": "http://www.bobcesca.com/podcast/bobandelvis.rss",
+        "language": "English",
+        "type": "Audio",
+        "category": "News & Politics",
+        "explicit": "No",
+        "description": "The Bob and Chez Show, hosted by popular liberal Huffington Post contributor Bob Cesca and former-CNN producer turned blogger Chez Pazienza, combines incisive progressive/liberal political talk and hilarious personal stories from two bloggers knee-deep in the trenches of the American political debate.",
+        "added": "09 Mar 2015"
+    }, {
         "title": "The British History Podcast",
         "url": "http://feeds.feedburner.com/TheBritishHistoryPodcast",
         "language": "English",
@@ -1649,6 +1658,15 @@
         "category": "Comedy",
         "explicit": "Yes",
         "description": "Conduit to the Gaian Mind."
+    }, {
+        "title": "The Longest Shortest Time",
+        "url": "http://feeds.wnyc.org/longestshortesttime",
+        "language": "English",
+        "type": "Audio",
+        "category": "Kids & Family",
+        "explicit": "No",
+        "description": "A bold, daring show about parenthood and childhood with This American Life contributor Hillary Frank.",
+        "added": "09 Mar 2015"
     }, {
         "title": "The Memory Palace",
         "url": "http://feeds.feedburner.com/TheMemoryPalace",
