@@ -667,6 +667,15 @@
         "explicit": "No",
         "description": "Engadget en español." 
     }, {
+        "title": "Es lebe die Liebe",
+        "url": "http://www1.swr.de/podcast/xml/swr1/bw/es-lebe-die-liebe.xml",
+        "language": "German",
+        "type": "Audio",
+        "category": "Comedy",
+        "explicit": "No",
+        "description": "Tom liebt Tina und Tina liebt Tom - wären da nicht die kleinen Liebes-Problemchen im Alltag, die die beiden (fast immer) gelöst bekommen.",
+        "added" : "17 Mar 2015"
+    }, {
         "title": "Escape Pod",
         "url": "http://escapepod.org/feed",
         "language": "English",
@@ -1835,6 +1844,16 @@
         "explicit": "No",
         "votes": "2",
         "description": "NPR's weekly current events quiz. Have a laugh and test your news knowledge while figuring out what's real and what we've made up."
+    }, {
+        "title": "WDR Hörspielspeicher",
+        "url": "http://www1.wdr.de/radio/podcasts/hoerspielspeicher/wdr_hoerspielspeicher150.podcast",
+        "language": "German",
+        "type": "Audio",
+        "category": "Arts",
+        "explicit": "No",
+        "description": "Im Podcast des WDR Hörspielspeichers abonnieren Sie kostenlos die meisten unserer Hörspiele - ob Krimi oder Soundcollage, Pophörspiel oder literarische Wortkunst. Hörspiel aus 1LIVE, WDR3, WDR5 - als Download oder Stream.",
+        "added": "17 Mar 2015",
+        "votes": "2"
     }, {
         "title": "Welcome to Night Vale",
         "url": "http://feeds.feedburner.com/WelcomeToNightVale",
