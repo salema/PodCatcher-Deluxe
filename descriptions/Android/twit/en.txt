@@ -1,3 +1,16 @@
 Netcasts you love, from people you trust. All in one neat app.
 
-All Podcasts from the TWiT Network in one powerful, yet simple app. Based on the tried and tested Podcatcher Deluxe platform, this app makes it very easy to enjoy, stream, and download all TWiT shows.
+All shows from the TWiT Network in one powerful, yet simple app.
+Based on the tried and tested Podcatcher Deluxe platform, this app makes it very easy to enjoy, stream, and download all your favorite TWiT shows. This Week in Tech, The New Screen Savers, Security Now!, MacBreak Weekly, and all the other shows are readily available from the curated in-app catalogue and the feed selection feature will make sure that you get the format that is right for you.
+
+Highlights
+Both audio and video playback, fullscreen option
+Adaptive layout, works great on both phones and tablets
+Resume playback
+Notification and lock screen integration
+Support for Bluetooth audio devices
+Custom download folder
+Playlists and filters
+Optional auto-downloads and auto-deletes
+Synchronization via gpodder.net
+No ads, no tracking
