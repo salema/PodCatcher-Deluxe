@@ -4,10 +4,12 @@ Für Smartphones und Tablets optimiert
 Wiederaufnahme beim letzten Abspielpunkt 
 Integrierter Podcastkatalog
 Import und Export von OPML-Dateien
-Integration in Systemnachrichten und Sperrbildschirme
+Erkennt Android Wear und Android Auto
 Unterstützung für Bluetooth Headsets
 Anpassbarer Download-Ordner
 Wiedergabelisten und Filter
 Auto-Download und -Löschen
 Synchronisation via Dropbox und gpodder.net
+Podlove Kapitel und Paged Feeds
+Integration des MX Player Pro
 Keine Werbung, kein Tracking

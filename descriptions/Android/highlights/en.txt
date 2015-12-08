@@ -4,10 +4,11 @@ Adaptive layout, works great on both phones and tablets
 Resume playback 
 Integrated podcast catalog
 OPML file import and export
-Notification and lock screen integration
+Works with Android Wear and Android Auto
 Support for Bluetooth audio devices
 Custom download folder
 Playlists and filters
 Optional auto-downloads and auto-deletes
 Synchronization via Dropbox and gpodder.net
+MX Player Pro integration
 No ads, no tracking
